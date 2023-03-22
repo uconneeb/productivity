@@ -9,6 +9,7 @@ faculty = [
     'Davis',
     'Elphick',
     'Fusco',
+    'Goffinet',
     'LewisL',
     'LewisP',
     'Schwenk',
@@ -16,16 +17,17 @@ faculty = [
 ]
 
 filepaths = {
-    'Bagchi':  'Robert-Bagchi-combined.json',
-    'Bolnick': 'Daniel-Bolnick-combined.json',
-    'Cooley':  'John-Cooley-combined.json',
-    'Davis':   'Miranda-Davis-combined.json',
-    'Elphick': 'Chris-Elphick-combined.json',
-    'Fusco':   'Nicole-Fusco-combined.json',
-    'LewisL':  'Louise-Lewis-combined.json',
-    'LewisP':  'Paul-Lewis-combined.json',
-    'Schwenk': 'Kurt-Schwenk-combined.json',
-    'Trumbo':  'Stephen-Trumbo-combined.json'
+    'Bagchi':   'Robert-Bagchi-combined.json',
+    'Bolnick':  'Daniel-Bolnick-combined.json',
+    'Cooley':   'John-Cooley-combined.json',
+    'Davis':    'Miranda-Davis-combined.json',
+    'Elphick':  'Chris-Elphick-combined.json',
+    'Fusco':    'Nicole-Fusco-combined.json',
+    'Goffinet': 'Bernard-Goffinet-combined.json',
+    'LewisL':   'Louise-Lewis-combined.json',
+    'LewisP':   'Paul-Lewis-combined.json',
+    'Schwenk':  'Kurt-Schwenk-combined.json',
+    'Trumbo':   'Stephen-Trumbo-combined.json'
 }
 
 def dumpException(exceptf, f, a, y, t, j, v, b, e, doi):
@@ -134,6 +136,9 @@ for f in faculty:
             elif booktitle and bookeditors and bookpublisher and bookcity and bpage and epage:
                 ischapter = True
                 bib += ' pp. %s-%s in: %s, %s (eds.) %s, %s' % (bpage, epage, booktitle, bookeditors, bookpublisher, bookcity)
+            elif booktitle and bookeditors and bookpublisher and bpage and epage:
+                ischapter = True
+                bib += ' pp. %s-%s in: %s, %s (eds.) %s' % (bpage, epage, booktitle, bookeditors, bookpublisher)
             else:
                 exception = True
             if doi:
