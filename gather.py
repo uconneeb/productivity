@@ -10,24 +10,28 @@ faculty = [
     'Elphick',
     'Fusco',
     'Goffinet',
+    'Holsinger',
     'LewisL',
     'LewisP',
+    'Schultz',
     'Schwenk',
     'Trumbo'
 ]
 
 filepaths = {
-    'Bagchi':   'Robert-Bagchi-combined.json',
-    'Bolnick':  'Daniel-Bolnick-combined.json',
-    'Cooley':   'John-Cooley-combined.json',
-    'Davis':    'Miranda-Davis-combined.json',
-    'Elphick':  'Chris-Elphick-combined.json',
-    'Fusco':    'Nicole-Fusco-combined.json',
-    'Goffinet': 'Bernard-Goffinet-combined.json',
-    'LewisL':   'Louise-Lewis-combined.json',
-    'LewisP':   'Paul-Lewis-combined.json',
-    'Schwenk':  'Kurt-Schwenk-combined.json',
-    'Trumbo':   'Stephen-Trumbo-combined.json'
+    'Bagchi':    'Robert-Bagchi-combined.json',
+    'Bolnick':   'Daniel-Bolnick-combined.json',
+    'Cooley':    'John-Cooley-combined.json',
+    'Davis':     'Miranda-Davis-combined.json',
+    'Elphick':   'Chris-Elphick-combined.json',
+    'Fusco':     'Nicole-Fusco-combined.json',
+    'Goffinet':  'Bernard-Goffinet-combined.json',
+    'Holsinger': 'Kent-Holsinger-combined.json',
+    'LewisL':    'Louise-Lewis-combined.json',
+    'LewisP':    'Paul-Lewis-combined.json',
+    'Schultz':   'Eric-Schultz-combined.json',
+    'Schwenk':   'Kurt-Schwenk-combined.json',
+    'Trumbo':    'Stephen-Trumbo-combined.json'
 }
 
 def dumpException(exceptf, f, a, y, t, j, v, b, e, doi):
