@@ -15,6 +15,7 @@ faculty = [
     'LewisP',
     'Schultz',
     'Schwenk',
+    'Seemann',
     'Trumbo'
 ]
 
@@ -31,6 +32,7 @@ filepaths = {
     'LewisP':    'Paul-Lewis-combined.json',
     'Schultz':   'Eric-Schultz-combined.json',
     'Schwenk':   'Kurt-Schwenk-combined.json',
+    'Seemann':   'Jeff-Seemann-combined.json',
     'Trumbo':    'Stephen-Trumbo-combined.json'
 }
 
