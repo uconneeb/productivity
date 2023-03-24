@@ -12,7 +12,8 @@
         "number": "6",
         "bpage": "1864",
         "epage": "1871",
-        "article": null
+        "article": null,
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -27,6 +28,7 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "546"
+        "article": "546",
+        "ncites": "1"
     }
 ]

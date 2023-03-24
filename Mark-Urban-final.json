@@ -12,7 +12,8 @@
         "number": "1",
         "bpage": "91",
         "epage": "104",
-        "article": null
+        "article": null,
+        "ncites": "12"
     },
     {
         "ignore": false,
@@ -27,7 +28,8 @@
         "number": "1",
         "bpage": "91",
         "epage": "104",
-        "article": null
+        "article": null,
+        "ncites": "5"
     },
     {
         "ignore": false,
@@ -42,7 +44,8 @@
         "number": "10",
         "bpage": "3222",
         "epage": "3235",
-        "article": null
+        "article": null,
+        "ncites": "4"
     },
     {
         "ignore": false,
@@ -57,7 +60,8 @@
         "number": null,
         "bpage": "299",
         "epage": "326",
-        "article": null
+        "article": null,
+        "ncites": "4"
     },
     {
         "ignore": false,
@@ -72,7 +76,8 @@
         "number": "7",
         "bpage": null,
         "epage": null,
-        "article": "e3696"
+        "article": "e3696",
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -87,7 +92,8 @@
         "number": "11",
         "bpage": null,
         "epage": null,
-        "article": "e08978"
+        "article": "e08978",
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -102,7 +108,8 @@
         "number": "3",
         "bpage": "274",
         "epage": "284",
-        "article": null
+        "article": null,
+        "ncites": "18"
     },
     {
         "ignore": false,
@@ -117,7 +124,8 @@
         "number": "1803",
         "bpage": null,
         "epage": null,
-        "article": "20142879"
+        "article": "20142879",
+        "ncites": "31"
     },
     {
         "ignore": false,
@@ -132,7 +140,8 @@
         "number": "1",
         "bpage": "E16",
         "epage": "E32",
-        "article": null
+        "article": null,
+        "ncites": "31"
     },
     {
         "ignore": false,
@@ -147,7 +156,8 @@
         "number": "6234",
         "bpage": "571",
         "epage": "573",
-        "article": null
+        "article": null,
+        "ncites": "1783"
     },
     {
         "ignore": false,
@@ -162,7 +172,8 @@
         "number": "9",
         "bpage": "858",
         "epage": "870",
-        "article": null
+        "article": null,
+        "ncites": "45"
     },
     {
         "ignore": false,
@@ -177,7 +188,8 @@
         "number": "9",
         "bpage": "2212",
         "epage": "2222",
-        "article": null
+        "article": null,
+        "ncites": "37"
     },
     {
         "ignore": false,
@@ -192,7 +204,8 @@
         "number": "1",
         "bpage": "1",
         "epage": "8",
-        "article": null
+        "article": null,
+        "ncites": "97"
     },
     {
         "ignore": false,
@@ -207,7 +220,8 @@
         "number": "2",
         "bpage": "136",
         "epage": "146",
-        "article": null
+        "article": null,
+        "ncites": "200"
     },
     {
         "ignore": false,
@@ -222,7 +236,8 @@
         "number": "6304",
         "bpage": null,
         "epage": null,
-        "article": "aad8466"
+        "article": "aad8466",
+        "ncites": "802"
     },
     {
         "ignore": false,
@@ -237,7 +252,8 @@
         "number": "3",
         "bpage": "451",
         "epage": "461",
-        "article": null
+        "article": null,
+        "ncites": "18"
     },
     {
         "ignore": false,
@@ -252,7 +268,8 @@
         "number": "1",
         "bpage": "134",
         "epage": "147",
-        "article": null
+        "article": null,
+        "ncites": "36"
     },
     {
         "ignore": false,
@@ -267,7 +284,8 @@
         "number": "1",
         "bpage": "12",
         "epage": "24",
-        "article": null
+        "article": null,
+        "ncites": "60"
     },
     {
         "ignore": false,
@@ -282,7 +300,8 @@
         "number": "10",
         "bpage": "786",
         "epage": "800",
-        "article": null
+        "article": null,
+        "ncites": "117"
     },
     {
         "ignore": false,
@@ -297,7 +316,8 @@
         "number": "1",
         "bpage": "439",
         "epage": "454",
-        "article": null
+        "article": null,
+        "ncites": "34"
     },
     {
         "ignore": false,
@@ -312,7 +332,8 @@
         "number": "1",
         "bpage": "291",
         "epage": "302",
-        "article": null
+        "article": null,
+        "ncites": "14"
     },
     {
         "ignore": false,
@@ -327,7 +348,8 @@
         "number": "10",
         "bpage": "1687",
         "epage": "1697",
-        "article": null
+        "article": null,
+        "ncites": "13"
     },
     {
         "ignore": false,
@@ -342,7 +364,8 @@
         "number": "47",
         "bpage": "11871",
         "epage": "11873",
-        "article": null
+        "article": null,
+        "ncites": "52"
     },
     {
         "ignore": false,
@@ -357,7 +380,8 @@
         "number": "1",
         "bpage": "43",
         "epage": "59",
-        "article": null
+        "article": null,
+        "ncites": "67"
     },
     {
         "ignore": false,
@@ -372,7 +396,8 @@
         "number": "4",
         "bpage": null,
         "epage": null,
-        "article": "e585"
+        "article": "e585",
+        "ncites": "22"
     },
     {
         "ignore": false,
@@ -387,7 +412,8 @@
         "number": "7",
         "bpage": "1280",
         "epage": "1297",
-        "article": null
+        "article": null,
+        "ncites": "112"
     },
     {
         "ignore": false,
@@ -402,7 +428,8 @@
         "number": "4",
         "bpage": "590",
         "epage": "612",
-        "article": null
+        "article": null,
+        "ncites": "11"
     },
     {
         "ignore": false,
@@ -417,11 +444,12 @@
         "number": "7",
         "bpage": "2612",
         "epage": "2617",
-        "article": null
+        "article": null,
+        "ncites": "32"
     },
     {
         "ignore": false,
-        "authors": "A Jeliazkov, D Mijatovic, S Chantepie, N Andrew, R Arlettaz, L Barbaro, N Barsoum, A Bartonova, E Belskaya, N Bonada, A Brind’Amour, R Carvalho, H Castro, D Chmura, P Choler, K Chong-Seng, D Cleary, A Cormont, W Cornwell, R de Campos, N de Voogd, S Doledec, J Drew, F Dziock, A Eallonardo, M J Edgar, F Farneda, DF Hernandez, D Frenette-Dussault, G Fried, B Gallardo, H Gibb, T Gonç\u00e7alves-Souza, J Higuti, JY Humbert, BR Krasnov, E Le Saux, Z Lindo, A Lopez-Baucells, E Lowe, B Marteinsdottir, K Martens, P Meffert, A Mellado-Díaz, MHM Menz, CFJ Meyer, JR Miranda, D Mouillot, A Ossola, R Pakeman, S Pavoine, B Pekin, J Pino, A Pocheville, F Pomati, P Poschlod, HC Prentice, O Purschke, V Raevel, T Reitalu, W Renema, I Ribera, N Robinson, B Robroek, R Rocha, SH Shieh, R Spake, M Staniaszek-Kik, M Stanko, FL Tejerina-Garro, C ter Braak, MC Urban, R van Klink, S Villeger, R Wegman, MJ Westgate, J Wolff, J \u017carnowiec, M Zolotarev, JM Chase",
+        "authors": "A Jeliazkov, D Mijatovic, S Chantepie, N Andrew, R Arlettaz, L Barbaro, N Barsoum, A Bartonova, E Belskaya, N Bonada, A Brind\u2019Amour, R Carvalho, H Castro, D Chmura, P Choler, K Chong-Seng, D Cleary, A Cormont, W Cornwell, R de Campos, N de Voogd, S Doledec, J Drew, F Dziock, A Eallonardo, M J Edgar, F Farneda, DF Hernandez, D Frenette-Dussault, G Fried, B Gallardo, H Gibb, T Gon\u00e7alves-Souza, J Higuti, JY Humbert, BR Krasnov, E Le Saux, Z Lindo, A Lopez-Baucells, E Lowe, B Marteinsdottir, K Martens, P Meffert, A Mellado-D\u00edaz, MHM Menz, CFJ Meyer, JR Miranda, D Mouillot, A Ossola, R Pakeman, S Pavoine, B Pekin, J Pino, A Pocheville, F Pomati, P Poschlod, HC Prentice, O Purschke, V Raevel, T Reitalu, W Renema, I Ribera, N Robinson, B Robroek, R Rocha, SH Shieh, R Spake, M Staniaszek-Kik, M Stanko, FL Tejerina-Garro, C ter Braak, MC Urban, R van Klink, S Villeger, R Wegman, MJ Westgate, J Wolff, J \u017carnowiec, M Zolotarev, JM Chase",
         "year": 2020,
         "title": "A global database for metacommunity ecology, integrating species, traits, environment and space",
         "citation_id": "8aJp2VQAAAAJ:D03iK_w7-QYC",
@@ -432,7 +460,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "6"
+        "article": "6",
+        "ncites": "34"
     },
     {
         "ignore": false,
@@ -447,7 +476,8 @@
         "number": "12",
         "bpage": "1791",
         "epage": "1800",
-        "article": null
+        "article": null,
+        "ncites": "22"
     },
     {
         "ignore": false,
@@ -462,7 +492,8 @@
         "number": null,
         "bpage": "909",
         "epage": "918",
-        "article": null
+        "article": null,
+        "ncites": "5"
     },
     {
         "ignore": false,
@@ -477,7 +508,8 @@
         "number": "9",
         "bpage": "772",
         "epage": "793",
-        "article": null
+        "article": null,
+        "ncites": "65"
     },
     {
         "ignore": false,
@@ -492,7 +524,8 @@
         "number": "1938",
         "bpage": null,
         "epage": null,
-        "article": "20201665"
+        "article": "20201665",
+        "ncites": "4"
     },
     {
         "ignore": false,
@@ -507,7 +540,8 @@
         "number": "5",
         "bpage": "382",
         "epage": "384",
-        "article": null
+        "article": null,
+        "ncites": "31"
     },
     {
         "ignore": false,
@@ -522,7 +556,8 @@
         "number": "44",
         "bpage": "27456",
         "epage": "27464",
-        "article": null
+        "article": null,
+        "ncites": "204"
     },
     {
         "ignore": false,
@@ -537,7 +572,8 @@
         "number": "30",
         "bpage": "17482",
         "epage": "17490",
-        "article": null
+        "article": null,
+        "ncites": "56"
     },
     {
         "ignore": false,
@@ -552,7 +588,8 @@
         "number": "6479",
         "bpage": "719",
         "epage": "719",
-        "article": null
+        "article": null,
+        "ncites": "2"
     },
     {
         "ignore": false,
@@ -567,7 +604,8 @@
         "number": null,
         "bpage": "2138",
         "epage": "2155",
-        "article": null
+        "article": null,
+        "ncites": "9"
     },
     {
         "ignore": false,
@@ -582,7 +620,8 @@
         "number": "1",
         "bpage": "248",
         "epage": "267",
-        "article": null
+        "article": null,
+        "ncites": "69"
     },
     {
         "ignore": false,
@@ -597,7 +636,8 @@
         "number": "4",
         "bpage": null,
         "epage": null,
-        "article": "20200901"
+        "article": "20200901",
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -612,7 +652,8 @@
         "number": null,
         "bpage": "369",
         "epage": "382",
-        "article": null
+        "article": null,
+        "ncites": "3"
     },
     {
         "ignore": false,
@@ -627,7 +668,8 @@
         "number": "10",
         "bpage": "1001",
         "epage": "1003",
-        "article": null
+        "article": null,
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -642,7 +684,8 @@
         "number": "1945",
         "bpage": null,
         "epage": null,
-        "article": "20203133"
+        "article": "20203133",
+        "ncites": "7"
     },
     {
         "ignore": false,
@@ -657,7 +700,8 @@
         "number": "11",
         "bpage": null,
         "epage": null,
-        "article": "e03488"
+        "article": "e03488",
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -672,7 +716,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "27 Feb 2023"
+        "article": "27 Feb 2023",
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -687,6 +732,7 @@
         "number": "2",
         "bpage": "431",
         "epage": "443",
-        "article": null
+        "article": null,
+        "ncites": "15"
     }
 ]

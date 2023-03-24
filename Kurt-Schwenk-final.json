@@ -12,7 +12,8 @@
         "number": "4",
         "bpage": "852",
         "epage": "864",
-        "article": null
+        "article": null,
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -27,7 +28,8 @@
         "number": "10",
         "bpage": null,
         "epage": null,
-        "article": "jeb243102"
+        "article": "jeb243102",
+        "ncites": "2"
     },
     {
         "ignore": false,
@@ -42,7 +44,8 @@
         "number": "1968",
         "bpage": null,
         "epage": null,
-        "article": "20211918"
+        "article": "20211918",
+        "ncites": "9"
     },
     {
         "ignore": false,
@@ -57,7 +60,8 @@
         "number": "5",
         "bpage": "309",
         "epage": "317",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -72,7 +76,8 @@
         "number": "1",
         "bpage": "127",
         "epage": "145",
-        "article": null
+        "article": null,
+        "ncites": "5"
     },
     {
         "ignore": false,
@@ -87,7 +92,8 @@
         "number": "5",
         "bpage": null,
         "epage": null,
-        "article": "jeb219311"
+        "article": "jeb219311",
+        "ncites": "4"
     },
     {
         "ignore": false,
@@ -102,7 +108,8 @@
         "number": "1921",
         "bpage": null,
         "epage": null,
-        "article": "20192888"
+        "article": "20192888",
+        "ncites": "9"
     },
     {
         "ignore": false,
@@ -122,6 +129,7 @@
         "bookisbn": "1433823489",
         "bpage": "787",
         "epage": "814",
-        "article": null
+        "article": null,
+        "ncites": "2"
     }
 ]

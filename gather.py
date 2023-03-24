@@ -22,22 +22,22 @@ faculty = [
 ]
 
 filepaths = {
-    'Bagchi':    'Robert-Bagchi-combined.json',
-    'Bolnick':   'Daniel-Bolnick-combined.json',
-    'Cooley':    'John-Cooley-combined.json',
-    'Davis':     'Miranda-Davis-combined.json',
-    'Elphick':   'Chris-Elphick-combined.json',
-    'Fusco':     'Nicole-Fusco-combined.json',
-    'Goffinet':  'Bernard-Goffinet-combined.json',
-    'Holsinger': 'Kent-Holsinger-combined.json',
-    'LewisL':    'Louise-Lewis-combined.json',
-    'LewisP':    'Paul-Lewis-combined.json',
-    'Schultz':   'Eric-Schultz-combined.json',
-    'Schwenk':   'Kurt-Schwenk-combined.json',
-    'Seemann':   'Jeff-Seemann-combined.json',
-    'Trumbo':    'Stephen-Trumbo-combined.json',
-    'Urban':     'Mark-Urban-combined.json',
-    'Wegrzyn':     'Jill-Wegrzyn-combined.json'
+    'Bagchi':    'Robert-Bagchi-final.json',
+    'Bolnick':   'Daniel-Bolnick-final.json',
+    'Cooley':    'John-Cooley-final.json',
+    'Davis':     'Miranda-Davis-final.json',
+    'Elphick':   'Chris-Elphick-final.json',
+    'Fusco':     'Nicole-Fusco-final.json',
+    'Goffinet':  'Bernard-Goffinet-final.json',
+    'Holsinger': 'Kent-Holsinger-final.json',
+    'LewisL':    'Louise-Lewis-final.json',
+    'LewisP':    'Paul-Lewis-final.json',
+    'Schultz':   'Eric-Schultz-final.json',
+    'Schwenk':   'Kurt-Schwenk-final.json',
+    'Seemann':   'Jeff-Seemann-final.json',
+    'Trumbo':    'Stephen-Trumbo-final.json',
+    'Urban':     'Mark-Urban-final.json',
+    'Wegrzyn':     'Jill-Wegrzyn-final.json'
 }
 
 def dumpException(exceptf, f, a, y, t, j, v, b, e, doi):

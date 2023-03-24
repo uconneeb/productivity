@@ -3,7 +3,7 @@
         "ignore": false,
         "authors": "J Bator, DC Marshall, KBR Hill, JR Cooley, A Leston, C Simon",
         "year": 2022,
-        "title": "Phylogeography of the endemic red-tailed cicadas of New Zealand (Hemiptera: Cicadidae: Rhodopsalta), and molecular, morphological and bioacoustical confirmation of the existence of Hudson’s _Rhodopsalta microdora_",
+        "title": "Phylogeography of the endemic red-tailed cicadas of New Zealand (Hemiptera: Cicadidae: Rhodopsalta), and molecular, morphological and bioacoustical confirmation of the existence of Hudson\u2019s _Rhodopsalta microdora_",
         "citation_id": "aXo5yZYAAAAJ:u_35RYKgDlwC",
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=aXo5yZYAAAAJ&sortby=pubdate&citation_for_view=aXo5yZYAAAAJ:u_35RYKgDlwC",
         "doi": "10.1093/zoolinnean/zlab065",
@@ -12,7 +12,8 @@
         "number": "4",
         "bpage": "1219",
         "epage": "1244",
-        "article": null
+        "article": null,
+        "ncites": "11"
     },
     {
         "ignore": false,
@@ -27,7 +28,8 @@
         "number": null,
         "bpage": "457",
         "epage": "482",
-        "article": null
+        "article": null,
+        "ncites": "13"
     },
     {
         "ignore": false,
@@ -42,7 +44,8 @@
         "number": "4",
         "bpage": "477",
         "epage": "488",
-        "article": null
+        "article": null,
+        "ncites": "2"
     },
     {
         "ignore": false,
@@ -57,7 +60,8 @@
         "number": "6",
         "bpage": null,
         "epage": null,
-        "article": "e1008598"
+        "article": "e1008598",
+        "ncites": "18"
     },
     {
         "ignore": false,
@@ -72,7 +76,8 @@
         "number": null,
         "bpage": "147",
         "epage": "164",
-        "article": null
+        "article": null,
+        "ncites": "50"
     },
     {
         "ignore": false,
@@ -87,7 +92,8 @@
         "number": "6",
         "bpage": "1187",
         "epage": "1200",
-        "article": null
+        "article": null,
+        "ncites": "66"
     },
     {
         "ignore": false,
@@ -102,7 +108,8 @@
         "number": "1",
         "bpage": null,
         "epage": null,
-        "article": "1432"
+        "article": "1432",
+        "ncites": "46"
     },
     {
         "ignore": false,
@@ -117,7 +124,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "e5282"
+        "article": "e5282",
+        "ncites": "6"
     },
     {
         "ignore": false,
@@ -132,7 +140,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "26"
+        "article": "26",
+        "ncites": "12"
     },
     {
         "ignore": false,
@@ -147,7 +156,8 @@
         "number": "1",
         "bpage": "1",
         "epage": "64",
-        "article": null
+        "article": null,
+        "ncites": "76"
     },
     {
         "ignore": false,
@@ -162,7 +172,8 @@
         "number": "3",
         "bpage": "211",
         "epage": "226",
-        "article": null
+        "article": null,
+        "ncites": "7"
     },
     {
         "ignore": false,
@@ -177,7 +188,8 @@
         "number": "4",
         "bpage": "E15",
         "epage": "E20",
-        "article": null
+        "article": null,
+        "ncites": "3"
     },
     {
         "ignore": false,
@@ -192,7 +204,8 @@
         "number": "21",
         "bpage": "5543",
         "epage": "5556",
-        "article": null
+        "article": null,
+        "ncites": "13"
     },
     {
         "ignore": false,
@@ -207,7 +220,8 @@
         "number": "4",
         "bpage": "241",
         "epage": "246",
-        "article": null
+        "article": null,
+        "ncites": "10"
     },
     {
         "ignore": false,
@@ -222,7 +236,8 @@
         "number": "4",
         "bpage": "245",
         "epage": "251",
-        "article": null
+        "article": null,
+        "ncites": "9"
     },
     {
         "ignore": false,
@@ -237,7 +252,8 @@
         "number": "1",
         "bpage": "16",
         "epage": "34",
-        "article": null
+        "article": null,
+        "ncites": "69"
     },
     {
         "ignore": false,
@@ -252,7 +268,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "14094"
+        "article": "14094",
+        "ncites": "-1"
     },
     {
         "ignore": false,
@@ -267,7 +284,8 @@
         "number": null,
         "bpage": "1270",
         "epage": "1270",
-        "article": null
+        "article": null,
+        "ncites": "-1"
     },
     {
         "ignore": false,
@@ -282,7 +300,8 @@
         "number": "1",
         "bpage": "51",
         "epage": "56",
-        "article": null
+        "article": null,
+        "ncites": "-1"
     },
     {
         "ignore": false,
@@ -297,6 +316,7 @@
         "number": "1",
         "bpage": null,
         "epage": null,
-        "article": "16967"
+        "article": "16967",
+        "ncites": "1"
     }
 ]

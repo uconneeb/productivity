@@ -12,13 +12,14 @@
         "number": "10",
         "bpage": "985",
         "epage": "993",
-        "article": null
+        "article": null,
+        "ncites": "16"
     },
     {
         "ignore": false,
         "authors": "ST Trumbo, E Xhihani",
         "year": 2015,
-        "title": "Mass–size relationships, starvation and recovery in an engorging feeder",
+        "title": "Mass\u2013size relationships, starvation and recovery in an engorging feeder",
         "citation_id": null,
         "url": "https://resjournals.onlinelibrary.wiley.com/doi/full/10.1111/phen.12110?casa_token=qLrWOzcl0R4AAAAA%3ADCc9Clz4MW5KT2A3rnfVk5DqdKKvZnjrqh4OL2l3s-tOyQijAgvUeEba3Kg41Ncgcu06cBUkk0FWUQ",
         "doi": "10.1111/phen.12110",
@@ -27,7 +28,8 @@
         "number": "3",
         "bpage": "257",
         "epage": "263",
-        "article": null
+        "article": null,
+        "ncites": "-1"
     },
     {
         "ignore": false,
@@ -42,7 +44,8 @@
         "number": "6",
         "bpage": "737",
         "epage": "740",
-        "article": null
+        "article": null,
+        "ncites": "15"
     },
     {
         "ignore": false,
@@ -57,7 +60,8 @@
         "number": null,
         "bpage": "47",
         "epage": "54",
-        "article": null
+        "article": null,
+        "ncites": "30"
     },
     {
         "ignore": false,
@@ -72,7 +76,8 @@
         "number": "5",
         "bpage": "1178",
         "epage": "1183",
-        "article": null
+        "article": null,
+        "ncites": "8"
     },
     {
         "ignore": false,
@@ -87,7 +92,8 @@
         "number": null,
         "bpage": "299",
         "epage": "309",
-        "article": null
+        "article": null,
+        "ncites": "24"
     },
     {
         "ignore": false,
@@ -102,7 +108,8 @@
         "number": null,
         "bpage": "241",
         "epage": "249",
-        "article": null
+        "article": null,
+        "ncites": "17"
     },
     {
         "ignore": false,
@@ -117,7 +124,8 @@
         "number": null,
         "bpage": "13",
         "epage": "18",
-        "article": null
+        "article": null,
+        "ncites": "14"
     },
     {
         "ignore": false,
@@ -132,7 +140,8 @@
         "number": "1",
         "bpage": "1",
         "epage": "12",
-        "article": null
+        "article": null,
+        "ncites": "23"
     },
     {
         "ignore": false,
@@ -152,7 +161,8 @@
         "bookisbn": "9780198797500",
         "bpage": "203",
         "epage": "218",
-        "article": null
+        "article": null,
+        "ncites": "24"
     },
     {
         "ignore": false,
@@ -167,7 +177,8 @@
         "number": null,
         "bpage": "203",
         "epage": "250",
-        "article": null
+        "article": null,
+        "ncites": "10"
     },
     {
         "ignore": false,
@@ -182,7 +193,8 @@
         "number": "6",
         "bpage": "287",
         "epage": "296",
-        "article": null
+        "article": null,
+        "ncites": "12"
     },
     {
         "ignore": false,
@@ -197,7 +209,8 @@
         "number": null,
         "bpage": "vi",
         "epage": "ix",
-        "article": null
+        "article": null,
+        "ncites": "3"
     },
     {
         "ignore": false,
@@ -212,7 +225,8 @@
         "number": "2",
         "bpage": "79",
         "epage": "87",
-        "article": null
+        "article": null,
+        "ncites": "8"
     },
     {
         "ignore": false,
@@ -227,7 +241,8 @@
         "number": "3",
         "bpage": "366",
         "epage": "378",
-        "article": null
+        "article": null,
+        "ncites": "9"
     },
     {
         "ignore": false,
@@ -242,7 +257,8 @@
         "number": "10",
         "bpage": "1028",
         "epage": "1037",
-        "article": null
+        "article": null,
+        "ncites": "12"
     },
     {
         "ignore": false,
@@ -257,7 +273,8 @@
         "number": "3",
         "bpage": "175",
         "epage": "182",
-        "article": null
+        "article": null,
+        "ncites": "8"
     },
     {
         "ignore": false,
@@ -272,7 +289,8 @@
         "number": "9",
         "bpage": "622",
         "epage": "631",
-        "article": null
+        "article": null,
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -287,7 +305,8 @@
         "number": "13-14",
         "bpage": "1301",
         "epage": "1318",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -302,7 +321,8 @@
         "number": "5",
         "bpage": "758",
         "epage": "769",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -317,6 +337,7 @@
         "number": null,
         "bpage": "11",
         "epage": "19",
-        "article": null
+        "article": null,
+        "ncites": "0"
     }
 ]

@@ -12,7 +12,8 @@
         "number": "1",
         "bpage": "99",
         "epage": "109",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -27,7 +28,8 @@
         "number": "6",
         "bpage": "939",
         "epage": "951",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -42,7 +44,8 @@
         "number": "3",
         "bpage": "299",
         "epage": "311",
-        "article": null
+        "article": null,
+        "ncites": "3"
     },
     {
         "ignore": false,
@@ -57,7 +60,8 @@
         "number": "8",
         "bpage": null,
         "epage": null,
-        "article": "1740"
+        "article": "1740",
+        "ncites": "5"
     },
     {
         "ignore": false,
@@ -72,7 +76,8 @@
         "number": "7",
         "bpage": null,
         "epage": null,
-        "article": "evab101"
+        "article": "evab101",
+        "ncites": "9"
     },
     {
         "ignore": false,
@@ -87,7 +92,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "313"
+        "article": "313",
+        "ncites": "36"
     },
     {
         "ignore": false,
@@ -102,7 +108,8 @@
         "number": "3",
         "bpage": "770",
         "epage": "782",
-        "article": null
+        "article": null,
+        "ncites": "9"
     },
     {
         "ignore": false,
@@ -117,7 +124,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "344"
+        "article": "344",
+        "ncites": "26"
     },
     {
         "ignore": false,
@@ -132,7 +140,8 @@
         "number": "1",
         "bpage": "25",
         "epage": "32",
-        "article": null
+        "article": null,
+        "ncites": "9"
     },
     {
         "ignore": false,
@@ -142,12 +151,13 @@
         "citation_id": "Q0ZrkG0AAAAJ:D_sINldO8mEC",
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q0ZrkG0AAAAJ&sortby=pubdate&citation_for_view=Q0ZrkG0AAAAJ:D_sINldO8mEC",
         "doi": "10.1007/s12542-019-00456-z",
-        "journal": "Pal\u00E4ontologische Zeitschrift",
+        "journal": "Pal\u00e4ontologische Zeitschrift",
         "volume": "93",
         "number": null,
         "bpage": "387",
         "epage": "393",
-        "article": null
+        "article": null,
+        "ncites": "12"
     },
     {
         "ignore": false,
@@ -162,7 +172,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "e6899"
+        "article": "e6899",
+        "ncites": "18"
     },
     {
         "ignore": false,
@@ -177,7 +188,8 @@
         "number": "3",
         "bpage": "239",
         "epage": "243",
-        "article": null
+        "article": null,
+        "ncites": "4"
     },
     {
         "ignore": false,
@@ -192,7 +204,8 @@
         "number": "5",
         "bpage": "744",
         "epage": "754",
-        "article": null
+        "article": null,
+        "ncites": "8"
     },
     {
         "ignore": false,
@@ -207,7 +220,8 @@
         "number": null,
         "bpage": "1",
         "epage": "2",
-        "article": null
+        "article": null,
+        "ncites": "5"
     },
     {
         "ignore": false,
@@ -222,7 +236,8 @@
         "number": "1",
         "bpage": null,
         "epage": null,
-        "article": "5451"
+        "article": "5451",
+        "ncites": "181"
     },
     {
         "ignore": false,
@@ -237,7 +252,8 @@
         "number": "3",
         "bpage": "315",
         "epage": "329",
-        "article": null
+        "article": null,
+        "ncites": "12"
     },
     {
         "ignore": false,
@@ -252,7 +268,8 @@
         "number": "37",
         "bpage": "9759",
         "epage": "9760",
-        "article": null
+        "article": null,
+        "ncites": "10"
     },
     {
         "ignore": false,
@@ -267,7 +284,8 @@
         "number": "1",
         "bpage": "100",
         "epage": "112",
-        "article": null
+        "article": null,
+        "ncites": "25"
     },
     {
         "ignore": false,
@@ -282,7 +300,8 @@
         "number": null,
         "bpage": "279",
         "epage": "302",
-        "article": null
+        "article": null,
+        "ncites": "3"
     },
     {
         "ignore": false,
@@ -297,7 +316,8 @@
         "number": null,
         "bpage": "1755",
         "epage": "1767",
-        "article": null
+        "article": null,
+        "ncites": "12"
     },
     {
         "ignore": false,
@@ -312,7 +332,8 @@
         "number": "3",
         "bpage": "329",
         "epage": "353",
-        "article": null
+        "article": null,
+        "ncites": "25"
     },
     {
         "ignore": false,
@@ -327,7 +348,8 @@
         "number": "6",
         "bpage": "1009",
         "epage": "1023",
-        "article": null
+        "article": null,
+        "ncites": "31"
     },
     {
         "ignore": false,
@@ -342,7 +364,8 @@
         "number": "5",
         "bpage": "585",
         "epage": "601",
-        "article": null
+        "article": null,
+        "ncites": "3"
     },
     {
         "ignore": false,
@@ -357,7 +380,8 @@
         "number": "2",
         "bpage": "203",
         "epage": "216",
-        "article": null
+        "article": null,
+        "ncites": "17"
     },
     {
         "ignore": false,
@@ -372,7 +396,8 @@
         "number": "5",
         "bpage": "865",
         "epage": "875",
-        "article": null
+        "article": null,
+        "ncites": "23"
     },
     {
         "ignore": false,
@@ -387,7 +412,8 @@
         "number": null,
         "bpage": "176",
         "epage": "183",
-        "article": null
+        "article": null,
+        "ncites": "43"
     },
     {
         "ignore": false,
@@ -402,7 +428,8 @@
         "number": "6",
         "bpage": "1172",
         "epage": "1188",
-        "article": null
+        "article": null,
+        "ncites": "21"
     },
     {
         "ignore": false,
@@ -417,7 +444,8 @@
         "number": null,
         "bpage": "477",
         "epage": "492",
-        "article": null
+        "article": null,
+        "ncites": "46"
     },
     {
         "ignore": false,
@@ -432,7 +460,8 @@
         "number": null,
         "bpage": "571",
         "epage": "589",
-        "article": null
+        "article": null,
+        "ncites": "64"
     },
     {
         "ignore": false,
@@ -447,7 +476,8 @@
         "number": "3",
         "bpage": "274",
         "epage": "284",
-        "article": null
+        "article": null,
+        "ncites": "18"
     },
     {
         "ignore": false,
@@ -462,6 +492,7 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "558"
+        "article": "558",
+        "ncites": "-1"
     }
 ]

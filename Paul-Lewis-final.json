@@ -12,7 +12,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": null
+        "article": null,
+        "ncites": "-1"
     },
     {
         "ignore": false,
@@ -27,7 +28,8 @@
         "number": "1975",
         "bpage": null,
         "epage": null,
-        "article": "20220343"
+        "article": "20220343",
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -42,7 +44,8 @@
         "number": "2",
         "bpage": null,
         "epage": null,
-        "article": "8425"
+        "article": "8425",
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -57,7 +60,8 @@
         "number": "3",
         "bpage": "817",
         "epage": "847",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -72,7 +76,8 @@
         "number": null,
         "bpage": "1",
         "epage": "22",
-        "article": null
+        "article": null,
+        "ncites": "-1"
     },
     {
         "ignore": false,
@@ -87,7 +92,8 @@
         "number": "1",
         "bpage": "244",
         "epage": "263",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -102,7 +108,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "e6899"
+        "article": "e6899",
+        "ncites": "18"
     },
     {
         "ignore": false,
@@ -117,7 +124,8 @@
         "number": "6",
         "bpage": "1052",
         "epage": "1061",
-        "article": null
+        "article": null,
+        "ncites": "122"
     },
     {
         "ignore": false,
@@ -132,7 +140,8 @@
         "number": "2",
         "bpage": "334",
         "epage": "349",
-        "article": null
+        "article": null,
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -147,7 +156,8 @@
         "number": "5",
         "bpage": "744",
         "epage": "754",
-        "article": null
+        "article": null,
+        "ncites": "8"
     },
     {
         "ignore": false,
@@ -162,7 +172,8 @@
         "number": "3",
         "bpage": "315",
         "epage": "329",
-        "article": null
+        "article": null,
+        "ncites": "12"
     },
     {
         "ignore": false,
@@ -177,7 +188,8 @@
         "number": null,
         "bpage": "311",
         "epage": "333",
-        "article": null
+        "article": null,
+        "ncites": "21"
     },
     {
         "ignore": false,
@@ -192,7 +204,8 @@
         "number": "3",
         "bpage": "419",
         "epage": "438",
-        "article": null
+        "article": null,
+        "ncites": "21"
     },
     {
         "ignore": false,
@@ -207,7 +220,8 @@
         "number": "1",
         "bpage": "102",
         "epage": "115",
-        "article": null
+        "article": null,
+        "ncites": "73"
     },
     {
         "ignore": false,
@@ -222,7 +236,8 @@
         "number": "6",
         "bpage": "1009",
         "epage": "1023",
-        "article": null
+        "article": null,
+        "ncites": "31"
     },
     {
         "ignore": false,
@@ -237,7 +252,8 @@
         "number": "5",
         "bpage": "865",
         "epage": "875",
-        "article": null
+        "article": null,
+        "ncites": "23"
     },
     {
         "ignore": false,
@@ -252,7 +268,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "558"
+        "article": "558",
+        "ncites": "9"
     },
     {
         "ignore": false,
@@ -267,7 +284,8 @@
         "number": null,
         "bpage": "176",
         "epage": "183",
-        "article": null
+        "article": null,
+        "ncites": "43"
     },
     {
         "ignore": false,
@@ -282,7 +300,8 @@
         "number": "3",
         "bpage": "525",
         "epage": "531",
-        "article": null
+        "article": null,
+        "ncites": "36"
     },
     {
         "ignore": false,
@@ -297,6 +316,7 @@
         "number": "2",
         "bpage": "299",
         "epage": "322",
-        "article": null
+        "article": null,
+        "ncites": "57"
     }
 ]

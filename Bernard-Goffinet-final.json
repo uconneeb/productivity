@@ -17,7 +17,8 @@
         "number": null,
         "bpage": "194",
         "epage": "195",
-        "article": null
+        "article": null,
+        "ncites": "-1"
     },
     {
         "ignore": false,
@@ -37,7 +38,8 @@
         "number": null,
         "bpage": "222",
         "epage": "239",
-        "article": null
+        "article": null,
+        "ncites": "-1"
     },
     {
         "ignore": false,
@@ -52,7 +54,8 @@
         "number": "4",
         "bpage": "528",
         "epage": "540",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -67,7 +70,8 @@
         "number": null,
         "bpage": "188",
         "epage": "198",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -82,7 +86,8 @@
         "number": "7",
         "bpage": "951",
         "epage": "964",
-        "article": null
+        "article": null,
+        "ncites": "2"
     },
     {
         "ignore": false,
@@ -97,7 +102,8 @@
         "number": "1",
         "bpage": null,
         "epage": null,
-        "article": "13957"
+        "article": "13957",
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -112,11 +118,12 @@
         "number": "4",
         "bpage": "389",
         "epage": "401",
-        "article": null
+        "article": null,
+        "ncites": "41"
     },
     {
         "ignore": false,
-        "authors": "J Pati\u00f1o, I Bisang, B Goffinet, L Heden\u00e4s, S McDaniel, S Pressel, M Stech, C Ah-Peng, A Bergamini, RT Caners, C Cargill, N Cronberg, J Duckett, S Eppley, N Fenton, K Fisher, J M Gonz\u00e1lez-Mancebo, M Hasebe, J Heinrichs, K Hylander, MS Ignatov, J Martínez-Abaigar, N Medina, R Medina, D Quandt, S Rensing, K Renzaglia, M Renner, R M Ros, A Sch\u00e4fer-Verwimp, J Carlos Villarreal, A Vanderpoorten",
+        "authors": "J Pati\u00f1o, I Bisang, B Goffinet, L Heden\u00e4s, S McDaniel, S Pressel, M Stech, C Ah-Peng, A Bergamini, RT Caners, C Cargill, N Cronberg, J Duckett, S Eppley, N Fenton, K Fisher, J M Gonz\u00e1lez-Mancebo, M Hasebe, J Heinrichs, K Hylander, MS Ignatov, J Mart\u00ednez-Abaigar, N Medina, R Medina, D Quandt, S Rensing, K Renzaglia, M Renner, R M Ros, A Sch\u00e4fer-Verwimp, J Carlos Villarreal, A Vanderpoorten",
         "year": 2022,
         "title": "Unveiling the nature of a miniature world: a horizon scan of fundamental questions in bryology",
         "citation_id": "78jwN4sAAAAJ:ca9ekAySLm4C",
@@ -127,7 +134,8 @@
         "number": "1",
         "bpage": "1",
         "epage": "34",
-        "article": null
+        "article": null,
+        "ncites": "2"
     },
     {
         "ignore": false,
@@ -142,7 +150,8 @@
         "number": "2",
         "bpage": null,
         "epage": null,
-        "article": "evac020"
+        "article": "evac020",
+        "ncites": "3"
     },
     {
         "ignore": false,
@@ -157,7 +166,8 @@
         "number": "1",
         "bpage": "16",
         "epage": "22",
-        "article": null
+        "article": null,
+        "ncites": "6"
     },
     {
         "ignore": false,
@@ -172,7 +182,8 @@
         "number": "2",
         "bpage": "256",
         "epage": "287",
-        "article": null
+        "article": null,
+        "ncites": "2"
     },
     {
         "ignore": false,
@@ -187,7 +198,8 @@
         "number": "1",
         "bpage": "59",
         "epage": "73",
-        "article": null
+        "article": null,
+        "ncites": "4"
     },
     {
         "ignore": false,
@@ -202,7 +214,8 @@
         "number": "1",
         "bpage": "14",
         "epage": "20",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -217,7 +230,8 @@
         "number": null,
         "bpage": "1474",
         "epage": "1485",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -232,7 +246,8 @@
         "number": "7",
         "bpage": "1651",
         "epage": "1666",
-        "article": null
+        "article": null,
+        "ncites": "5"
     },
     {
         "ignore": false,
@@ -247,7 +262,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "107171"
+        "article": "107171",
+        "ncites": "7"
     },
     {
         "ignore": false,
@@ -262,7 +278,8 @@
         "number": null,
         "bpage": "150",
         "epage": "163",
-        "article": null
+        "article": null,
+        "ncites": "7"
     },
     {
         "ignore": false,
@@ -277,7 +294,8 @@
         "number": "2",
         "bpage": "191",
         "epage": "197",
-        "article": null
+        "article": null,
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -292,7 +310,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "106965"
+        "article": "106965",
+        "ncites": "6"
     },
     {
         "ignore": false,
@@ -307,7 +326,8 @@
         "number": null,
         "bpage": "1",
         "epage": "9",
-        "article": null
+        "article": null,
+        "ncites": "13"
     },
     {
         "ignore": false,
@@ -322,7 +342,8 @@
         "number": null,
         "bpage": "1",
         "epage": "14",
-        "article": null
+        "article": null,
+        "ncites": "-1"
     },
     {
         "ignore": false,
@@ -337,11 +358,12 @@
         "number": "4",
         "bpage": "1169",
         "epage": "1175",
-        "article": null
+        "article": null,
+        "ncites": "-1"
     },
     {
         "ignore": false,
-        "authors": "H Lindgren, B Moncada, R L\u00fccking, N Magain, A Simon, B Goffinet, E S\u00e9rusiaux, MP Nelsen, J Mercado-Díaz, T Widhelm, T Lumbsch",
+        "authors": "H Lindgren, B Moncada, R L\u00fccking, N Magain, A Simon, B Goffinet, E S\u00e9rusiaux, MP Nelsen, J Mercado-D\u00edaz, T Widhelm, T Lumbsch",
         "year": 2020,
         "title": "Cophylogenetic patterns in algal symbionts correlate with repeated symbiont switches during diversification and geographic expansion of lichen-forming fungi in the genus _Sticta_ (Ascomycota, Peltigeraceae)",
         "citation_id": "78jwN4sAAAAJ:k4O5U3vRA4YC",
@@ -352,7 +374,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "106860"
+        "article": "106860",
+        "ncites": "13"
     },
     {
         "ignore": false,
@@ -367,13 +390,14 @@
         "number": "3",
         "bpage": "83",
         "epage": "98",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
         "authors": "B Goffinet, JJ Engel, M Von Konrat, R Mackenzie, T Contador, S Rosenfeld, O Barroso, R Rozzi",
         "year": 2020,
-        "title": "Bryophyte records from Isla Gonzalo, Diego Ramirez Islands, Americas’ deep southern ocean archipelago",
+        "title": "Bryophyte records from Isla Gonzalo, Diego Ramirez Islands, Americas\u2019 deep southern ocean archipelago",
         "citation_id": "78jwN4sAAAAJ:CqsiOOvXZmUC",
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=78jwN4sAAAAJ&cstart=20&sortby=pubdate&citation_for_view=78jwN4sAAAAJ:CqsiOOvXZmUC",
         "doi": null,
@@ -382,7 +406,8 @@
         "number": "3",
         "bpage": "127",
         "epage": "138",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -397,7 +422,8 @@
         "number": "3",
         "bpage": "99",
         "epage": "111",
-        "article": null
+        "article": null,
+        "ncites": "5"
     },
     {
         "ignore": false,
@@ -412,11 +438,12 @@
         "number": "3",
         "bpage": "83",
         "epage": "98",
-        "article": null
+        "article": null,
+        "ncites": "3"
     },
     {
         "ignore": false,
-        "authors": "R Rozzi, RD Crego, T Contador, E Sch\u00fcttler, S Rosenfeld, R Mackenzie, O Barroso, EA Silva-Rodríguez, X Álvarez-Bustos, A Silva, I Ram\u00edrez, J Mella, J Herreros, JR C\u00e1rcamo, J Marambio, J Ojeda, F M\u00e9ndez, KP Moses, J Kennedy, S Rusell, B Goffinet, LG Sancho, F Berchez, B Buma, F Aguirre, L S\u00e1nchez-Jard\u00f3n, E Barros, RA V\u00e1squez, MTK Arroyo, E Poulin, F Squeo, JJ Armesto, \u00c1 Mansilla, F Massardo",
+        "authors": "R Rozzi, RD Crego, T Contador, E Sch\u00fcttler, S Rosenfeld, R Mackenzie, O Barroso, EA Silva-Rodr\u00edguez, X \u00c1lvarez-Bustos, A Silva, I Ram\u00edrez, J Mella, J Herreros, JR C\u00e1rcamo, J Marambio, J Ojeda, F M\u00e9ndez, KP Moses, J Kennedy, S Rusell, B Goffinet, LG Sancho, F Berchez, B Buma, F Aguirre, L S\u00e1nchez-Jard\u00f3n, E Barros, RA V\u00e1squez, MTK Arroyo, E Poulin, F Squeo, JJ Armesto, \u00c1 Mansilla, F Massardo",
         "year": 2020,
         "title": "Un centinela para el monitoreo del cambio clim\u00e1tico y su impacto sobre la biodiversidad en la cumbre austral de Am\u00e9rica: la nueva red de estudios a largo Plazo Cabo de Hornos",
         "citation_id": "78jwN4sAAAAJ:Kaaf24wrr50C",
@@ -427,7 +454,8 @@
         "number": "3",
         "bpage": "45",
         "epage": "81",
-        "article": null
+        "article": null,
+        "ncites": "18"
     },
     {
         "ignore": false,
@@ -442,7 +470,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "747"
+        "article": "747",
+        "ncites": "16"
     },
     {
         "ignore": false,
@@ -457,7 +486,8 @@
         "number": "1",
         "bpage": "76",
         "epage": "94",
-        "article": null
+        "article": null,
+        "ncites": "8"
     },
     {
         "ignore": false,
@@ -472,7 +502,8 @@
         "number": "1",
         "bpage": "139",
         "epage": "146",
-        "article": null
+        "article": null,
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -487,7 +518,8 @@
         "number": "7",
         "bpage": "899",
         "epage": "902",
-        "article": null
+        "article": null,
+        "ncites": "9"
     },
     {
         "ignore": false,
@@ -502,7 +534,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "495"
+        "article": "495",
+        "ncites": "5"
     },
     {
         "ignore": false,
@@ -517,7 +550,8 @@
         "number": "5",
         "bpage": "1361",
         "epage": "1376",
-        "article": null
+        "article": null,
+        "ncites": "141"
     },
     {
         "ignore": false,
@@ -532,7 +566,8 @@
         "number": "3",
         "bpage": "399",
         "epage": "403",
-        "article": null
+        "article": null,
+        "ncites": "9"
     },
     {
         "ignore": false,
@@ -547,7 +582,8 @@
         "number": "2",
         "bpage": "107",
         "epage": "118",
-        "article": null
+        "article": null,
+        "ncites": "162"
     },
     {
         "ignore": false,
@@ -562,7 +598,8 @@
         "number": null,
         "bpage": "1",
         "epage": "14",
-        "article": null
+        "article": null,
+        "ncites": "20"
     },
     {
         "ignore": false,
@@ -577,7 +614,8 @@
         "number": "11",
         "bpage": "3233",
         "epage": "3239",
-        "article": null
+        "article": null,
+        "ncites": "26"
     },
     {
         "ignore": false,
@@ -592,7 +630,8 @@
         "number": "4",
         "bpage": "404",
         "epage": "417",
-        "article": null
+        "article": null,
+        "ncites": "63"
     },
     {
         "ignore": false,
@@ -607,7 +646,8 @@
         "number": "1",
         "bpage": null,
         "epage": null,
-        "article": "8968"
+        "article": "8968",
+        "ncites": "33"
     },
     {
         "ignore": false,
@@ -622,7 +662,8 @@
         "number": "1",
         "bpage": null,
         "epage": null,
-        "article": "1485"
+        "article": "1485",
+        "ncites": "157"
     },
     {
         "ignore": false,
@@ -637,7 +678,8 @@
         "number": "1",
         "bpage": "130",
         "epage": "139",
-        "article": null
+        "article": null,
+        "ncites": "4"
     },
     {
         "ignore": false,
@@ -652,7 +694,8 @@
         "number": "1",
         "bpage": "137",
         "epage": "141",
-        "article": null
+        "article": null,
+        "ncites": "2"
     },
     {
         "ignore": false,
@@ -667,7 +710,8 @@
         "number": "5",
         "bpage": "836",
         "epage": "870",
-        "article": null
+        "article": null,
+        "ncites": "50"
     },
     {
         "ignore": false,
@@ -682,7 +726,8 @@
         "number": "7",
         "bpage": "849",
         "epage": "864",
-        "article": null
+        "article": null,
+        "ncites": "5"
     },
     {
         "ignore": false,
@@ -697,7 +742,8 @@
         "number": "1",
         "bpage": "103",
         "epage": "123",
-        "article": null
+        "article": null,
+        "ncites": "5"
     },
     {
         "ignore": false,
@@ -712,7 +758,8 @@
         "number": null,
         "bpage": "606",
         "epage": "612",
-        "article": null
+        "article": null,
+        "ncites": "8"
     },
     {
         "ignore": false,
@@ -727,7 +774,8 @@
         "number": "6",
         "bpage": "105",
         "epage": "114",
-        "article": null
+        "article": null,
+        "ncites": "7"
     },
     {
         "ignore": false,
@@ -742,7 +790,8 @@
         "number": null,
         "bpage": "58",
         "epage": "73",
-        "article": null
+        "article": null,
+        "ncites": "19"
     },
     {
         "ignore": false,
@@ -757,7 +806,8 @@
         "number": "5",
         "bpage": "730",
         "epage": "748",
-        "article": null
+        "article": null,
+        "ncites": "15"
     },
     {
         "ignore": false,
@@ -772,7 +822,8 @@
         "number": null,
         "bpage": "15",
         "epage": "28",
-        "article": null
+        "article": null,
+        "ncites": "35"
     },
     {
         "ignore": false,
@@ -787,7 +838,8 @@
         "number": "1",
         "bpage": "14",
         "epage": "22",
-        "article": null
+        "article": null,
+        "ncites": "13"
     },
     {
         "ignore": false,
@@ -802,7 +854,8 @@
         "number": null,
         "bpage": "240",
         "epage": "247",
-        "article": null
+        "article": null,
+        "ncites": "34"
     },
     {
         "ignore": false,
@@ -817,7 +870,8 @@
         "number": "4",
         "bpage": "441",
         "epage": "500",
-        "article": null
+        "article": null,
+        "ncites": "41"
     },
     {
         "ignore": false,
@@ -832,7 +886,8 @@
         "number": null,
         "bpage": "1651",
         "epage": "1659",
-        "article": null
+        "article": null,
+        "ncites": "15"
     },
     {
         "ignore": false,
@@ -847,7 +902,8 @@
         "number": null,
         "bpage": "10",
         "epage": "29",
-        "article": null
+        "article": null,
+        "ncites": "31"
     },
     {
         "ignore": false,
@@ -862,7 +918,8 @@
         "number": "3",
         "bpage": "335",
         "epage": "339",
-        "article": null
+        "article": null,
+        "ncites": "3"
     },
     {
         "ignore": false,
@@ -877,7 +934,8 @@
         "number": "3",
         "bpage": "475",
         "epage": "497",
-        "article": null
+        "article": null,
+        "ncites": "18"
     },
     {
         "ignore": false,
@@ -892,7 +950,8 @@
         "number": null,
         "bpage": "487",
         "epage": "488",
-        "article": null
+        "article": null,
+        "ncites": "21"
     },
     {
         "ignore": false,
@@ -907,7 +966,8 @@
         "number": "1",
         "bpage": "74",
         "epage": "99",
-        "article": null
+        "article": null,
+        "ncites": "77"
     },
     {
         "ignore": false,
@@ -922,7 +982,8 @@
         "number": "4",
         "bpage": "361",
         "epage": "382",
-        "article": null
+        "article": null,
+        "ncites": "96"
     },
     {
         "ignore": false,
@@ -937,7 +998,8 @@
         "number": "2",
         "bpage": "185",
         "epage": "196",
-        "article": null
+        "article": null,
+        "ncites": "55"
     },
     {
         "ignore": false,
@@ -952,7 +1014,8 @@
         "number": "7",
         "bpage": null,
         "epage": null,
-        "article": "1600016"
+        "article": "1600016",
+        "ncites": "344"
     },
     {
         "ignore": false,
@@ -967,7 +1030,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "832"
+        "article": "832",
+        "ncites": "22"
     },
     {
         "ignore": false,
@@ -982,7 +1046,8 @@
         "number": null,
         "bpage": "12",
         "epage": "21",
-        "article": null
+        "article": null,
+        "ncites": "15"
     },
     {
         "ignore": false,
@@ -997,7 +1062,8 @@
         "number": "3",
         "bpage": "1121",
         "epage": "1129",
-        "article": null
+        "article": null,
+        "ncites": "34"
     },
     {
         "ignore": false,
@@ -1012,7 +1078,8 @@
         "number": "1",
         "bpage": "168",
         "epage": "170",
-        "article": null
+        "article": null,
+        "ncites": "10"
     },
     {
         "ignore": false,
@@ -1027,7 +1094,8 @@
         "number": null,
         "bpage": "29",
         "epage": "40",
-        "article": null
+        "article": null,
+        "ncites": "30"
     },
     {
         "ignore": false,
@@ -1042,7 +1110,8 @@
         "number": "3",
         "bpage": "627",
         "epage": "635",
-        "article": null
+        "article": null,
+        "ncites": "56"
     },
     {
         "ignore": false,
@@ -1057,7 +1126,8 @@
         "number": "5",
         "bpage": "3808",
         "epage": "3809",
-        "article": null
+        "article": null,
+        "ncites": "4"
     },
     {
         "ignore": false,
@@ -1072,7 +1142,8 @@
         "number": "2",
         "bpage": "280",
         "epage": "288",
-        "article": null
+        "article": null,
+        "ncites": "30"
     },
     {
         "ignore": false,
@@ -1087,7 +1158,8 @@
         "number": null,
         "bpage": "200",
         "epage": "206",
-        "article": null
+        "article": null,
+        "ncites": "25"
     },
     {
         "ignore": false,
@@ -1102,7 +1174,8 @@
         "number": null,
         "bpage": "195",
         "epage": "199",
-        "article": null
+        "article": null,
+        "ncites": "15"
     },
     {
         "ignore": false,
@@ -1117,7 +1190,8 @@
         "number": null,
         "bpage": "933",
         "epage": "941",
-        "article": null
+        "article": null,
+        "ncites": "15"
     },
     {
         "ignore": false,
@@ -1132,7 +1206,8 @@
         "number": "3",
         "bpage": "273",
         "epage": "283",
-        "article": null
+        "article": null,
+        "ncites": "16"
     },
     {
         "ignore": false,
@@ -1147,7 +1222,8 @@
         "number": "3",
         "bpage": "211",
         "epage": "215",
-        "article": null
+        "article": null,
+        "ncites": "7"
     },
     {
         "ignore": false,
@@ -1162,7 +1238,8 @@
         "number": null,
         "bpage": "99",
         "epage": "115",
-        "article": null
+        "article": null,
+        "ncites": "10"
     },
     {
         "ignore": false,
@@ -1177,7 +1254,8 @@
         "number": null,
         "bpage": "22",
         "epage": "31",
-        "article": null
+        "article": null,
+        "ncites": "13"
     },
     {
         "ignore": false,
@@ -1192,7 +1270,8 @@
         "number": null,
         "bpage": "27",
         "epage": "31",
-        "article": null
+        "article": null,
+        "ncites": "-1"
     },
     {
         "ignore": false,
@@ -1207,7 +1286,8 @@
         "number": "1",
         "bpage": "1",
         "epage": "121",
-        "article": null
+        "article": null,
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -1222,7 +1302,8 @@
         "number": "3",
         "bpage": "139",
         "epage": "148",
-        "article": null
+        "article": null,
+        "ncites": "9"
     },
     {
         "ignore": false,
@@ -1237,6 +1318,7 @@
         "number": "1",
         "bpage": "1",
         "epage": "1",
-        "article": null
+        "article": null,
+        "ncites": "0"
     }
 ]

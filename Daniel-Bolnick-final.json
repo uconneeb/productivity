@@ -12,7 +12,8 @@
         "number": "1",
         "bpage": "318",
         "epage": "328",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -27,7 +28,8 @@
         "number": "1",
         "bpage": "110",
         "epage": "122",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -42,7 +44,8 @@
         "number": "1",
         "bpage": "111",
         "epage": "123",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -57,7 +60,8 @@
         "number": "6611",
         "bpage": "1206",
         "epage": "1211",
-        "article": null
+        "article": null,
+        "ncites": "4"
     },
     {
         "ignore": false,
@@ -72,7 +76,8 @@
         "number": "5",
         "bpage": "958",
         "epage": "969",
-        "article": null
+        "article": null,
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -87,7 +92,8 @@
         "number": "2",
         "bpage": "162",
         "epage": "177",
-        "article": null
+        "article": null,
+        "ncites": "4"
     },
     {
         "ignore": false,
@@ -102,7 +108,8 @@
         "number": "3",
         "bpage": "429",
         "epage": "444",
-        "article": null
+        "article": null,
+        "ncites": "6"
     },
     {
         "ignore": false,
@@ -117,7 +124,8 @@
         "number": "24",
         "bpage": "6791",
         "epage": "6805",
-        "article": null
+        "article": null,
+        "ncites": "7"
     },
     {
         "ignore": false,
@@ -132,7 +140,8 @@
         "number": "11",
         "bpage": "2842",
         "epage": "2856",
-        "article": null
+        "article": null,
+        "ncites": "4"
     },
     {
         "ignore": false,
@@ -147,7 +156,8 @@
         "number": "20",
         "bpage": "14175",
         "epage": "14216",
-        "article": null
+        "article": null,
+        "ncites": "4"
     },
     {
         "ignore": false,
@@ -162,7 +172,8 @@
         "number": "8",
         "bpage": null,
         "epage": null,
-        "article": "20210204"
+        "article": "20210204",
+        "ncites": "5"
     },
     {
         "ignore": false,
@@ -177,7 +188,8 @@
         "number": "10",
         "bpage": "2600",
         "epage": "2612",
-        "article": null
+        "article": null,
+        "ncites": "5"
     },
     {
         "ignore": false,
@@ -192,7 +204,8 @@
         "number": "10",
         "bpage": "2509",
         "epage": "2523",
-        "article": null
+        "article": null,
+        "ncites": "12"
     },
     {
         "ignore": false,
@@ -207,7 +220,8 @@
         "number": "3",
         "bpage": null,
         "epage": null,
-        "article": "e00145-21"
+        "article": "e00145-21",
+        "ncites": "7"
     },
     {
         "ignore": false,
@@ -222,7 +236,8 @@
         "number": "7",
         "bpage": "1659",
         "epage": "1671",
-        "article": null
+        "article": null,
+        "ncites": "7"
     },
     {
         "ignore": false,
@@ -237,7 +252,8 @@
         "number": "4",
         "bpage": "370",
         "epage": "382",
-        "article": null
+        "article": null,
+        "ncites": "11"
     },
     {
         "ignore": false,
@@ -252,11 +268,12 @@
         "number": "6533",
         "bpage": null,
         "epage": null,
-        "article": "eabc8881"
+        "article": "eabc8881",
+        "ncites": "77"
     },
     {
         "ignore": false,
-        "authors": "A H\u00E4rer, D Bolnick, DJ Rennison",
+        "authors": "A H\u00e4rer, D Bolnick, DJ Rennison",
         "year": 2021,
         "title": "The genomic signature of ecological divergence along the benthic-limnetic axis in allopatric and sympatric threespine stickleback",
         "citation_id": "cfwxm0AAAAAJ:r_AWSJRzSzQC",
@@ -267,7 +284,8 @@
         "number": "2",
         "bpage": "451",
         "epage": "463",
-        "article": null
+        "article": null,
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -282,7 +300,8 @@
         "number": "23",
         "bpage": "13297",
         "epage": "13311",
-        "article": null
+        "article": null,
+        "ncites": "2"
     },
     {
         "ignore": false,
@@ -297,7 +316,8 @@
         "number": "6",
         "bpage": "663",
         "epage": "678",
-        "article": null
+        "article": null,
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -312,7 +332,8 @@
         "number": "12",
         "bpage": null,
         "epage": null,
-        "article": "e03181"
+        "article": "e03181",
+        "ncites": "18"
     },
     {
         "ignore": false,
@@ -327,7 +348,8 @@
         "number": "7",
         "bpage": null,
         "epage": null,
-        "article": "20200272"
+        "article": "20200272",
+        "ncites": "8"
     },
     {
         "ignore": false,
@@ -342,7 +364,8 @@
         "number": "7",
         "bpage": "1466",
         "epage": "1481",
-        "article": null
+        "article": null,
+        "ncites": "26"
     },
     {
         "ignore": false,
@@ -357,7 +380,8 @@
         "number": "7",
         "bpage": "1795",
         "epage": "1808",
-        "article": null
+        "article": null,
+        "ncites": "25"
     },
     {
         "ignore": false,
@@ -372,7 +396,8 @@
         "number": "7",
         "bpage": "990",
         "epage": "1002",
-        "article": null
+        "article": null,
+        "ncites": "15"
     },
     {
         "ignore": false,
@@ -387,7 +412,8 @@
         "number": "6",
         "bpage": "1387",
         "epage": "1394",
-        "article": null
+        "article": null,
+        "ncites": "43"
     },
     {
         "ignore": false,
@@ -402,7 +428,8 @@
         "number": "4",
         "bpage": "749",
         "epage": "763",
-        "article": null
+        "article": null,
+        "ncites": "16"
     },
     {
         "ignore": false,
@@ -417,7 +444,8 @@
         "number": "5",
         "bpage": "1141",
         "epage": "1153",
-        "article": null
+        "article": null,
+        "ncites": "26"
     },
     {
         "ignore": false,
@@ -432,7 +460,8 @@
         "number": "3",
         "bpage": "495",
         "epage": "505",
-        "article": null
+        "article": null,
+        "ncites": "47"
     },
     {
         "ignore": false,
@@ -447,7 +476,8 @@
         "number": "1",
         "bpage": "43",
         "epage": "56",
-        "article": null
+        "article": null,
+        "ncites": "19"
     },
     {
         "ignore": false,
@@ -462,7 +492,8 @@
         "number": "1912",
         "bpage": null,
         "epage": null,
-        "article": "20191343"
+        "article": "20191343",
+        "ncites": "25"
     },
     {
         "ignore": false,
@@ -477,7 +508,8 @@
         "number": "7",
         "bpage": "1229",
         "epage": "1242",
-        "article": null
+        "article": null,
+        "ncites": "74"
     },
     {
         "ignore": false,
@@ -492,7 +524,8 @@
         "number": "4",
         "bpage": "495",
         "epage": "515",
-        "article": null
+        "article": null,
+        "ncites": "44"
     },
     {
         "ignore": false,
@@ -507,7 +540,8 @@
         "number": "1",
         "bpage": "69",
         "epage": "82",
-        "article": null
+        "article": null,
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -522,7 +556,8 @@
         "number": "1777",
         "bpage": null,
         "epage": null,
-        "article": "20180241"
+        "article": "20180241",
+        "ncites": "30"
     },
     {
         "ignore": false,
@@ -537,7 +572,8 @@
         "number": "5",
         "bpage": null,
         "epage": null,
-        "article": "e1008125"
+        "article": "e1008125",
+        "ncites": "45"
     },
     {
         "ignore": false,
@@ -552,7 +588,8 @@
         "number": "5",
         "bpage": "435",
         "epage": "446",
-        "article": null
+        "article": null,
+        "ncites": "59"
     },
     {
         "ignore": false,
@@ -572,7 +609,8 @@
         "bookisbn": "9780444637680",
         "bpage": "204",
         "epage": "211",
-        "article": null
+        "article": null,
+        "ncites": "-1"
     },
     {
         "ignore": false,
@@ -587,7 +625,8 @@
         "number": "6",
         "bpage": "655",
         "epage": "663",
-        "article": null
+        "article": null,
+        "ncites": "9"
     },
     {
         "ignore": false,
@@ -602,7 +641,8 @@
         "number": null,
         "bpage": "303",
         "epage": "330",
-        "article": null
+        "article": null,
+        "ncites": "184"
     },
     {
         "ignore": false,
@@ -617,7 +657,8 @@
         "number": "14",
         "bpage": "7094",
         "epage": "7102",
-        "article": null
+        "article": null,
+        "ncites": "6"
     },
     {
         "ignore": false,
@@ -632,7 +673,8 @@
         "number": null,
         "bpage": "141",
         "epage": "149",
-        "article": null
+        "article": null,
+        "ncites": "44"
     },
     {
         "ignore": false,
@@ -647,7 +689,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "e4807"
+        "article": "e4807",
+        "ncites": "2"
     },
     {
         "ignore": false,
@@ -662,7 +705,8 @@
         "number": "6386",
         "bpage": null,
         "epage": null,
-        "article": "eaao1729"
+        "article": "eaao1729",
+        "ncites": "220"
     },
     {
         "ignore": false,
@@ -677,7 +721,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": null
+        "article": null,
+        "ncites": "2"
     },
     {
         "ignore": false,
@@ -692,7 +737,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": null
+        "article": null,
+        "ncites": "-1"
     },
     {
         "ignore": false,
@@ -707,7 +753,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": null
+        "article": null,
+        "ncites": "-1"
     },
     {
         "ignore": false,
@@ -722,6 +769,7 @@
         "number": "8",
         "bpage": "1736",
         "epage": "1736",
-        "article": null
+        "article": null,
+        "ncites": "1"
     }
 ]

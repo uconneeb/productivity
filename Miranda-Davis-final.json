@@ -1,7 +1,7 @@
 [
     {
         "ignore": false,
-        "authors": "R Kays, MV Cove, J Diaz, K Todd, C Bresnan, M Snider, TE Lee Jr, JG Jasper, B Douglas, AP Crupi, KCB Weiss, H Rowe, T Sprague, J Schipper, CA Lepczyk, JE Fantle-Lepczyk, J Davenport, M Zimova, Z Farris, J Williamson, MC Fisher-Reid, D Rezendes, SM King, P Chrysafis, AJ Jensen, DS Jachowski, KC King, DJ Herrera, S Moore, M van der Merwe, JV Lombardi, M Sergeyev, ME Tewes, RV Horan III, MS Rentz, A Driver, LRSE Brandt, C Nagy, P Alexander, SP Maher, AK Darracq, EG Barr, G Hess, SL Webb, MD Proctor, JP Vanek, DJR Lafferty, T Hubbard, JE Jim\u00e9nez, C McCain, J Favreau, J Fogarty, J Hill, S Hammerich, M Gray, CC Rega-Brodsky, C Durbin, EA Flaherty, J Brooke, SS Coster, RG Lathrop, K Russell, DA Bogan, H Shamon, B Rooney, A Rockhill, RC Lonsinger, MT O'Mara, JA Compton, EL Barthelmess, KE Andy, JL Belant, T Petroelje, NH Wehr, DE Beyer Jr, DG Scognamillo, C Schalk, K Day, CN Ellison, C Ruthven, B Nunley, S Fritts, CA Whittier, SA Neiswenter, R Pelletier, BA DeGregorio, EK Kuprewicz, ML Davis, C Baruzzi, MA Lashley, B McDonald, D Mason, DR Risch, ML Allen, LS Whipple, JH Sperry, E Alexander, PJ Wolff, RH Hagen, A Mortelliti, A Bolinjcar, AM Wilson, S Van Norman, C Powell, H Coletto, M Schauss, H Bontrager, J Beasley, SN Ellis-Felege, SR Wehr, ST Giery, CE Pekins, SH LaRose, RS Revord, CP Hansen, L Hansen, JJ Millspaugh, A Zorn, BD Gerber, K Rezendes, J Adley, J Sevin, AM Green, \u00c7H \u015eekercio\u01E7lu, ME Pendergast, K Mullen, T Bird, AJ Edelman, A Romero, BJ O'Neill, N Schmitz, RA Vandermus, JM Alston, KM Kuhn, SC Hasstedt, DB Lesmeister, CL Appel, C Rota, JL Stenglein, C Anhalt-Depies, CL Nelson, RA Long, KR Remine, MJ Jordan, L Mark Elbroch, D Bergman, S Cendejas-Zarelli, K Sager-Fradkin, M Conner, G Morris, E Parsons, H Hern\u00e1ndez-Y\u00e1\u00f1ez, WJ McShea",
+        "authors": "R Kays, MV Cove, J Diaz, K Todd, C Bresnan, M Snider, TE Lee Jr, JG Jasper, B Douglas, AP Crupi, KCB Weiss, H Rowe, T Sprague, J Schipper, CA Lepczyk, JE Fantle-Lepczyk, J Davenport, M Zimova, Z Farris, J Williamson, MC Fisher-Reid, D Rezendes, SM King, P Chrysafis, AJ Jensen, DS Jachowski, KC King, DJ Herrera, S Moore, M van der Merwe, JV Lombardi, M Sergeyev, ME Tewes, RV Horan III, MS Rentz, A Driver, LRSE Brandt, C Nagy, P Alexander, SP Maher, AK Darracq, EG Barr, G Hess, SL Webb, MD Proctor, JP Vanek, DJR Lafferty, T Hubbard, JE Jim\u00e9nez, C McCain, J Favreau, J Fogarty, J Hill, S Hammerich, M Gray, CC Rega-Brodsky, C Durbin, EA Flaherty, J Brooke, SS Coster, RG Lathrop, K Russell, DA Bogan, H Shamon, B Rooney, A Rockhill, RC Lonsinger, MT O'Mara, JA Compton, EL Barthelmess, KE Andy, JL Belant, T Petroelje, NH Wehr, DE Beyer Jr, DG Scognamillo, C Schalk, K Day, CN Ellison, C Ruthven, B Nunley, S Fritts, CA Whittier, SA Neiswenter, R Pelletier, BA DeGregorio, EK Kuprewicz, ML Davis, C Baruzzi, MA Lashley, B McDonald, D Mason, DR Risch, ML Allen, LS Whipple, JH Sperry, E Alexander, PJ Wolff, RH Hagen, A Mortelliti, A Bolinjcar, AM Wilson, S Van Norman, C Powell, H Coletto, M Schauss, H Bontrager, J Beasley, SN Ellis-Felege, SR Wehr, ST Giery, CE Pekins, SH LaRose, RS Revord, CP Hansen, L Hansen, JJ Millspaugh, A Zorn, BD Gerber, K Rezendes, J Adley, J Sevin, AM Green, \u00c7H \u015eekercio\u01e7lu, ME Pendergast, K Mullen, T Bird, AJ Edelman, A Romero, BJ O'Neill, N Schmitz, RA Vandermus, JM Alston, KM Kuhn, SC Hasstedt, DB Lesmeister, CL Appel, C Rota, JL Stenglein, C Anhalt-Depies, CL Nelson, RA Long, KR Remine, MJ Jordan, L Mark Elbroch, D Bergman, S Cendejas-Zarelli, K Sager-Fradkin, M Conner, G Morris, E Parsons, H Hern\u00e1ndez-Y\u00e1\u00f1ez, WJ McShea",
         "year": 2022,
         "title": "SNAPSHOT USA 2020: A second coordinated national camera trap survey of the United States during the COVID\u201019 pandemic",
         "citation_id": "ww6Yrk8AAAAJ:5nxA0vEk-isC",
@@ -12,7 +12,8 @@
         "number": "10",
         "bpage": null,
         "epage": null,
-        "article": "e3775"
+        "article": "e3775",
+        "ncites": "3"
     },
     {
         "ignore": false,
@@ -27,7 +28,8 @@
         "number": "6",
         "bpage": null,
         "epage": null,
-        "article": "e03353"
+        "article": "e03353",
+        "ncites": "22"
     },
     {
         "ignore": false,
@@ -42,7 +44,8 @@
         "number": "2",
         "bpage": "283",
         "epage": "294",
-        "article": null
+        "article": null,
+        "ncites": "26"
     },
     {
         "ignore": false,
@@ -57,6 +60,7 @@
         "number": "3",
         "bpage": "452",
         "epage": "464",
-        "article": null
+        "article": null,
+        "ncites": "23"
     }
 ]

@@ -12,14 +12,18 @@
         "number": "2",
         "bpage": "627",
         "epage": "641",
-        "article": null
+        "article": null,
+        "ncites": "57"
     },
     {
         "ignore": false,
         "authors": "S Chakraborty, M Britton, J Wegrzyn, T Butterfield, PJ Mart\u00ednez-Garc\u00eda, RL Reagan, BJ Rao, CA Leslie, M Aradhaya, D Neale, K Woeste, A Dandekar",
         "year": 2015,
         "title": "YeATS-a tool suite for analyzing RNA-seq derived transcriptome identifies a highly transcribed putative extensin in heartwood/sapwood transition zone in black walnut",
-        "citation_id": ["vV1_cjUAAAAJ:iKmOvsfbmGkC","vV1_cjUAAAAJ:isC4tDSrTZIC"],
+        "citation_id": [
+            "vV1_cjUAAAAJ:iKmOvsfbmGkC",
+            "vV1_cjUAAAAJ:isC4tDSrTZIC"
+        ],
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vV1_cjUAAAAJ&cstart=60&sortby=pubdate&citation_for_view=vV1_cjUAAAAJ:iKmOvsfbmGkC",
         "doi": "10.12688/f1000research.6617.2",
         "journal": "F1000Research",
@@ -27,7 +31,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "155"
+        "article": "155",
+        "ncites": "31"
     },
     {
         "ignore": false,
@@ -42,7 +47,8 @@
         "number": "1",
         "bpage": null,
         "epage": null,
-        "article": "1057"
+        "article": "1057",
+        "ncites": "49"
     },
     {
         "ignore": false,
@@ -57,7 +63,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "484"
+        "article": "484",
+        "ncites": "38"
     },
     {
         "ignore": false,
@@ -77,7 +84,8 @@
         "number": null,
         "bpage": "1",
         "epage": "17",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -92,7 +100,8 @@
         "number": null,
         "bpage": "116",
         "epage": "128",
-        "article": null
+        "article": null,
+        "ncites": "111"
     },
     {
         "ignore": false,
@@ -107,7 +116,8 @@
         "number": "3",
         "bpage": "1",
         "epage": "12",
-        "article": null
+        "article": null,
+        "ncites": "10"
     },
     {
         "ignore": false,
@@ -122,7 +132,8 @@
         "number": "3",
         "bpage": "1",
         "epage": "10",
-        "article": null
+        "article": null,
+        "ncites": "24"
     },
     {
         "ignore": false,
@@ -137,7 +148,8 @@
         "number": "7",
         "bpage": "3093",
         "epage": "3099",
-        "article": null
+        "article": null,
+        "ncites": "23"
     },
     {
         "ignore": true,
@@ -152,7 +164,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "(not peer reviewed)"
+        "article": "(not peer reviewed)",
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -167,7 +180,8 @@
         "number": "5",
         "bpage": "507",
         "epage": "532",
-        "article": null
+        "article": null,
+        "ncites": "178"
     },
     {
         "ignore": false,
@@ -182,7 +196,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "138"
+        "article": "138",
+        "ncites": "6"
     },
     {
         "ignore": false,
@@ -197,7 +212,8 @@
         "number": "12",
         "bpage": "3787",
         "epage": "3802",
-        "article": null
+        "article": null,
+        "ncites": "46"
     },
     {
         "ignore": false,
@@ -212,7 +228,8 @@
         "number": "4",
         "bpage": "1613",
         "epage": "1626",
-        "article": null
+        "article": null,
+        "ncites": "176"
     },
     {
         "ignore": false,
@@ -227,7 +244,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "558"
+        "article": "558",
+        "ncites": "36"
     },
     {
         "ignore": false,
@@ -242,7 +260,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "bax052"
+        "article": "bax052",
+        "ncites": "14"
     },
     {
         "ignore": false,
@@ -257,7 +276,8 @@
         "number": "1",
         "bpage": "1",
         "epage": "4",
-        "article": null
+        "article": null,
+        "ncites": "110"
     },
     {
         "ignore": false,
@@ -272,7 +292,8 @@
         "number": "3",
         "bpage": "831",
         "epage": "848",
-        "article": null
+        "article": null,
+        "ncites": "63"
     },
     {
         "ignore": false,
@@ -287,7 +308,8 @@
         "number": "1",
         "bpage": "1",
         "epage": "10",
-        "article": null
+        "article": null,
+        "ncites": "14"
     },
     {
         "ignore": false,
@@ -302,7 +324,8 @@
         "number": "2",
         "bpage": "1",
         "epage": "17",
-        "article": null
+        "article": null,
+        "ncites": "28"
     },
     {
         "ignore": false,
@@ -317,7 +340,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "868"
+        "article": "868",
+        "ncites": "23"
     },
     {
         "ignore": false,
@@ -332,7 +356,8 @@
         "number": "9",
         "bpage": "3157",
         "epage": "3167",
-        "article": null
+        "article": null,
+        "ncites": "89"
     },
     {
         "ignore": false,
@@ -347,7 +372,8 @@
         "number": "12",
         "bpage": "3168",
         "epage": "3185",
-        "article": null
+        "article": null,
+        "ncites": "59"
     },
     {
         "ignore": false,
@@ -362,7 +388,8 @@
         "number": "3",
         "bpage": "327",
         "epage": "332",
-        "article": null
+        "article": null,
+        "ncites": "3"
     },
     {
         "ignore": false,
@@ -377,7 +404,8 @@
         "number": "5",
         "bpage": "1",
         "epage": "7",
-        "article": null
+        "article": null,
+        "ncites": "15"
     },
     {
         "ignore": false,
@@ -392,7 +420,8 @@
         "number": "1",
         "bpage": "1",
         "epage": "14",
-        "article": null
+        "article": null,
+        "ncites": "19"
     },
     {
         "ignore": false,
@@ -407,7 +436,8 @@
         "number": "5",
         "bpage": "1461",
         "epage": "1474",
-        "article": null
+        "article": null,
+        "ncites": "31"
     },
     {
         "ignore": false,
@@ -422,7 +452,8 @@
         "number": "1",
         "bpage": "1",
         "epage": "17",
-        "article": null
+        "article": null,
+        "ncites": "23"
     },
     {
         "ignore": false,
@@ -437,7 +468,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "bay088"
+        "article": "bay088",
+        "ncites": "52"
     },
     {
         "ignore": false,
@@ -452,7 +484,8 @@
         "number": "1",
         "bpage": null,
         "epage": null,
-        "article": "bay084"
+        "article": "bay084",
+        "ncites": "28"
     },
     {
         "ignore": false,
@@ -467,7 +500,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "632"
+        "article": "632",
+        "ncites": "28"
     },
     {
         "ignore": false,
@@ -482,7 +516,8 @@
         "number": "D1",
         "bpage": "D1137",
         "epage": "D1145",
-        "article": null
+        "article": null,
+        "ncites": "218"
     },
     {
         "ignore": false,
@@ -497,7 +532,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "baz100"
+        "article": "baz100",
+        "ncites": "5"
     },
     {
         "ignore": false,
@@ -508,11 +544,12 @@
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=vV1_cjUAAAAJ&cstart=20&sortby=pubdate&citation_for_view=vV1_cjUAAAAJ:m5Mwo8ouzesC",
         "doi": "10.1093/database/baz077",
         "journal": "Database",
-        "volume":  "2019",
+        "volume": "2019",
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "baz077"
+        "article": "baz077",
+        "ncites": "18"
     },
     {
         "ignore": false,
@@ -527,7 +564,8 @@
         "number": "3",
         "bpage": "305",
         "epage": "310",
-        "article": null
+        "article": null,
+        "ncites": "18"
     },
     {
         "ignore": false,
@@ -542,7 +580,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "813"
+        "article": "813",
+        "ncites": "26"
     },
     {
         "ignore": false,
@@ -557,7 +596,8 @@
         "number": "9",
         "bpage": null,
         "epage": null,
-        "article": "315"
+        "article": "315",
+        "ncites": "17"
     },
     {
         "ignore": false,
@@ -572,7 +612,8 @@
         "number": "1",
         "bpage": "228",
         "epage": "241",
-        "article": null
+        "article": null,
+        "ncites": "11"
     },
     {
         "ignore": false,
@@ -587,7 +628,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "baaa032"
+        "article": "baaa032",
+        "ncites": "2"
     },
     {
         "ignore": true,
@@ -602,7 +644,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "(not peer reviewed)"
+        "article": "(not peer reviewed)",
+        "ncites": "5"
     },
     {
         "ignore": false,
@@ -617,7 +660,8 @@
         "number": "2",
         "bpage": "250",
         "epage": "260",
-        "article": null
+        "article": null,
+        "ncites": "33"
     },
     {
         "ignore": false,
@@ -632,7 +676,8 @@
         "number": "2",
         "bpage": "591",
         "epage": "604",
-        "article": null
+        "article": null,
+        "ncites": "78"
     },
     {
         "ignore": false,
@@ -647,7 +692,8 @@
         "number": "2",
         "bpage": "410",
         "epage": "423",
-        "article": null
+        "article": null,
+        "ncites": "19"
     },
     {
         "ignore": false,
@@ -662,7 +708,8 @@
         "number": "11",
         "bpage": "3907",
         "epage": "3919",
-        "article": null
+        "article": null,
+        "ncites": "51"
     },
     {
         "ignore": false,
@@ -677,7 +724,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "106965"
+        "article": "106965",
+        "ncites": "6"
     },
     {
         "ignore": false,
@@ -692,7 +740,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "659"
+        "article": "659",
+        "ncites": "3"
     },
     {
         "ignore": false,
@@ -707,7 +756,8 @@
         "number": "6",
         "bpage": null,
         "epage": null,
-        "article": "e11439"
+        "article": "e11439",
+        "ncites": "15"
     },
     {
         "ignore": false,
@@ -722,7 +772,8 @@
         "number": "4",
         "bpage": "1351",
         "epage": "1365",
-        "article": null
+        "article": null,
+        "ncites": "5"
     },
     {
         "ignore": false,
@@ -737,7 +788,8 @@
         "number": "9",
         "bpage": null,
         "epage": null,
-        "article": "1220"
+        "article": "1220",
+        "ncites": "2"
     },
     {
         "ignore": false,
@@ -752,11 +804,12 @@
         "number": "10",
         "bpage": "1001",
         "epage": "1003",
-        "article": null
+        "article": null,
+        "ncites": "1"
     },
     {
         "ignore": false,
-        "authors": "M Staton, E Cannon, LA Sanderson, J Wegrzyn, T Anderson, S Buehler, I Cobo-Simón, K Faaberg, E Grau, V Guignon, J Gunoskey, B Inderski, S Jung, K Lager, D Main, M Poelchau, R Ramnath, P Richter, J West, S Ficklin",
+        "authors": "M Staton, E Cannon, LA Sanderson, J Wegrzyn, T Anderson, S Buehler, I Cobo-Sim\u00f3n, K Faaberg, E Grau, V Guignon, J Gunoskey, B Inderski, S Jung, K Lager, D Main, M Poelchau, R Ramnath, P Richter, J West, S Ficklin",
         "year": 2021,
         "title": "Tripal, a community update after 10 years of supporting open source, standards-based genetic, genomic and breeding databases",
         "citation_id": "vV1_cjUAAAAJ:CLQ-NLsb8zAC",
@@ -767,7 +820,8 @@
         "number": "6",
         "bpage": null,
         "epage": null,
-        "article": "bbab238"
+        "article": "bbab238",
+        "ncites": "5"
     },
     {
         "ignore": false,
@@ -782,7 +836,8 @@
         "number": "4",
         "bpage": null,
         "epage": null,
-        "article": "e2115640118"
+        "article": "e2115640118",
+        "ncites": "29"
     },
     {
         "ignore": false,
@@ -797,7 +852,8 @@
         "number": "4",
         "bpage": null,
         "epage": null,
-        "article": "e2115639118"
+        "article": "e2115639118",
+        "ncites": "23"
     },
     {
         "ignore": false,
@@ -812,7 +868,8 @@
         "number": "2",
         "bpage": "695",
         "epage": "710",
-        "article": null
+        "article": null,
+        "ncites": "7"
     },
     {
         "ignore": false,
@@ -827,7 +884,8 @@
         "number": "2",
         "bpage": null,
         "epage": null,
-        "article": "jkab421"
+        "article": "jkab421",
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -842,7 +900,8 @@
         "number": "2",
         "bpage": null,
         "epage": null,
-        "article": "e8611"
+        "article": "e8611",
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -857,7 +916,8 @@
         "number": "6",
         "bpage": "1591",
         "epage": "1613",
-        "article": null
+        "article": null,
+        "ncites": "3"
     },
     {
         "ignore": false,
@@ -872,7 +932,8 @@
         "number": "4",
         "bpage": "389",
         "epage": "401",
-        "article": null
+        "article": null,
+        "ncites": "41"
     },
     {
         "ignore": false,
@@ -887,7 +948,8 @@
         "number": "1",
         "bpage": "1",
         "epage": "10",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -902,7 +964,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "143"
+        "article": "143",
+        "ncites": "1"
     },
     {
         "ignore": false,
@@ -917,7 +980,8 @@
         "number": null,
         "bpage": null,
         "epage": null,
-        "article": "14522"
+        "article": "14522",
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -932,7 +996,8 @@
         "number": "2",
         "bpage": "315",
         "epage": "334",
-        "article": null
+        "article": null,
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -947,7 +1012,8 @@
         "number": "2",
         "bpage": null,
         "epage": null,
-        "article": "jkac304"
+        "article": "jkac304",
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -962,7 +1028,8 @@
         "number": "10",
         "bpage": null,
         "epage": null,
-        "article": "e9369"
+        "article": "e9369",
+        "ncites": "0"
     },
     {
         "ignore": false,
@@ -977,6 +1044,7 @@
         "number": "1",
         "bpage": null,
         "epage": null,
-        "article": "jkab380"
+        "article": "jkab380",
+        "ncites": "18"
     }
 ]
