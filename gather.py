@@ -17,7 +17,8 @@ faculty = [
     'Schwenk',
     'Seemann',
     'Trumbo',
-    'Urban'
+    'Urban',
+    'Wegrzyn'
 ]
 
 filepaths = {
@@ -35,7 +36,8 @@ filepaths = {
     'Schwenk':   'Kurt-Schwenk-combined.json',
     'Seemann':   'Jeff-Seemann-combined.json',
     'Trumbo':    'Stephen-Trumbo-combined.json',
-    'Urban':     'Mark-Urban-combined.json'
+    'Urban':     'Mark-Urban-combined.json',
+    'Wegrzyn':     'Jill-Wegrzyn-combined.json'
 }
 
 def dumpException(exceptf, f, a, y, t, j, v, b, e, doi):
