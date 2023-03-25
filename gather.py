@@ -18,7 +18,8 @@ faculty = [
     'Seemann',
     'Trumbo',
     'Urban',
-    'Wegrzyn'
+    'Wegrzyn',
+    'Yarish'
 ]
 
 filepaths = {
@@ -37,7 +38,8 @@ filepaths = {
     'Seemann':   'Jeff-Seemann-final.json',
     'Trumbo':    'Stephen-Trumbo-final.json',
     'Urban':     'Mark-Urban-final.json',
-    'Wegrzyn':     'Jill-Wegrzyn-final.json'
+    'Wegrzyn':   'Jill-Wegrzyn-final.json',
+    'Yarish':    'Charles-Yarish-final.json'
 }
 
 def dumpException(exceptf, f, a, y, t, j, v, b, e, doi):
@@ -149,6 +151,9 @@ for f in faculty:
             elif booktitle and bookeditors and bookpublisher and bpage and epage:
                 ischapter = True
                 bib += ' pp. %s-%s in: %s, %s (eds.) %s' % (bpage, epage, booktitle, bookeditors, bookpublisher)
+            elif booktitle and bookpublisher:
+                ischapter = True
+                bib += ' In: %s, %s' % (booktitle, bookpublisher)
             else:
                 exception = True
             if doi:
