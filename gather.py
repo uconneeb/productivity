@@ -3,6 +3,7 @@ import json, sys, re
 starting_year = 2015
 
 faculty = [
+    'Anderson',
     'Bagchi',
     'Bolnick',
     'Bush',
@@ -25,6 +26,7 @@ faculty = [
 ]
 
 filepaths = {
+    'Anderson':  'Gregory-Anderson-final.json',
     'Bagchi':    'Robert-Bagchi-final.json',
     'Bolnick':   'Daniel-Bolnick-final.json',
     'Bush':      'Andrew-Bush-final.json',
