@@ -1,7 +1,7 @@
 [
     {
         "ignore": false,
-        "authors": "DI Bolnick, AK Hund, P Nosil, F Peng, M Ravinet, S Stankowski, S Subramanian, JBW Wolf, R Yukilevich",
+        "authors": "<DI Bolnick>, AK Hund, P Nosil, F Peng, M Ravinet, S Stankowski, S Subramanian, JBW Wolf, R Yukilevich",
         "year": 2023,
         "title": "A multivariate view of the speciation continuum",
         "citation_id": "cfwxm0AAAAAJ:3htObqc8RwsC",
@@ -17,7 +17,7 @@
     },
     {
         "ignore": false,
-        "authors": "HA Poore, YE Stuart, DJ Rennison, M Roesti, AP Hendry, DI Bolnick, CL Peichel",
+        "authors": "HA Poore, YE Stuart, DJ Rennison, M Roesti, AP Hendry, <DI Bolnick>, CL Peichel",
         "year": 2023,
         "title": "Repeated genetic divergence plays a minor role in repeated phenotypic divergence of lake-stream stickleback",
         "citation_id": "cfwxm0AAAAAJ:fFSKOagxvKUC",
@@ -33,7 +33,7 @@
     },
     {
         "ignore": false,
-        "authors": "M Roesti, JS Groh, SA Blain, M Huss, P Rassias, DI Bolnick, YE Stuart, CL Peichel, D Schluter",
+        "authors": "M Roesti, JS Groh, SA Blain, M Huss, P Rassias, <DI Bolnick>, YE Stuart, CL Peichel, D Schluter",
         "year": 2023,
         "title": "Species divergence under competition and shared predation",
         "citation_id": "cfwxm0AAAAAJ:OR75R8vi5nAC",
@@ -49,7 +49,7 @@
     },
     {
         "ignore": false,
-        "authors": "JN Weber, NC Steinel, F Peng, KC Shim, BK Lohman, LE Fuess, YE Stuart, DI Bolnick",
+        "authors": "JN Weber, NC Steinel, F Peng, KC Shim, BK Lohman, LE Fuess, YE Stuart, <DI Bolnick>",
         "year": 2022,
         "title": "Evolutionary gain and loss of a pathological immune response to parasitism",
         "citation_id": "cfwxm0AAAAAJ:yFnVuubrUp4C",
@@ -65,7 +65,7 @@
     },
     {
         "ignore": false,
-        "authors": "SP De Lisle, SJ Schrieber, DI Bolnick",
+        "authors": "SP De Lisle, SJ Schrieber, <DI Bolnick>",
         "year": 2022,
         "title": "Complex community\u2010wide consequences of consumer sexual dimorphism",
         "citation_id": "cfwxm0AAAAAJ:4MWp96NkSFoC",
@@ -81,7 +81,7 @@
     },
     {
         "ignore": false,
-        "authors": "AK Hund, LE Fuess, ML Kenney, MF Maciejewski, JM Marini, KC Shim, DI Bolnick",
+        "authors": "AK Hund, LE Fuess, ML Kenney, MF Maciejewski, JM Marini, KC Shim, <DI Bolnick>",
         "year": 2022,
         "title": "Population\u2010level variation in parasite resistance due to differences in immune initiation and rate of response",
         "citation_id": "cfwxm0AAAAAJ:IRz6iEL74y4C",
@@ -97,7 +97,7 @@
     },
     {
         "ignore": false,
-        "authors": "SP De Lisle, DI Bolnick, ED Brodie III, AJ Moore, JW McGlothlin",
+        "authors": "SP De Lisle, <DI Bolnick>, ED Brodie III, AJ Moore, JW McGlothlin",
         "year": 2022,
         "title": "Interacting phenotypes and the coevolutionary process: Interspecific indirect genetic effects alter coevolutionary dynamics",
         "citation_id": "cfwxm0AAAAAJ:sNmaIFBj_lkC",
@@ -113,7 +113,7 @@
     },
     {
         "ignore": false,
-        "authors": "LE Fuess, JN Weber, S den Haan, NC Steinel, KC Shim, DI Bolnick",
+        "authors": "LE Fuess, JN Weber, S den Haan, NC Steinel, KC Shim, <DI Bolnick>",
         "year": 2021,
         "title": "Between\u2010population differences in constitutive and infection\u2010induced gene expression in threespine stickleback",
         "citation_id": "cfwxm0AAAAAJ:XvxMoLDsR5gC",
@@ -129,7 +129,7 @@
     },
     {
         "ignore": false,
-        "authors": "SR Fleischer, DI Bolnick, SJ Schreiber",
+        "authors": "SR Fleischer, <DI Bolnick>, SJ Schreiber",
         "year": 2021,
         "title": "Sick of eating: Eco\u2010evo\u2010immuno dynamics of predators and their trophically acquired parasites",
         "citation_id": "cfwxm0AAAAAJ:e_rmSamDkqQC",
@@ -145,7 +145,7 @@
     },
     {
         "ignore": false,
-        "authors": "A Akram, M Rais, K Lopez\u2010Hervas, RD Tarvin, M Saeed, DI Bolnick, DC Cannatella",
+        "authors": "A Akram, M Rais, K Lopez\u2010Hervas, RD Tarvin, M Saeed, <DI Bolnick>, DC Cannatella",
         "year": 2021,
         "title": "An insight into molecular taxonomy of bufonids, microhylids, and dicroglossid frogs: First genetic records from Pakistan",
         "citation_id": "cfwxm0AAAAAJ:4hFrxpcac9AC",
@@ -161,7 +161,7 @@
     },
     {
         "ignore": false,
-        "authors": "A Ishikawa, YE Stuart, DI Bolnick, J Kitano",
+        "authors": "A Ishikawa, YE Stuart, <DI Bolnick>, J Kitano",
         "year": 2021,
         "title": "Copy number variation of a fatty acid desaturase gene Fads2 associated with ecological divergence in freshwater stickleback populations",
         "citation_id": "cfwxm0AAAAAJ:a9-T7VOCCH8C",
@@ -177,7 +177,7 @@
     },
     {
         "ignore": false,
-        "authors": "M Vrt\u00edlek, DI Bolnick",
+        "authors": "M Vrt\u00edlek, <DI Bolnick>",
         "year": 2021,
         "title": "Macroevolutionary foundations of a recently evolved innate immune defense",
         "citation_id": "cfwxm0AAAAAJ:NXb4pA-qfm4C",
@@ -193,7 +193,7 @@
     },
     {
         "ignore": false,
-        "authors": "SP De Lisle, DI Bolnick",
+        "authors": "SP De Lisle, <DI Bolnick>",
         "year": 2021,
         "title": "Male and female reproductive fitness costs of an immune response in natural populations",
         "citation_id": "cfwxm0AAAAAJ:xtoqd-5pKcoC",
@@ -209,7 +209,7 @@
     },
     {
         "ignore": false,
-        "authors": "LE Fuess, S den Haan, F Ling, JN Weber, NC Steinel, DI Bolnick",
+        "authors": "LE Fuess, S den Haan, F Ling, JN Weber, NC Steinel, <DI Bolnick>",
         "year": 2021,
         "title": "Immune gene expression covaries with gut microbiome composition in stickleback",
         "citation_id": "cfwxm0AAAAAJ:q3CdL3IzO_QC",
@@ -225,7 +225,7 @@
     },
     {
         "ignore": false,
-        "authors": "F Peng, KM Ballare, S Hollis Woodard, S den Haan, DI Bolnick",
+        "authors": "F Peng, KM Ballare, S Hollis Woodard, S den Haan, <DI Bolnick>",
         "year": 2021,
         "title": "What evolutionary processes maintain MHC II\ua7b5 diversity within and among populations of stickleback?",
         "citation_id": "cfwxm0AAAAAJ:XoXfffV-tXoC",
@@ -241,7 +241,7 @@
     },
     {
         "ignore": false,
-        "authors": "MOB Reiskind, ML Moody, DI Bolnick, CT Hanifin, CE Farrior",
+        "authors": "MOB Reiskind, ML Moody, <DI Bolnick>, CT Hanifin, CE Farrior",
         "year": 2021,
         "title": "Nothing in evolution makes sense except in the light of biology",
         "citation_id": "cfwxm0AAAAAJ:kh2fBNsKQNwC",
@@ -257,7 +257,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Stockmaier, N Stroeymeyt, EC Shattuck, DM Hawley, LA Meyers, DI Bolnick",
+        "authors": "S Stockmaier, N Stroeymeyt, EC Shattuck, DM Hawley, LA Meyers, <DI Bolnick>",
         "year": 2021,
         "title": "Infectious diseases and social distancing in nature",
         "citation_id": "cfwxm0AAAAAJ:bz8QjSJIRt4C",
@@ -273,7 +273,7 @@
     },
     {
         "ignore": false,
-        "authors": "A H\u00e4rer, D Bolnick, DJ Rennison",
+        "authors": "A H\u00e4rer, <D Bolnick>, DJ Rennison",
         "year": 2021,
         "title": "The genomic signature of ecological divergence along the benthic-limnetic axis in allopatric and sympatric threespine stickleback",
         "citation_id": "cfwxm0AAAAAJ:r_AWSJRzSzQC",
@@ -289,7 +289,7 @@
     },
     {
         "ignore": false,
-        "authors": "GE Haines, YE Stuart, D Hanson, T Tasneem, DI Bolnick, HCE Larsson, AP Hendry",
+        "authors": "GE Haines, YE Stuart, D Hanson, T Tasneem, <DI Bolnick>, HCE Larsson, AP Hendry",
         "year": 2020,
         "title": "Adding the third dimension to studies of parallel evolution of morphology and function: An exploration based on parapatric lake\u2010stream stickleback",
         "citation_id": "cfwxm0AAAAAJ:hCrLmN-GePgC",
@@ -305,7 +305,7 @@
     },
     {
         "ignore": false,
-        "authors": "VB Smocovitis, DI Bolnick, CM Moore, PL Morse",
+        "authors": "VB Smocovitis, <DI Bolnick>, CM Moore, PL Morse",
         "year": 2020,
         "title": "Trends and transitions in 150 years of The American Naturalist",
         "citation_id": "cfwxm0AAAAAJ:edDO8Oi4QzsC",
@@ -321,7 +321,7 @@
     },
     {
         "ignore": false,
-        "authors": "DI Bolnick, EJ Resetarits, K Ballare, YE Stuart, WE Stutz",
+        "authors": "<DI Bolnick>, EJ Resetarits, K Ballare, YE Stuart, WE Stutz",
         "year": 2020,
         "title": "Scale\u2010dependent effects of host patch traits on species composition in a stickleback parasite metacommunity",
         "citation_id": "cfwxm0AAAAAJ:Ug5p-4gJ2f0C",
@@ -337,7 +337,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Stockmaier, DI Bolnick, RA Page, D Josic, GG Carter",
+        "authors": "S Stockmaier, <DI Bolnick>, RA Page, D Josic, GG Carter",
         "year": 2020,
         "title": "Immune-challenged vampire bats produce fewer contact calls",
         "citation_id": "cfwxm0AAAAAJ:oNZyr7d5Mn4C",
@@ -353,7 +353,7 @@
     },
     {
         "ignore": false,
-        "authors": "SP De Lisle, DI Bolnick",
+        "authors": "SP De Lisle, <DI Bolnick>",
         "year": 2020,
         "title": "A multivariate view of parallel evolution",
         "citation_id": "cfwxm0AAAAAJ:LI9QrySNdTsC",
@@ -369,7 +369,7 @@
     },
     {
         "ignore": false,
-        "authors": "G Li, B Yin, J Li, J Wang, W Wei, DI Bolnick, X Wan, B Zhu, Z Zhang",
+        "authors": "G Li, B Yin, J Li, J Wang, W Wei, <DI Bolnick>, X Wan, B Zhu, Z Zhang",
         "year": 2020,
         "title": "Host-microbiota interaction helps to explain the bottom-up effects of climate change on a small rodent species",
         "citation_id": "cfwxm0AAAAAJ:WZBGuue-350C",
@@ -385,7 +385,7 @@
     },
     {
         "ignore": false,
-        "authors": "DI Bolnick, EJ Resetarits, K Ballare, YE Stuart, WE Stutz",
+        "authors": "<DI Bolnick>, EJ Resetarits, K Ballare, YE Stuart, WE Stutz",
         "year": 2020,
         "title": "Host patch traits have scale\u2010dependent effects on diversity in a stickleback parasite metacommunity",
         "citation_id": "cfwxm0AAAAAJ:M7yex6snE4oC",
@@ -401,7 +401,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Stockmaier, DI Bolnick, RA Page, GG Carter",
+        "authors": "S Stockmaier, <DI Bolnick>, RA Page, GG Carter",
         "year": 2020,
         "title": "Sickness effects on social interactions depend on the type of behaviour and relationship",
         "citation_id": "cfwxm0AAAAAJ:kz9GbA2Ns4gC",
@@ -417,7 +417,7 @@
     },
     {
         "ignore": false,
-        "authors": "MF Maciejewski, C Jiang, YE Stuart, DI Bolnick",
+        "authors": "MF Maciejewski, C Jiang, YE Stuart, <DI Bolnick>",
         "year": 2020,
         "title": "Microhabitat contributes to microgeographic divergence in threespine stickleback",
         "citation_id": "cfwxm0AAAAAJ:k8Z6L05lTy4C",
@@ -433,7 +433,7 @@
     },
     {
         "ignore": false,
-        "authors": "F Ling, N Steinel, J Weber, L Ma, C Smith, D Correa, B Zhu, D Bolnick, G Wang",
+        "authors": "F Ling, N Steinel, J Weber, L Ma, C Smith, D Correa, B Zhu, <D Bolnick>, G Wang",
         "year": 2020,
         "title": "The gut microbiota response to helminth infection depends on host sex and genotype",
         "citation_id": "cfwxm0AAAAAJ:VaXvl8Fpj5cC",
@@ -449,7 +449,7 @@
     },
     {
         "ignore": false,
-        "authors": "DI Bolnick, KM Ballare",
+        "authors": "<DI Bolnick>, KM Ballare",
         "year": 2020,
         "title": "Resource diversity promotes among\u2010individual diet variation, but not genomic diversity, in lake stickleback",
         "citation_id": "cfwxm0AAAAAJ:tuHXwOkdijsC",
@@ -465,7 +465,7 @@
     },
     {
         "ignore": false,
-        "authors": "A Paccard, D Hanson, YE Stuart, FA von Hippel, M Kalbe, T Klepaker, S Sk\u00falason, BK Kristj\u00e1nsson, DI Bolnick, AP Hendry, RDH Barrett",
+        "authors": "A Paccard, D Hanson, YE Stuart, FA von Hippel, M Kalbe, T Klepaker, S Sk\u00falason, BK Kristj\u00e1nsson, <DI Bolnick>, AP Hendry, RDH Barrett",
         "year": 2020,
         "title": "Repeatability of adaptive radiation depends on spatial scale: regional versus global replicates of stickleback in lake versus stream habitats",
         "citation_id": "cfwxm0AAAAAJ:URolC5Kub84C",
@@ -481,7 +481,7 @@
     },
     {
         "ignore": false,
-        "authors": "P Edelaar, A Ba\u00f1os-Villalba, DP Quevedo, G Escudero, DI Bolnick, A Jord\u00e1n-Andrade",
+        "authors": "P Edelaar, A Ba\u00f1os-Villalba, DP Quevedo, G Escudero, <DI Bolnick>, A Jord\u00e1n-Andrade",
         "year": 2019,
         "title": "Biased movement drives local cryptic coloration on distinct urban pavements",
         "citation_id": "cfwxm0AAAAAJ:TIZ-Mc8IlK0C",
@@ -497,7 +497,7 @@
     },
     {
         "ignore": false,
-        "authors": "SP Brady, DI Bolnick, AL Angert, A Gonzalez, RDH Barrett, E Crispo, AM Derry, CG Eckert, DJ Fraser, GF Fussmann, F Guichard, T Lamy, AG McAdam, AEM Newman, A Paccard, G Rolshausen, AM Simons, AP Hendry",
+        "authors": "SP Brady, <DI Bolnick>, AL Angert, A Gonzalez, RDH Barrett, E Crispo, AM Derry, CG Eckert, DJ Fraser, GF Fussmann, F Guichard, T Lamy, AG McAdam, AEM Newman, A Paccard, G Rolshausen, AM Simons, AP Hendry",
         "year": 2019,
         "title": "Causes of maladaptation",
         "citation_id": "cfwxm0AAAAAJ:g3aElNc5_aQC",
@@ -513,7 +513,7 @@
     },
     {
         "ignore": false,
-        "authors": "SP Brady, DI Bolnick, RDH Barrett, L Chapman, E Crispo, AM Derry, CG Eckert, DJ Fraser, GF Fussmann, A Gonzalez, F Guichard, T Lamy, J Lane, AG McAdam, AEM Newman, A Paccard, B Robertson, G Rolshausen, PM Schulte, AM Simons, M Vellend, A Hendry",
+        "authors": "SP Brady, <DI Bolnick>, RDH Barrett, L Chapman, E Crispo, AM Derry, CG Eckert, DJ Fraser, GF Fussmann, A Gonzalez, F Guichard, T Lamy, J Lane, AG McAdam, AEM Newman, A Paccard, B Robertson, G Rolshausen, PM Schulte, AM Simons, M Vellend, A Hendry",
         "year": 2019,
         "title": "Understanding maladaptation by uniting ecological and evolutionary perspectives",
         "citation_id": "cfwxm0AAAAAJ:vbGhcppDl1QC",
@@ -529,7 +529,7 @@
     },
     {
         "ignore": false,
-        "authors": "MF Maciejewski, CA Hernandez, DI Bolnick",
+        "authors": "MF Maciejewski, CA Hernandez, <DI Bolnick>",
         "year": 2019,
         "title": "Investigating the association between armour coverage and parasite infection in an estuarine population of stickleback",
         "citation_id": "cfwxm0AAAAAJ:hMsQuOkrut0C",
@@ -545,7 +545,7 @@
     },
     {
         "ignore": false,
-        "authors": "DJ Rennison, YE Stuart, DI Bolnick, CL Peichel",
+        "authors": "DJ Rennison, YE Stuart, <DI Bolnick>, CL Peichel",
         "year": 2019,
         "title": "Ecological factors and morphological traits are associated with repeated genomic differentiation between lake and stream stickleback",
         "citation_id": "cfwxm0AAAAAJ:BwyfMAYsbu0C",
@@ -561,7 +561,7 @@
     },
     {
         "ignore": false,
-        "authors": "AJ Dagilis, M Kirkpatrick, DI Bolnick",
+        "authors": "AJ Dagilis, M Kirkpatrick, <DI Bolnick>",
         "year": 2019,
         "title": "The evolution of hybrid fitness during speciation",
         "citation_id": "cfwxm0AAAAAJ:ML0RJ9NH7IQC",
@@ -577,7 +577,7 @@
     },
     {
         "ignore": false,
-        "authors": "P Edelaar, DI Bolnick",
+        "authors": "P Edelaar, <DI Bolnick>",
         "year": 2019,
         "title": "Appreciating the multiple processes increasing individual or population fitness",
         "citation_id": "cfwxm0AAAAAJ:AvfA0Oy_GE0C",
@@ -593,7 +593,7 @@
     },
     {
         "ignore": false,
-        "authors": "R Svanb\u00e4ck, DI Bolnick",
+        "authors": "R Svanb\u00e4ck, <DI Bolnick>",
         "year": 2019,
         "title": "Behavioral ecology: food specialization",
         "citation_id": null,
@@ -614,7 +614,7 @@
     },
     {
         "ignore": false,
-        "authors": "JL Bronstein, DI Bolnick",
+        "authors": "JL Bronstein, <DI Bolnick>",
         "year": 2018,
         "title": "\u201cHer joyous enthusiasm for her life-work \u2026\u201d: early women authors in The American Naturalist",
         "citation_id": "cfwxm0AAAAAJ:_Re3VWB3Y0AC",
@@ -630,7 +630,7 @@
     },
     {
         "ignore": false,
-        "authors": "DI Bolnick, RDH Barrett, KB Oke, DJ Rennison, YE Stuart",
+        "authors": "<DI Bolnick>, RDH Barrett, KB Oke, DJ Rennison, YE Stuart",
         "year": 2018,
         "title": "(Non) parallel evolution",
         "citation_id": "cfwxm0AAAAAJ:7T2F9Uy0os0C",
@@ -646,7 +646,7 @@
     },
     {
         "ignore": false,
-        "authors": "CD Brock, D Rennison, T Veen, DI Bolnick",
+        "authors": "CD Brock, D Rennison, T Veen, <DI Bolnick>",
         "year": 2018,
         "title": "Opsin expression predicts male nuptial color in threespine stickleback",
         "citation_id": "cfwxm0AAAAAJ:kzcrU_BdoSEC",
@@ -662,7 +662,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Stockmaier, DI Bolnick, RA Page, GG Carter",
+        "authors": "S Stockmaier, <DI Bolnick>, RA Page, GG Carter",
         "year": 2018,
         "title": "An immune challenge reduces social grooming in vampire bats",
         "citation_id": "cfwxm0AAAAAJ:W5xh706n7nkC",
@@ -678,7 +678,7 @@
     },
     {
         "ignore": false,
-        "authors": "CM French, T Ingram, DI Bolnick",
+        "authors": "CM French, T Ingram, <DI Bolnick>",
         "year": 2018,
         "title": "Geographical variation in colour of female threespine stickleback (_Gasterosteus aculeatus_)",
         "citation_id": "cfwxm0AAAAAJ:_Ybze24A_UAC",
@@ -694,7 +694,7 @@
     },
     {
         "ignore": false,
-        "authors": "E Kuzmin, B VanderSluis, W Wang, G Tan, R Deshpande, Y Chen, M Usaj, J van Leeuwen, EN Koch, C Pons, AJ Dagilis, M Pryszlak, JZY Wang, J Hanchard, M Riggi, K Xu, H Heydari, BJ San Luis, E Shuteriqi, H Zhu, N Van Dyk, S Sharifpoor, M Costanzo, R Loewith, A Caudy, D Bolnick, GW Brown, BJ Andrews, C Boone, CL Myers",
+        "authors": "E Kuzmin, B VanderSluis, W Wang, G Tan, R Deshpande, Y Chen, M Usaj, J van Leeuwen, EN Koch, C Pons, AJ Dagilis, M Pryszlak, JZY Wang, J Hanchard, M Riggi, K Xu, H Heydari, BJ San Luis, E Shuteriqi, H Zhu, N Van Dyk, S Sharifpoor, M Costanzo, R Loewith, A Caudy, <D Bolnick>, GW Brown, BJ Andrews, C Boone, CL Myers",
         "year": 2018,
         "title": "Systematic analysis of complex genetic interactions",
         "citation_id": "cfwxm0AAAAAJ:uLbwQdceFCQC",
@@ -710,7 +710,7 @@
     },
     {
         "ignore": false,
-        "authors": "LE Fuess, DI Bolnick",
+        "authors": "LE Fuess, <DI Bolnick>",
         "year": 2023,
         "title": "Single-cell RNA sequencing reveals micro-evolution of the stickleback immune system",
         "citation_id": "cfwxm0AAAAAJ:umqufdRvDiIC",
@@ -726,7 +726,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Sanderson, DI Bolnick, M Kinnison, K Gotanda, AP Hendry",
+        "authors": "S Sanderson, <DI Bolnick>, M Kinnison, K Gotanda, AP Hendry",
         "year": 2023,
         "title": "Contemporary changes in phenotypic variation and potential consequences for eco-evolutionary dynamics",
         "citation_id": null,
@@ -742,7 +742,7 @@
     },
     {
         "ignore": false,
-        "authors": "R Rangel, DI Bolnick, T Ingram",
+        "authors": "R Rangel, <DI Bolnick>, T Ingram",
         "year": 2023,
         "title": "Rates of alloparental care by male stickleback in natural lake populations",
         "citation_id": null,
@@ -758,7 +758,7 @@
     },
     {
         "ignore": false,
-        "authors": "JN Weber, GS Bradburd, YE Stuart, WE Stutz, DI Bolnick",
+        "authors": "JN Weber, GS Bradburd, YE Stuart, WE Stutz, <DI Bolnick>",
         "year": 2018,
         "title": "Partitioning the effects of isolation by distance, environment, and physical barriers on genomic divergence between parapatric threespine stickleback",
         "citation_id": "cfwxm0AAAAAJ:tKAzc9rXhukC",

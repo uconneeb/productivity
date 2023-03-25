@@ -1,7 +1,7 @@
 [
     {
         "ignore": false,
-        "authors": "YB Wang, A Milkey, A Li, MH Chen, L Kuo, PO Lewis",
+        "authors": "YB Wang, A Milkey, A Li, MH Chen, L Kuo, <PO Lewis>",
         "year": 2022,
         "title": "LoRaD: marginal likelihoods with haste (but no waste)",
         "citation_id": null,
@@ -17,7 +17,7 @@
     },
     {
         "ignore": false,
-        "authors": "EM Clifton, PO Lewis, E Jockusch, E Adams",
+        "authors": "EM Clifton, <PO Lewis>, E Jockusch, E Adams",
         "year": 2022,
         "title": "An experimental test of Lanchester's models of combat in the neotropical termite _Nasutitermes corniger_ (Blattodea: Termitidae)",
         "citation_id": "DyJu67sAAAAJ:k8Z6L05lTy4C",
@@ -33,7 +33,7 @@
     },
     {
         "ignore": false,
-        "authors": "J Barido-Sottani, JA Justison, R Borges, JM Brown, W Dismukes, B do Rosario Petrucci, LG Fabreti, S H\u00f6hna, MJ Landis, PO Lewis, MR May, FK Mendes, W Pett, BD Redelings, CM Tribble, AM Wright, R Zenil-Ferguson, TA Heath",
+        "authors": "J Barido-Sottani, JA Justison, R Borges, JM Brown, W Dismukes, B do Rosario Petrucci, LG Fabreti, S H\u00f6hna, MJ Landis, <PO Lewis>, MR May, FK Mendes, W Pett, BD Redelings, CM Tribble, AM Wright, R Zenil-Ferguson, TA Heath",
         "year": 2022,
         "title": "Lessons learned from organizing and teaching virtual phylogenetics workshops",
         "citation_id": "DyJu67sAAAAJ:VaXvl8Fpj5cC",
@@ -49,7 +49,7 @@
     },
     {
         "ignore": false,
-        "authors": "W Shi, MH Chen, L Kuo, PO Lewis",
+        "authors": "W Shi, MH Chen, L Kuo, <PO Lewis>",
         "year": 2022,
         "title": "Bayesian concentration ratio and dissonance",
         "citation_id": "DyJu67sAAAAJ:LI9QrySNdTsC",
@@ -65,7 +65,7 @@
     },
     {
         "ignore": false,
-        "authors": "D Shi, MH Chen, L Kuo, PO Lewis",
+        "authors": "D Shi, MH Chen, L Kuo, <PO Lewis>",
         "year": 2021,
         "title": "New partition based measures for data compatibility and information gain",
         "citation_id": null,
@@ -81,7 +81,7 @@
     },
     {
         "ignore": false,
-        "authors": "YB Wang, MH Chen, W Shi, P Lewis, L Kuo",
+        "authors": "YB Wang, MH Chen, W Shi, <P Lewis>, L Kuo",
         "year": 2020,
         "title": "Inflated density ratio and its variation and generalization for computing marginal likelihoods",
         "citation_id": "DyJu67sAAAAJ:vDijr-p_gm4C",
@@ -97,7 +97,7 @@
     },
     {
         "ignore": false,
-        "authors": "K Fu\u010d\u00edkov\u00e1, PO Lewis, S Neupane, KG Karol, LA Lewis",
+        "authors": "K Fu\u010d\u00edkov\u00e1, <PO Lewis>, S Neupane, KG Karol, <LA Lewis>",
         "year": 2019,
         "title": "Order, please! Uncertainty in the ordinal-level classification of Chlorophyceae",
         "citation_id": "DyJu67sAAAAJ:z_wVstp3MssC",
@@ -113,7 +113,7 @@
     },
     {
         "ignore": false,
-        "authors": "DL Ayres, MP Cummings, G Baele, AE Darling, PO Lewis, DL Swofford, JP Huelsenbeck, P Lemey, A Rambaut, MA Suchard",
+        "authors": "DL Ayres, MP Cummings, G Baele, AE Darling, <PO Lewis>, DL Swofford, JP Huelsenbeck, P Lemey, A Rambaut, MA Suchard",
         "year": 2019,
         "title": "BEAGLE 3: improved performance, scaling, and usability for a high-performance computing library for statistical phylogenetics",
         "citation_id": "DyJu67sAAAAJ:VLnqNzywnoUC",
@@ -129,7 +129,7 @@
     },
     {
         "ignore": false,
-        "authors": "YB Wang, MH Chen, L Kuo, PO Lewis",
+        "authors": "YB Wang, MH Chen, L Kuo, <PO Lewis>",
         "year": 2019,
         "title": "Partition weighted approach for estimating the marginal posterior density with applications",
         "citation_id": "DyJu67sAAAAJ:7T2F9Uy0os0C",
@@ -145,7 +145,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Neupane, K Fu\u010d\u00edkov\u00e1, LA Lewis, L Kuo, MH Chen, PO Lewis",
+        "authors": "S Neupane, K Fu\u010d\u00edkov\u00e1, <LA Lewis>, L Kuo, MH Chen, <PO Lewis>",
         "year": 2019,
         "title": "Assessing combinability of phylogenomic data using Bayes factors",
         "citation_id": "DyJu67sAAAAJ:SdhP9T11ey4C",
@@ -161,7 +161,7 @@
     },
     {
         "ignore": false,
-        "authors": "HA McManus, K Fu\u010d\u00edkov\u00e1, PO Lewis, LA Lewis, KG Karol",
+        "authors": "HA McManus, K Fu\u010d\u00edkov\u00e1, <PO Lewis>, <LA Lewis>, KG Karol",
         "year": 2018,
         "title": "Organellar phylogenomics inform systematics in the green algal family Hydrodictyaceae (Chlorophyceae) and provide clues to the complex evolutionary history of plastid genomes \u2026",
         "citation_id": "DyJu67sAAAAJ:1yQoGdGgb4wC",
@@ -177,7 +177,7 @@
     },
     {
         "ignore": false,
-        "authors": "YB Wang, MH Chen, L Kuo, PO Lewis",
+        "authors": "YB Wang, MH Chen, L Kuo, <PO Lewis>",
         "year": 2018,
         "title": "A new Monte Carlo method for estimating marginal likelihoods",
         "citation_id": "DyJu67sAAAAJ:bnK-pcrLprsC",
@@ -193,7 +193,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Neupane, PO Lewis, S Dessein, H Shanks, S Paudyal, F Lens",
+        "authors": "S Neupane, <PO Lewis>, S Dessein, H Shanks, S Paudyal, F Lens",
         "year": 2017,
         "title": "Evolution of woody life form on tropical mountains in the tribe _Spermacoceae_ (Rubiaceae)",
         "citation_id": "DyJu67sAAAAJ:XiVPGOgt02cC",
@@ -209,7 +209,7 @@
     },
     {
         "ignore": false,
-        "authors": "N Mitchell, PO Lewis, EM Lemmon, AR Lemmon, KE Holsinger",
+        "authors": "N Mitchell, <PO Lewis>, EM Lemmon, AR Lemmon, <KE Holsinger>",
         "year": 2017,
         "title": "Anchored phylogenomics improves the resolution of evolutionary relationships in the rapid radiation of _Protea_ L.",
         "citation_id": "DyJu67sAAAAJ:V3AGJWp-ZtQC",
@@ -225,7 +225,7 @@
     },
     {
         "ignore": false,
-        "authors": "PO Lewis, MH Chen, L Kuo, LA Lewis, K Fu\u010d\u00edkov\u00e1, S Neupane, YB Wang, D Shi",
+        "authors": "<PO Lewis>, MH Chen, L Kuo, <LA Lewis>, K Fu\u010d\u00edkov\u00e1, S Neupane, YB Wang, D Shi",
         "year": 2016,
         "title": "Estimating Bayesian phylogenetic information content",
         "citation_id": "DyJu67sAAAAJ:l7t_Zn2s7bgC",
@@ -241,7 +241,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Watanabe, K Fu\u010d\u00edkov\u00e1, LA Lewis, PO Lewis",
+        "authors": "S Watanabe, K Fu\u010d\u00edkov\u00e1, <LA Lewis>, <PO Lewis>",
         "year": 2016,
         "title": "Hiding in plain sight: _Koshicola spirodelophila_ gen. et sp. nov.(Chaetopeltidales, Chlorophyceae), a novel green alga associated with the aquatic angiosperm _Spirodela polyrhiza_",
         "citation_id": "DyJu67sAAAAJ:WbkHhVStYXYC",
@@ -257,7 +257,7 @@
     },
     {
         "ignore": false,
-        "authors": "K Fu\u010d\u00edkov\u00e1, LA Lewis, PO Lewis",
+        "authors": "K Fu\u010d\u00edkov\u00e1, <LA Lewis>, <PO Lewis>",
         "year": 2016,
         "title": "Comparative analyses of chloroplast genome data representing nine green algae in Sphaeropleales (Chlorophyceae, Chlorophyta)",
         "citation_id": "DyJu67sAAAAJ:SP6oXDckpogC",
@@ -273,7 +273,7 @@
     },
     {
         "ignore": false,
-        "authors": "K Fu\u010d\u00edkov\u00e1, PO Lewis, LA Lewis",
+        "authors": "K Fu\u010d\u00edkov\u00e1, <PO Lewis>, <LA Lewis>",
         "year": 2016,
         "title": "Chloroplast phylogenomic data from the green algal order Sphaeropleales (Chlorophyceae, Chlorophyta) reveal complex patterns of sequence evolution",
         "citation_id": "DyJu67sAAAAJ:UxriW0iASnsC",
@@ -289,7 +289,7 @@
     },
     {
         "ignore": false,
-        "authors": "PO Lewis, MT Holder, DL Swofford",
+        "authors": "<PO Lewis>, MT Holder, DL Swofford",
         "year": 2015,
         "title": "Phycas: software for Bayesian phylogenetic analysis",
         "citation_id": "DyJu67sAAAAJ:yD5IFk8b50cC",
@@ -305,7 +305,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Neupane, S Dessein, N Wikstr\u00f6m, PO Lewis, C Long, B Bremer, ...",
+        "authors": "S Neupane, S Dessein, N Wikstr\u00f6m, <PO Lewis>, C Long, B Bremer, ...",
         "year": 2015,
         "title": "The _Hedyotis-Oldenlandia_ complex (Rubiaceae: Spermacoceae) in Asia and the Pacific: phylogeny revisited with new generic delimitations",
         "citation_id": "DyJu67sAAAAJ:_xSYboBqXhAC",

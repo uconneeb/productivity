@@ -92,11 +92,14 @@ def dumpException(exceptf, f, a, y, t, j, v, b, e, doi):
         exceptf.write('doi: MISSING\n')
 
 exceptf = open('exceptions.txt', 'w')
+dupf = open('duplicates.txt', 'w')
 nyearless = 0
 nexceptions = 0
 ninpress = 0
 nchapters = 0
 bibentries = []
+titles_seen = {}
+title_lookup = {}
 for f in faculty:
     fn = '%s' % filepaths[f]
     print('Reading file "%s"...' % fn)
@@ -105,9 +108,10 @@ for f in faculty:
     for result in results:
         if not result['ignore']:
             # Capture information in r
-            authors = result['authors']
+            authors,nsubs = re.subn(r'<(.+?)>', r'**\1**', result['authors'])
             year    = result['year']
-            title   = re.sub(r'\b_(.+?)_\b', r'<em>\1</em>', result['title'])
+            #title   = re.sub(r'\b_(.+?)_\b', r'<em>\1</em>', result['title'])
+            title   = result['title']
             journal = result['journal']
             volume  = result['volume']
             number  = result['number']
@@ -129,6 +133,12 @@ for f in faculty:
             doi     = result['doi']
             url     = result['url']
             citation_id = result['citation_id']
+                
+            already_seen = False
+            if title in titles_seen.keys():
+                already_seen = True
+            else:
+                titles_seen[title] = f
             
             # Construct bibliography string
             yearless = False
@@ -163,7 +173,8 @@ for f in faculty:
             else:
                 exception = True
             if doi:
-                bib += ' DOI:%s.' % doi
+                bib += ' [DOI](https://doi.org/%s)' % doi
+            bib += '\n'
 
             # Save in bibentries list
             if yearless:
@@ -175,18 +186,35 @@ for f in faculty:
             elif ischapter:
                 nchapters += 1
                 entry = (year, bib)
-                bibentries.append(entry)
+                if already_seen:
+                    dupf.write('\n-------------------\n')
+                    dupf.write('Previous: %s\n' % titles_seen[title])
+                    dupf.write('~~> %s\n' % bib)
+                    dupf.write('Current: %s\n' % f)
+                    dupf.write('~~> %s\n' % title_lookup[title])
+                else:
+                    bibentries.append(entry)
+                    title_lookup[title] = bib
             else:
                 entry = (year, bib)
-                bibentries.append(entry)
+                if already_seen:
+                    dupf.write('\n-------------------\n')
+                    dupf.write('Previous: %s\n' % titles_seen[title])
+                    dupf.write('~~> %s\n' % bib)
+                    dupf.write('Current: %s\n' % f)
+                    dupf.write('~~> %s\n' % title_lookup[title])
+                else:
+                    bibentries.append(entry)
+                    title_lookup[title] = bib
             if inpress:
                 ninpress += 1
                     
 exceptf.close()
+dupf.close()
 
 bibentries.sort()
 
-gatherf = open('gathered.txt', 'w')
+gatherf = open('bibliography.md', 'w')
 gatherf.write('\nSorted bibliographic entires:\n')
 ngood = len(bibentries)
 for b in bibentries:

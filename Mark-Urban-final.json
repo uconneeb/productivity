@@ -1,7 +1,7 @@
 [
     {
         "ignore": false,
-        "authors": "MC Urban, JMJ Travis, D Zurell, PL Thompson, NW Synes, A Scarpa, PR Peres-Neto, AK Malchow, PMA James, D Gravel, L De Meester, C Brown, G Bocedi, CH Albert, A Gonzalez, AP Hendry",
+        "authors": "<MC Urban>, JMJ Travis, D Zurell, PL Thompson, NW Synes, A Scarpa, PR Peres-Neto, AK Malchow, PMA James, D Gravel, L De Meester, C Brown, G Bocedi, CH Albert, A Gonzalez, AP Hendry",
         "year": 2022,
         "title": "Coding for life: Designing a platform for projecting and protecting global biodiversity",
         "citation_id": "8aJp2VQAAAAJ:K3LRdlH-MEoC",
@@ -17,7 +17,7 @@
     },
     {
         "ignore": false,
-        "authors": "BC Verrelli, M Alberti, S Des Roches, NC Harris, AP Hendry, MTJ Johnson, AM Savage, A Charmantier, KM Gotanda, L Govaert, LS Miles, LR Rivkin, KM Winchell, KI Brans, C Correa, SE Diamond, B Fitzhugh, NB Grimm, S Hughes, JM Marzluff, J Munshi-South, C Rojas, JS Santangelo, CJ Schell, JA Schweitzer, M Szulkin, MC Urban, Y Zhou, C Ziter",
+        "authors": "BC Verrelli, M Alberti, S Des Roches, NC Harris, AP Hendry, MTJ Johnson, AM Savage, A Charmantier, KM Gotanda, L Govaert, LS Miles, LR Rivkin, KM Winchell, KI Brans, C Correa, SE Diamond, B Fitzhugh, NB Grimm, S Hughes, JM Marzluff, J Munshi-South, C Rojas, JS Santangelo, CJ Schell, JA Schweitzer, M Szulkin, <MC Urban>, Y Zhou, C Ziter",
         "year": 2022,
         "title": "A global horizon scan for urban evolutionary ecology",
         "citation_id": "8aJp2VQAAAAJ:V3AGJWp-ZtQC",
@@ -33,7 +33,7 @@
     },
     {
         "ignore": false,
-        "authors": "CP Nadeau, A Giacomazzo, MC Urban",
+        "authors": "CP Nadeau, A Giacomazzo, <MC Urban>",
         "year": 2022,
         "title": "Cool microrefugia accumulate and conserve biodiversity under climate change",
         "citation_id": "8aJp2VQAAAAJ:B3FOqHPlNUQC",
@@ -49,7 +49,7 @@
     },
     {
         "ignore": false,
-        "authors": "MA Leibold, L Govaert, N Loeuille, L De Meester, MC Urban",
+        "authors": "MA Leibold, L Govaert, N Loeuille, L De Meester, <MC Urban>",
         "year": 2022,
         "title": "Evolution and community assembly across spatial scales",
         "citation_id": "8aJp2VQAAAAJ:1qzjygNMrQYC",
@@ -65,7 +65,7 @@
     },
     {
         "ignore": false,
-        "authors": "FE Rowland, ES Schyling, LK Freidenburg, MC Urban, JL Richardson, AZA Arietta, SB Rodrigues, AD Rubinstein, MF Benard, DK Skelly",
+        "authors": "FE Rowland, ES Schyling, LK Freidenburg, <MC Urban>, JL Richardson, AZA Arietta, SB Rodrigues, AD Rubinstein, MF Benard, DK Skelly",
         "year": 2022,
         "title": "Asynchrony, density dependence, and persistence in an amphibian",
         "citation_id": "8aJp2VQAAAAJ:8AbLer7MMksC",
@@ -81,7 +81,7 @@
     },
     {
         "ignore": false,
-        "authors": "AE Evans, M Zimova, ST Giery, HE Golden, AL Pastore, CP Nadeau, MC Urban",
+        "authors": "AE Evans, M Zimova, ST Giery, HE Golden, AL Pastore, CP Nadeau, <MC Urban>",
         "year": 2022,
         "title": "An eco\u2010evolutionary perspective on the humpty\u2010dumpty effect and community restoration",
         "citation_id": "8aJp2VQAAAAJ:sSrBHYA8nusC",
@@ -97,7 +97,7 @@
     },
     {
         "ignore": false,
-        "authors": "MC Urban, LA Lewis, K Fu\u010d\u00edkov\u00e1, A Cordone",
+        "authors": "<MC Urban>, <LA Lewis>, K Fu\u010d\u00edkov\u00e1, A Cordone",
         "year": 2015,
         "title": "Population of origin and environment interact to determine oomycete infections in spotted salamander populations",
         "citation_id": "8aJp2VQAAAAJ:R3hNpaxXUhUC",
@@ -113,7 +113,7 @@
     },
     {
         "ignore": false,
-        "authors": "R Henriques-Silva, F Boivin, V Calcagno, MC Urban, PR Peres-Neto",
+        "authors": "R Henriques-Silva, F Boivin, V Calcagno, <MC Urban>, PR Peres-Neto",
         "year": 2015,
         "title": "On the evolution of dispersal via heterogeneity in spatial connectivity",
         "citation_id": "8aJp2VQAAAAJ:RHpTSmoSYBkC",
@@ -129,7 +129,7 @@
     },
     {
         "ignore": false,
-        "authors": "MC Urban, JL Richardson",
+        "authors": "<MC Urban>, JL Richardson",
         "year": 2015,
         "title": "The evolution of foraging rate across local and geographic gradients in predation risk and competition",
         "citation_id": "8aJp2VQAAAAJ:TFP_iSt0sucC",
@@ -145,7 +145,7 @@
     },
     {
         "ignore": false,
-        "authors": "MC Urban",
+        "authors": "<MC Urban>",
         "year": 2015,
         "title": "Accelerating extinction risk from climate change",
         "citation_id": "8aJp2VQAAAAJ:4JMBOYKVnBMC",
@@ -161,7 +161,7 @@
     },
     {
         "ignore": false,
-        "authors": "J Vanoverbeke, MC Urban, L De Meester",
+        "authors": "J Vanoverbeke, <MC Urban>, L De Meester",
         "year": 2016,
         "title": "Community assembly is a race between immigration and adaptation: eco\u2010evolutionary interactions across spatial scales",
         "citation_id": "8aJp2VQAAAAJ:isC4tDSrTZIC",
@@ -177,7 +177,7 @@
     },
     {
         "ignore": false,
-        "authors": "TJ Davies, MC Urban, B Rayfield, MW Cadotte, PR Peres\u2010Neto",
+        "authors": "TJ Davies, <MC Urban>, B Rayfield, MW Cadotte, PR Peres\u2010Neto",
         "year": 2016,
         "title": "Deconstructing the relationships between phylogenetic diversity and ecology: a case study on ecosystem functioning",
         "citation_id": "8aJp2VQAAAAJ:blknAaTinKkC",
@@ -193,7 +193,7 @@
     },
     {
         "ignore": false,
-        "authors": "HR Cunningham, LJ Rissler, LB Buckley, MC Urban",
+        "authors": "HR Cunningham, LJ Rissler, LB Buckley, <MC Urban>",
         "year": 2016,
         "title": "Abiotic and biotic constraints across reptile and amphibian ranges",
         "citation_id": "8aJp2VQAAAAJ:j3f4tGmQtD8C",
@@ -209,7 +209,7 @@
     },
     {
         "ignore": false,
-        "authors": "L De Meester, J Vanoverbeke, LJ Kilsdonk, MC Urban",
+        "authors": "L De Meester, J Vanoverbeke, LJ Kilsdonk, <MC Urban>",
         "year": 2016,
         "title": "Evolving perspectives on monopolization and priority effects",
         "citation_id": "8aJp2VQAAAAJ:k_IJM867U9cC",
@@ -225,7 +225,7 @@
     },
     {
         "ignore": false,
-        "authors": "MC Urban, G Bocedi, AP Hendry, JB Mihoub, G Pe\u2019er, A Singer, JR Bridle, LG Crozier, L De Meester, W Godsoe, A Gonzalez, JJ Hellmann, RD Holt, A Huth, K Johst, CB Krug, PW Leadley, SCF Palmer, JH Pantel, A Schmitz, PA Zollner, JMJ Travis",
+        "authors": "<MC Urban>, G Bocedi, AP Hendry, JB Mihoub, G Pe\u2019er, A Singer, JR Bridle, LG Crozier, L De Meester, W Godsoe, A Gonzalez, JJ Hellmann, RD Holt, A Huth, K Johst, CB Krug, PW Leadley, SCF Palmer, JH Pantel, A Schmitz, PA Zollner, JMJ Travis",
         "year": 2016,
         "title": "Improving the forecast for biodiversity under climate change",
         "citation_id": "8aJp2VQAAAAJ:NMxIlDl6LWMC",
@@ -241,7 +241,7 @@
     },
     {
         "ignore": false,
-        "authors": "MC Urban, JL Richardson, NA Freidenfelds, DL Drake, JF Fischer, PP Saunders",
+        "authors": "<MC Urban>, JL Richardson, NA Freidenfelds, DL Drake, JF Fischer, PP Saunders",
         "year": 2017,
         "title": "Microgeographic adaptation of Wood Frog tadpoles to an apex predator",
         "citation_id": "8aJp2VQAAAAJ:RYcK_YlVTxYC",
@@ -257,7 +257,7 @@
     },
     {
         "ignore": false,
-        "authors": "MC Urban, PL Zarnetske, DK Skelly",
+        "authors": "<MC Urban>, PL Zarnetske, DK Skelly",
         "year": 2017,
         "title": "Searching for biotic multipliers of climate change",
         "citation_id": "8aJp2VQAAAAJ:RGFaLdJalmkC",
@@ -273,7 +273,7 @@
     },
     {
         "ignore": false,
-        "authors": "CP Nadeau, MC Urban, JR Bridle",
+        "authors": "CP Nadeau, <MC Urban>, JR Bridle",
         "year": 2017,
         "title": "Coarse climate change projections for species living in a fine\u2010scaled world",
         "citation_id": "8aJp2VQAAAAJ:hMod-77fHWUC",
@@ -289,7 +289,7 @@
     },
     {
         "ignore": false,
-        "authors": "CP Nadeau, MC Urban, JR Bridle",
+        "authors": "CP Nadeau, <MC Urban>, JR Bridle",
         "year": 2017,
         "title": "Climates past, present, and yet-to-come shape climate change vulnerabilities",
         "citation_id": "8aJp2VQAAAAJ:J_g5lzvAfSwC",
@@ -305,7 +305,7 @@
     },
     {
         "ignore": false,
-        "authors": "SM Amburgey, DAW Miller, EH Campbell Grant, TAG Rittenhouse, MF Benard, JL Richardson, MC Urban, W Hughson, AB Brand, CJ Davis",
+        "authors": "SM Amburgey, DAW Miller, EH Campbell Grant, TAG Rittenhouse, MF Benard, JL Richardson, <MC Urban>, W Hughson, AB Brand, CJ Davis",
         "year": 2018,
         "title": "Range position and climate sensitivity: The structure of among\u2010population demographic responses to climatic variation",
         "citation_id": "8aJp2VQAAAAJ:NaGl4SEjCO4C",
@@ -321,7 +321,7 @@
     },
     {
         "ignore": false,
-        "authors": "MC Urban, R Roehm",
+        "authors": "<MC Urban>, R Roehm",
         "year": 2018,
         "title": "The road to higher permanence and biodiversity in exurban wetlands",
         "citation_id": "8aJp2VQAAAAJ:lSLTfruPkqcC",
@@ -337,7 +337,7 @@
     },
     {
         "ignore": false,
-        "authors": "AE Evans, BR Forester, EL Jockusch, MC Urban",
+        "authors": "AE Evans, BR Forester, EL Jockusch, <MC Urban>",
         "year": 2018,
         "title": "Salamander morph frequencies do not evolve as predicted in response to 40 years of climate change",
         "citation_id": "8aJp2VQAAAAJ:35N4QoGY0k4C",
@@ -353,7 +353,7 @@
     },
     {
         "ignore": false,
-        "authors": "MC Urban",
+        "authors": "<MC Urban>",
         "year": 2018,
         "title": "Escalator to extinction",
         "citation_id": "8aJp2VQAAAAJ:ldfaerwXgEUC",
@@ -369,7 +369,7 @@
     },
     {
         "ignore": false,
-        "authors": "L De Meester, KI Brans, L Govaert, C Souffreau, S Mukherjee, H Vanvelk, K Korzeniowski, L Kilsdonk, E Decaestecker, R Stoks, MC Urban",
+        "authors": "L De Meester, KI Brans, L Govaert, C Souffreau, S Mukherjee, H Vanvelk, K Korzeniowski, L Kilsdonk, E Decaestecker, R Stoks, <MC Urban>",
         "year": 2019,
         "title": "Analysing eco\u2010evolutionary dynamics\u2014The challenging complexity of the real world",
         "citation_id": "8aJp2VQAAAAJ:pqnbT2bcN3wC",
@@ -385,7 +385,7 @@
     },
     {
         "ignore": false,
-        "authors": "MC Urban",
+        "authors": "<MC Urban>",
         "year": 2019,
         "title": "Projecting biological impacts from climate change like a climate scientist",
         "citation_id": "8aJp2VQAAAAJ:4OULZ7Gr8RgC",
@@ -401,7 +401,7 @@
     },
     {
         "ignore": false,
-        "authors": "CP Nadeau, MC Urban",
+        "authors": "CP Nadeau, <MC Urban>",
         "year": 2019,
         "title": "Eco\u2010evolution on the edge during climate change",
         "citation_id": "8aJp2VQAAAAJ:fPk4N6BV_jEC",
@@ -417,7 +417,7 @@
     },
     {
         "ignore": false,
-        "authors": "MC Urban, A Scarpa, JMJ Travis, G Bocedi",
+        "authors": "<MC Urban>, A Scarpa, JMJ Travis, G Bocedi",
         "year": 2019,
         "title": "Maladapted prey subsidize predators and facilitate range expansion",
         "citation_id": "8aJp2VQAAAAJ:dfsIfKJdRG4C",
@@ -433,7 +433,7 @@
     },
     {
         "ignore": false,
-        "authors": "MA Leibold, MC Urban, L De Meester, CA Klausmeier, J Vanoverbeke",
+        "authors": "MA Leibold, <MC Urban>, L De Meester, CA Klausmeier, J Vanoverbeke",
         "year": 2019,
         "title": "Regional neutrality evolves through local adaptive niche evolution",
         "citation_id": "8aJp2VQAAAAJ:2P1L_qKh6hAC",
@@ -449,7 +449,7 @@
     },
     {
         "ignore": false,
-        "authors": "A Jeliazkov, D Mijatovic, S Chantepie, N Andrew, R Arlettaz, L Barbaro, N Barsoum, A Bartonova, E Belskaya, N Bonada, A Brind\u2019Amour, R Carvalho, H Castro, D Chmura, P Choler, K Chong-Seng, D Cleary, A Cormont, W Cornwell, R de Campos, N de Voogd, S Doledec, J Drew, F Dziock, A Eallonardo, M J Edgar, F Farneda, DF Hernandez, D Frenette-Dussault, G Fried, B Gallardo, H Gibb, T Gon\u00e7alves-Souza, J Higuti, JY Humbert, BR Krasnov, E Le Saux, Z Lindo, A Lopez-Baucells, E Lowe, B Marteinsdottir, K Martens, P Meffert, A Mellado-D\u00edaz, MHM Menz, CFJ Meyer, JR Miranda, D Mouillot, A Ossola, R Pakeman, S Pavoine, B Pekin, J Pino, A Pocheville, F Pomati, P Poschlod, HC Prentice, O Purschke, V Raevel, T Reitalu, W Renema, I Ribera, N Robinson, B Robroek, R Rocha, SH Shieh, R Spake, M Staniaszek-Kik, M Stanko, FL Tejerina-Garro, C ter Braak, MC Urban, R van Klink, S Villeger, R Wegman, MJ Westgate, J Wolff, J \u017carnowiec, M Zolotarev, JM Chase",
+        "authors": "A Jeliazkov, D Mijatovic, S Chantepie, N Andrew, R Arlettaz, L Barbaro, N Barsoum, A Bartonova, E Belskaya, N Bonada, A Brind\u2019Amour, R Carvalho, H Castro, D Chmura, P Choler, K Chong-Seng, D Cleary, A Cormont, W Cornwell, R de Campos, N de Voogd, S Doledec, J Drew, F Dziock, A Eallonardo, M J Edgar, F Farneda, DF Hernandez, D Frenette-Dussault, G Fried, B Gallardo, H Gibb, T Gon\u00e7alves-Souza, J Higuti, JY Humbert, BR Krasnov, E Le Saux, Z Lindo, A Lopez-Baucells, E Lowe, B Marteinsdottir, K Martens, P Meffert, A Mellado-D\u00edaz, MHM Menz, CFJ Meyer, JR Miranda, D Mouillot, A Ossola, R Pakeman, S Pavoine, B Pekin, J Pino, A Pocheville, F Pomati, P Poschlod, HC Prentice, O Purschke, V Raevel, T Reitalu, W Renema, I Ribera, N Robinson, B Robroek, R Rocha, SH Shieh, R Spake, M Staniaszek-Kik, M Stanko, FL Tejerina-Garro, C ter Braak, <MC Urban>, R van Klink, S Villeger, R Wegman, MJ Westgate, J Wolff, J \u017carnowiec, M Zolotarev, JM Chase",
         "year": 2020,
         "title": "A global database for metacommunity ecology, integrating species, traits, environment and space",
         "citation_id": "8aJp2VQAAAAJ:D03iK_w7-QYC",
@@ -465,7 +465,7 @@
     },
     {
         "ignore": false,
-        "authors": "AZA Arietta, LK Freidenburg, MC Urban, SB Rodrigues, A Rubinstein, DK Skelly",
+        "authors": "AZA Arietta, LK Freidenburg, <MC Urban>, SB Rodrigues, A Rubinstein, DK Skelly",
         "year": 2020,
         "title": "Phenological delay despite warming in wood frog Rana sylvatica reproductive timing: a 20\u2010year study",
         "citation_id": "8aJp2VQAAAAJ:1sJd4Hv_s6UC",
@@ -481,7 +481,7 @@
     },
     {
         "ignore": false,
-        "authors": "AE Evans, MC Urban, EL Jockusch",
+        "authors": "AE Evans, <MC Urban>, EL Jockusch",
         "year": 2020,
         "title": "Developmental temperature influences color polymorphism but not hatchling size in a woodland salamander",
         "citation_id": "8aJp2VQAAAAJ:bFI3QPDXJZMC",
@@ -497,7 +497,7 @@
     },
     {
         "ignore": false,
-        "authors": "M Alberti, EP Palkovacs, SD Roches, LD Meester, KI Brans, L Govaert, NB Grimm, NC Harris, AP Hendry, CJ Schell, M Szulkin, J Munshi-South, MC Urban, BC Verrelli",
+        "authors": "M Alberti, EP Palkovacs, SD Roches, LD Meester, KI Brans, L Govaert, NB Grimm, NC Harris, AP Hendry, CJ Schell, M Szulkin, J Munshi-South, <MC Urban>, BC Verrelli",
         "year": 2020,
         "title": "The complexity of urban eco-evolutionary dynamics",
         "citation_id": "8aJp2VQAAAAJ:CHSYGLWDkRkC",
@@ -513,7 +513,7 @@
     },
     {
         "ignore": false,
-        "authors": "MC Urban, NA Freidenfelds, JL Richardson",
+        "authors": "<MC Urban>, NA Freidenfelds, JL Richardson",
         "year": 2020,
         "title": "Microgeographic divergence of functional responses among salamanders under antagonistic selection from apex predators",
         "citation_id": "8aJp2VQAAAAJ:KxtntwgDAa4C",
@@ -529,7 +529,7 @@
     },
     {
         "ignore": false,
-        "authors": "MC Urban",
+        "authors": "<MC Urban>",
         "year": 2020,
         "title": "Climate-tracking species are not invasive",
         "citation_id": "8aJp2VQAAAAJ:b0M2c_1WBrUC",
@@ -545,7 +545,7 @@
     },
     {
         "ignore": false,
-        "authors": "C Merow, MC Urban",
+        "authors": "C Merow, <MC Urban>",
         "year": 2020,
         "title": "Seasonality and uncertainty in global COVID-19 growth rates",
         "citation_id": "8aJp2VQAAAAJ:dshw04ExmUIC",
@@ -561,7 +561,7 @@
     },
     {
         "ignore": false,
-        "authors": "MC Urban, SY Strauss, F Pelletier, EP Palkovacs, MA Leibold, AP Hendry, L De Meester, SM Carlson, AL Angert, ST Giery",
+        "authors": "<MC Urban>, SY Strauss, F Pelletier, EP Palkovacs, MA Leibold, AP Hendry, L De Meester, SM Carlson, AL Angert, ST Giery",
         "year": 2020,
         "title": "Evolutionary origins for ecological patterns in space",
         "citation_id": "8aJp2VQAAAAJ:NhqRSupF_l8C",
@@ -577,7 +577,7 @@
     },
     {
         "ignore": false,
-        "authors": "MC Urban",
+        "authors": "<MC Urban>",
         "year": 2020,
         "title": "Life without ice",
         "citation_id": "8aJp2VQAAAAJ:f2IySw72cVMC",
@@ -593,7 +593,7 @@
     },
     {
         "ignore": false,
-        "authors": "L Govaert, F Altermatt, L De Meester, MA Leibold, MA McPeek, JH Pantel, MC Urban",
+        "authors": "L Govaert, F Altermatt, L De Meester, MA Leibold, MA McPeek, JH Pantel, <MC Urban>",
         "year": 2021,
         "title": "Integrating fundamental processes to understand eco-evolutionary community dynamics and patterns",
         "citation_id": "8aJp2VQAAAAJ:XiSMed-E-HIC",
@@ -609,7 +609,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Des Roches, KI Brans, MR Lambert, LR Rivkin, AM Savage, CJ Schell, C Correa, L De Meester, SE Diamond, NB Grimm, NC Harris, L Govaert, AP Hendry, MTJ Johnson, J Munshi-South, EP Palkovacs, M Szulkin, MC Urban, BC Verrelli, M Alberti",
+        "authors": "S Des Roches, KI Brans, MR Lambert, LR Rivkin, AM Savage, CJ Schell, C Correa, L De Meester, SE Diamond, NB Grimm, NC Harris, L Govaert, AP Hendry, MTJ Johnson, J Munshi-South, EP Palkovacs, M Szulkin, <MC Urban>, BC Verrelli, M Alberti",
         "year": 2021,
         "title": "Socio\u2010eco\u2010evolutionary dynamics in cities",
         "citation_id": "8aJp2VQAAAAJ:xtRiw3GOFMkC",
@@ -625,7 +625,7 @@
     },
     {
         "ignore": false,
-        "authors": "ST Giery, M Zimova, DL Drake, MC Urban",
+        "authors": "ST Giery, M Zimova, DL Drake, <MC Urban>",
         "year": 2021,
         "title": "Balancing selection and drift in a polymorphic salamander metapopulation",
         "citation_id": "8aJp2VQAAAAJ:p2g8aNsByqUC",
@@ -641,7 +641,7 @@
     },
     {
         "ignore": false,
-        "authors": "HE Golden, KE Holsinger, LA Deegan, CJA MacKenzie, MC Urban",
+        "authors": "HE Golden, <KE Holsinger>, LA Deegan, CJA MacKenzie, <MC Urban>",
         "year": 2021,
         "title": "River drying influences genetic variation and population structure in an Arctic freshwater fish",
         "citation_id": "8aJp2VQAAAAJ:uWQEDVKXjbEC",
@@ -657,7 +657,7 @@
     },
     {
         "ignore": false,
-        "authors": "MC Urban, C Merow, JL Wegrzyn, BS Maitner, D Corcoran",
+        "authors": "<MC Urban>, C Merow, <JL Wegrzyn>, BS Maitner, D Corcoran",
         "year": 2021,
         "title": "How to publish at pandemic speed",
         "citation_id": "8aJp2VQAAAAJ:WbkHhVStYXYC",
@@ -673,7 +673,7 @@
     },
     {
         "ignore": false,
-        "authors": "CP Nadeau, TE Farkas, AM Makkay, RT Papke, MC Urban",
+        "authors": "CP Nadeau, TE Farkas, AM Makkay, RT Papke, <MC Urban>",
         "year": 2021,
         "title": "Adaptation reduces competitive dominance and alters community assembly",
         "citation_id": "8aJp2VQAAAAJ:SP6oXDckpogC",
@@ -689,7 +689,7 @@
     },
     {
         "ignore": false,
-        "authors": "ST Giery, DL Drake, MC Urban",
+        "authors": "ST Giery, DL Drake, <MC Urban>",
         "year": 2021,
         "title": "Microgeographic evolution of metabolic physiology in a salamander metapopulation",
         "citation_id": "8aJp2VQAAAAJ:Tiz5es2fbqcC",
@@ -705,7 +705,7 @@
     },
     {
         "ignore": false,
-        "authors": "C Merow, B Boyle, BJ Enquist, X Feng, JM Kass, BS Maitner, B McGill, H Owens, DS Park, A Paz, GE Pinilla-Buitrago, MC Urban, S Varela, AM Wilson",
+        "authors": "C Merow, B Boyle, BJ Enquist, X Feng, JM Kass, BS Maitner, B McGill, H Owens, DS Park, A Paz, GE Pinilla-Buitrago, <MC Urban>, S Varela, AM Wilson",
         "year": 2023,
         "title": "Better incentives are needed to reward academic software development",
         "citation_id": "8aJp2VQAAAAJ:Y5dfb0dijaUC",
@@ -721,7 +721,7 @@
     },
     {
         "ignore": false,
-        "authors": "NJ Gotelli, DB Booher, MC Urban, W Ulrich, AV Suarez, DK Skelly, DJ Russell, RJ Rowe, M Rothendler, N Rios, SM Rehan, G Ni, CS Moreau, AE Magurran, FAM Jones, GR Graves, C Fiera, U Burkhardt, RB Primack",
+        "authors": "NJ Gotelli, DB Booher, <MC Urban>, W Ulrich, AV Suarez, DK Skelly, DJ Russell, RJ Rowe, M Rothendler, N Rios, SM Rehan, G Ni, CS Moreau, AE Magurran, FAM Jones, GR Graves, C Fiera, U Burkhardt, RB Primack",
         "year": 2023,
         "title": "Estimating species relative abundances from museum records",
         "citation_id": "8aJp2VQAAAAJ:738O_yMBCRsC",

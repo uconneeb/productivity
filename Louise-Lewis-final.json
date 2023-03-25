@@ -1,7 +1,7 @@
 [
     {
         "ignore": false,
-        "authors": "DA Khan-Bureau, S Blanco, EA Morales, L Ector, MS Beauchene, LA Lewis",
+        "authors": "DA Khan-Bureau, S Blanco, EA Morales, L Ector, MS Beauchene, <LA Lewis>",
         "year": 2022,
         "title": "Using geometric morphometrics to disentangle _Didymosphenia hullii_ and _D. geminata_ (Bacillariophyceae) from Connecticut, USA, and two congeneric relatives",
         "citation_id": "Q0ZrkG0AAAAJ:hkOj_22Ku90C",
@@ -17,7 +17,7 @@
     },
     {
         "ignore": false,
-        "authors": "T Robison, JM Nelson, DA Hauser, LA Lewis, FW Li",
+        "authors": "T Robison, JM Nelson, DA Hauser, <LA Lewis>, FW Li",
         "year": 2022,
         "title": "Dynamic plastid and mitochondrial genomes in Chaetopeltidales (Chlorophyceae) and characterization of a new chlorophyte taxon",
         "citation_id": "Q0ZrkG0AAAAJ:PR6Y55bgFSsC",
@@ -33,7 +33,7 @@
     },
     {
         "ignore": false,
-        "authors": "C Permann, M Pierangelini, D Remias, LA Lewis, A Holzinger",
+        "authors": "C Permann, M Pierangelini, D Remias, <LA Lewis>, A Holzinger",
         "year": 2022,
         "title": "Photophysiological investigations of the temperature stress responses of _Zygnema_ spp (Zygnematophyceae) from subpolar and polar habitats (Iceland, Svalbard)",
         "citation_id": "Q0ZrkG0AAAAJ:N5tVd3kTz84C",
@@ -49,7 +49,7 @@
     },
     {
         "ignore": false,
-        "authors": "C Permann, K Herburger, M Felhofer, N Gierlinger, LA Lewis, A Holzinger",
+        "authors": "C Permann, K Herburger, M Felhofer, N Gierlinger, <LA Lewis>, A Holzinger",
         "year": 2021,
         "title": "Induction of conjugation and zygospore cell wall characteristics in the alpine _Spirogyra mirabilis_ (Zygnematophyceae, Charophyta): advantage under climate change scenarios?",
         "citation_id": "Q0ZrkG0AAAAJ:5awf1xo2G04C",
@@ -65,7 +65,7 @@
     },
     {
         "ignore": false,
-        "authors": "X Li, Z Hou, C Xu, X Shi, L Yang, LA Lewis, B Zhong",
+        "authors": "X Li, Z Hou, C Xu, X Shi, L Yang, <LA Lewis>, B Zhong",
         "year": 2021,
         "title": "Large phylogenomic data sets reveal deep relationships and trait evolution in chlorophyte green algae",
         "citation_id": "Q0ZrkG0AAAAJ:eq2jaN3J8jMC",
@@ -81,7 +81,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Oita, A Ib\u00e1\u00f1ez, F Lutzoni, J Miadlikowska, J Geml, LA Lewis, EFY Hom, I Carbone, JM U\u2019Ren, AE Arnold",
+        "authors": "S Oita, A Ib\u00e1\u00f1ez, F Lutzoni, J Miadlikowska, J Geml, <LA Lewis>, EFY Hom, I Carbone, JM U\u2019Ren, AE Arnold",
         "year": 2021,
         "title": "Climate and seasonality drive the richness and composition of tropical fungal endophytes at a landscape scale",
         "citation_id": "Q0ZrkG0AAAAJ:dTyEYWd-f8wC",
@@ -97,7 +97,7 @@
     },
     {
         "ignore": false,
-        "authors": "EF Terlova, A Holzinger, LA Lewis",
+        "authors": "EF Terlova, A Holzinger, <LA Lewis>",
         "year": 2021,
         "title": "Terrestrial green algae show higher tolerance to dehydration than do their aquatic sister-species",
         "citation_id": "Q0ZrkG0AAAAJ:PELIpwtuRlgC",
@@ -113,7 +113,7 @@
     },
     {
         "ignore": false,
-        "authors": "SD Warren, LR Stark, LA Lewis, N Pombubpa, T Kurbessoian, JE Stajich, ZT Aanderud",
+        "authors": "SD Warren, LR Stark, <LA Lewis>, N Pombubpa, T Kurbessoian, JE Stajich, ZT Aanderud",
         "year": 2019,
         "title": "Reproduction and dispersal of biological soil crust organisms",
         "citation_id": "Q0ZrkG0AAAAJ:q3oQSFYPqjQC",
@@ -129,7 +129,7 @@
     },
     {
         "ignore": false,
-        "authors": "EF Terlova, LA Lewis",
+        "authors": "EF Terlova, <LA Lewis>",
         "year": 2019,
         "title": "A new species of _Tetradesmus_ (Chlorophyceae, Chlorophyta) isolated from desert soil crust habitats in southwestern North America",
         "citation_id": "Q0ZrkG0AAAAJ:eflP2zaiRacC",
@@ -145,7 +145,7 @@
     },
     {
         "ignore": false,
-        "authors": "CH Wellman, LE Graham, LA Lewis",
+        "authors": "CH Wellman, LE Graham, <LA Lewis>",
         "year": 2019,
         "title": "Filamentous green algae from the Early Devonian Rhynie chert",
         "citation_id": "Q0ZrkG0AAAAJ:D_sINldO8mEC",
@@ -161,7 +161,7 @@
     },
     {
         "ignore": false,
-        "authors": "K Fu\u010d\u00edkov\u00e1, PO Lewis, S Neupane, KG Karol, LA Lewis",
+        "authors": "K Fu\u010d\u00edkov\u00e1, <PO Lewis>, S Neupane, KG Karol, <LA Lewis>",
         "year": 2019,
         "title": "Order, please! Uncertainty in the ordinal-level classification of Chlorophyceae",
         "citation_id": "Q0ZrkG0AAAAJ:VOx2b1Wkg3QC",
@@ -177,7 +177,7 @@
     },
     {
         "ignore": false,
-        "authors": "T Nakada, S Watanabe, LA Lewis, M Tomita",
+        "authors": "T Nakada, S Watanabe, <LA Lewis>, M Tomita",
         "year": 2019,
         "title": "_Chlorococcum turfosum_ comb. nov. (Volvocales, Chlorophyceae) and visualization of chimeric sequences",
         "citation_id": "Q0ZrkG0AAAAJ:LPZeul_q3PIC",
@@ -193,7 +193,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Neupane, K Fu\u010d\u00edkov\u00e1, LA Lewis, L Kuo, MH Chen, PO Lewis",
+        "authors": "S Neupane, K Fu\u010d\u00edkov\u00e1, <LA Lewis>, L Kuo, MH Chen, <PO Lewis>",
         "year": 2019,
         "title": "Assessing combinability of phylogenomic data using Bayes factors",
         "citation_id": "Q0ZrkG0AAAAJ:738O_yMBCRsC",
@@ -209,7 +209,7 @@
     },
     {
         "ignore": false,
-        "authors": "LA Lewis, VR Flechtner",
+        "authors": "<LA Lewis>, VR Flechtner",
         "year": 2019,
         "title": "_Tetradesmus bajacalifornicus_ L.A.Lewis & Flechtner, sp. nov. and _Tetradesmus deserticola_ L.A.Lewis & Flechtner, sp. nov. (Scenedesmaceae, Chlorophyta)",
         "citation_id": "Q0ZrkG0AAAAJ:9vf0nzSNQJEC",
@@ -225,7 +225,7 @@
     },
     {
         "ignore": false,
-        "authors": "F Lutzoni, MD Nowak, ME Alfaro, V Reeb, J Miadlikowska, M Krug, AE Arnold, LA Lewis, D Swofford, D Hibbett, K Hilu, TY James, D Quandt, S Magall\u00f3n",
+        "authors": "F Lutzoni, MD Nowak, ME Alfaro, V Reeb, J Miadlikowska, M Krug, AE Arnold, <LA Lewis>, D Swofford, D Hibbett, K Hilu, TY James, D Quandt, S Magall\u00f3n",
         "year": 2018,
         "title": "Contemporaneous radiations of fungi and plants linked to symbiosis",
         "citation_id": "Q0ZrkG0AAAAJ:5Ul4iDaHHb8C",
@@ -241,7 +241,7 @@
     },
     {
         "ignore": false,
-        "authors": "HA McManus, K Fu\u010d\u00edkov\u00e1, PO Lewis, LA Lewis, KG Karol",
+        "authors": "HA McManus, K Fu\u010d\u00edkov\u00e1, <PO Lewis>, <LA Lewis>, KG Karol",
         "year": 2018,
         "title": "Organellar phylogenomics inform systematics in the green algal family Hydrodictyaceae (Chlorophyceae) and provide clues to the complex evolutionary history of plastid genomes in the green algal tree of life",
         "citation_id": "Q0ZrkG0AAAAJ:vRqMK49ujn8C",
@@ -257,7 +257,7 @@
     },
     {
         "ignore": false,
-        "authors": "LA Lewis",
+        "authors": "<LA Lewis>",
         "year": 2017,
         "title": "Hold the salt: freshwater origin of primary plastids",
         "citation_id": "Q0ZrkG0AAAAJ:p2g8aNsByqUC",
@@ -273,7 +273,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Augyte, L Lewis, S Lin, CD Neefus, C Yarish",
+        "authors": "S Augyte, <L Lewis>, S Lin, CD Neefus, <C Yarish>",
         "year": 2018,
         "title": "Speciation in the exposed intertidal zone: the case of _Saccharina angustissima_ comb. nov. & stat. nov. (Laminariales, Phaeophyceae)",
         "citation_id": "Q0ZrkG0AAAAJ:XiSMed-E-HIC",
@@ -289,7 +289,7 @@
     },
     {
         "ignore": false,
-        "authors": "DA Khan-Bureau, L Ector, EA Morales, EJ Wade, LA Lewis",
+        "authors": "DA Khan-Bureau, L Ector, EA Morales, EJ Wade, <LA Lewis>",
         "year": 2017,
         "title": "Contrasting morphological and DNA barcoding methods for diatom (Bacillariophyta) identification from environmental samples in the Eightmile River in Connecticut, USA.",
         "citation_id": "Q0ZrkG0AAAAJ:4fKUyHm3Qg0C",
@@ -305,7 +305,7 @@
     },
     {
         "ignore": false,
-        "authors": "A Holzinger, K Herburger, K Blaas, LA Lewis, U Karsten",
+        "authors": "A Holzinger, K Herburger, K Blaas, <LA Lewis>, U Karsten",
         "year": 2017,
         "title": "The terrestrial green macroalga _Prasiola calophylla_ (Trebouxiophyceae, Chlorophyta): ecophysiological performance under water-limiting conditions",
         "citation_id": "Q0ZrkG0AAAAJ:dshw04ExmUIC",
@@ -321,7 +321,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Watanabe, LA Lewis",
+        "authors": "S Watanabe, <LA Lewis>",
         "year": 2017,
         "title": "Phylogenetic interpretation of light and electron microscopic features of selected members of the phylogroup _Moewusinia_ (Chlorophyceae), with new generic taxonomy",
         "citation_id": "Q0ZrkG0AAAAJ:uWQEDVKXjbEC",
@@ -337,7 +337,7 @@
     },
     {
         "ignore": false,
-        "authors": "PO Lewis, MH Chen, L Kuo, LA Lewis, K Fu\u010d\u00edkov\u00e1, S Neupane, YB Wang, D Shi",
+        "authors": "<PO Lewis>, MH Chen, L Kuo, <LA Lewis>, K Fu\u010d\u00edkov\u00e1, S Neupane, YB Wang, D Shi",
         "year": 2016,
         "title": "Estimating Bayesian phylogenetic information content",
         "citation_id": "Q0ZrkG0AAAAJ:nb7KW1ujOQ8C",
@@ -353,7 +353,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Watanabe, H Nozaki, T Nakada, LA Lewis",
+        "authors": "S Watanabe, H Nozaki, T Nakada, <LA Lewis>",
         "year": 2016,
         "title": "Comparative ultrastructural analysis of _Chloromonas_ and _Gloeomonas_ (Chlorophyceae): tracing the origin of _Gloeomonas_-specific basal apparatus traits",
         "citation_id": "Q0ZrkG0AAAAJ:KxtntwgDAa4C",
@@ -369,7 +369,7 @@
     },
     {
         "ignore": false,
-        "authors": "DA Khan-Bureau, EA Morales, L Ector, MS Beauchene, LA Lewis",
+        "authors": "DA Khan-Bureau, EA Morales, L Ector, MS Beauchene, <LA Lewis>",
         "year": 2016,
         "title": "Characterization of a new species in the genus _Didymosphenia_ and of _Cymbella janischii_ (Bacillariophyta) from Connecticut, USA",
         "citation_id": "Q0ZrkG0AAAAJ:CHSYGLWDkRkC",
@@ -385,7 +385,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Watanabe, K Fu\u010d\u00edkov\u00e1, LA Lewis, PO Lewis",
+        "authors": "S Watanabe, K Fu\u010d\u00edkov\u00e1, <LA Lewis>, <PO Lewis>",
         "year": 2016,
         "title": "Hiding in plain sight: _Koshicola spirodelophila_ gen. et sp. nov.(Chaetopeltidales, Chlorophyceae), a novel green alga associated with the aquatic angiosperm _Spirodela polyrhiza_",
         "citation_id": "Q0ZrkG0AAAAJ:P5F9QuxV20EC",
@@ -401,7 +401,7 @@
     },
     {
         "ignore": false,
-        "authors": "K Fu\u010d\u00edkov\u00e1, PO Lewis, LA Lewis",
+        "authors": "K Fu\u010d\u00edkov\u00e1, <PO Lewis>, <LA Lewis>",
         "year": 2016,
         "title": "Chloroplast phylogenomic data from the green algal order Sphaeropleales (Chlorophyceae, Chlorophyta) reveal complex patterns of sequence evolution",
         "citation_id": "Q0ZrkG0AAAAJ:NhqRSupF_l8C",
@@ -417,7 +417,7 @@
     },
     {
         "ignore": false,
-        "authors": "K Sciuto, LA Lewis, E Verleyen, I Moro, N La Rocca",
+        "authors": "K Sciuto, <LA Lewis>, E Verleyen, I Moro, N La Rocca",
         "year": 2015,
         "title": "_Chodatodesmus australis_ sp. nov. (Scenedesmaceae, Chlorophyta) from Antarctica, with the emended description of the genus _Chodatodesmus_, and circumscription of _Flechtneria rotunda_ gen. et sp. nov.",
         "citation_id": "Q0ZrkG0AAAAJ:b0M2c_1WBrUC",
@@ -433,7 +433,7 @@
     },
     {
         "ignore": false,
-        "authors": "A Holzinger, K Herburger, F Kaplan, LA Lewis",
+        "authors": "A Holzinger, K Herburger, F Kaplan, <LA Lewis>",
         "year": 2015,
         "title": "Desiccation tolerance in the chlorophyte green alga _Ulva compressa_: does cell wall architecture contribute to ecological success?",
         "citation_id": "Q0ZrkG0AAAAJ:_xSYboBqXhAC",
@@ -449,7 +449,7 @@
     },
     {
         "ignore": false,
-        "authors": "K Herburger, LA Lewis, A Holzinger",
+        "authors": "K Herburger, <LA Lewis>, A Holzinger",
         "year": 2015,
         "title": "Photosynthetic efficiency, desiccation tolerance and ultrastructure in two phylogenetically distinct strains of alpine _Zygnema_ sp. (Zygnematophyceae, Streptophyta): role of pre-akinete formation",
         "citation_id": "Q0ZrkG0AAAAJ:D03iK_w7-QYC",
@@ -465,7 +465,7 @@
     },
     {
         "ignore": false,
-        "authors": "MC Urban, LA Lewis, K Fu\u010d\u00edkov\u00e1, A Cordone",
+        "authors": "<MC Urban>, <LA Lewis>, K Fu\u010d\u00edkov\u00e1, A Cordone",
         "year": 2015,
         "title": "Population of origin and environment interact to determine oomycete infections in spotted salamander populations",
         "citation_id": "Q0ZrkG0AAAAJ:fPk4N6BV_jEC",
@@ -481,7 +481,7 @@
     },
     {
         "ignore": false,
-        "authors": "K Fu\u010d\u00edkov\u00e1, LA Lewis, PO Lewis",
+        "authors": "K Fu\u010d\u00edkov\u00e1, <LA Lewis>, <PO Lewis>",
         "year": 2016,
         "title": "Comparative analyses of chloroplast genome data representing nine green algae in Sphaeropleales (Chlorophyceae, Chlorophyta)",
         "citation_id": "DyJu67sAAAAJ:SP6oXDckpogC",

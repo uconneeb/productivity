@@ -17,7 +17,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Umanzor, S Jang, R Antosca, AT Critchley, C Yarish, JK Kim",
+        "authors": "S Umanzor, S Jang, R Antosca, AT Critchley, <C Yarish>, JK Kim",
         "year": 2020,
         "title": "Optimizing the application of selected biostimulants to enhance the growth of _Eucheumatopsis isiformis_, a carrageenophyte with commercial value, as grown in land-based nursery systems",
         "citation_id": "tlr2fqkAAAAJ:cWzG1nlazyYC",
@@ -33,7 +33,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Han, JS Park, S Umanzor, C Yarish, JK Kim",
+        "authors": "S Han, JS Park, S Umanzor, <C Yarish>, JK Kim",
         "year": 2022,
         "title": "Effects of extraction methods for a new source of biostimulant from _Sargassum horneri_ on the growth of economically important red algae, _Neopyropia yezoensis_",
         "citation_id": "tlr2fqkAAAAJ:uDGL6kOW6j0C",
@@ -49,7 +49,7 @@
     },
     {
         "ignore": false,
-        "authors": "ME Capron, JR Stewart, A de Ramon N\u2019Yeurt, MD Chambers, JK Kim, C Yarish, AT Jones, RB Blaylock, SC James, R Fuhrman, MT Sherman, D Piper, G Harris, MA Hasan",
+        "authors": "ME Capron, JR Stewart, A de Ramon N\u2019Yeurt, MD Chambers, JK Kim, <C Yarish>, AT Jones, RB Blaylock, SC James, R Fuhrman, MT Sherman, D Piper, G Harris, MA Hasan",
         "year": 2020,
         "title": "Restoring pre-industrial CO2 levels while achieving sustainable development goals",
         "citation_id": "tlr2fqkAAAAJ:bKqednn6t2AC",
@@ -65,7 +65,7 @@
     },
     {
         "ignore": false,
-        "authors": "X Mao, S Augyte, M Huang, MP Hare, D Bailey, S Umanzor, M Marty-Rivera, KR Robbins, C Yarish, S Lindell, JL Jannink",
+        "authors": "X Mao, S Augyte, M Huang, MP Hare, D Bailey, S Umanzor, M Marty-Rivera, KR Robbins, <C Yarish>, S Lindell, JL Jannink",
         "year": 2020,
         "title": "Population genetics of sugar kelp throughout the Northeastern United States using genome-wide markers",
         "citation_id": "tlr2fqkAAAAJ:yFnVuubrUp4C",
@@ -81,7 +81,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Augyte, GH Wikfors, S Pitchford, M Marty-Rivera, S Umanzor, S Lindell, D Bailey, C Yarish",
+        "authors": "S Augyte, GH Wikfors, S Pitchford, M Marty-Rivera, S Umanzor, S Lindell, D Bailey, <C Yarish>",
         "year": 2020,
         "title": "The application of flow cytometry for kelp meiospore isolation",
         "citation_id": "tlr2fqkAAAAJ:9c2xU6iGI7YC",
@@ -97,7 +97,7 @@
     },
     {
         "ignore": false,
-        "authors": "SK Shin, SK Kim, JH Kim, T Han, C Yarish, JK Kim",
+        "authors": "SK Shin, SK Kim, JH Kim, T Han, <C Yarish>, JK Kim",
         "year": 2020,
         "title": "Effects of stocking density on the productivity and nutrient removal of _Agarophyton vermiculophyllum_ in _Paralichthys olivaceus_ biofloc effluent",
         "citation_id": "tlr2fqkAAAAJ:IUKN3-7HHlwC",
@@ -113,7 +113,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Umanzor, S Shin, C Yarish, S Augyte, JK Kim",
+        "authors": "S Umanzor, S Shin, <C Yarish>, S Augyte, JK Kim",
         "year": 2020,
         "title": "Exploratory evaluation of the effects of Kelpak\u00ae seaweed extract on cultivated kelp _Saccharina_ spp. exposed to sublethal and lethal temperatures",
         "citation_id": "tlr2fqkAAAAJ:QYdC8u9Cj1oC",
@@ -145,7 +145,7 @@
     },
     {
         "ignore": false,
-        "authors": "M Park, SK Shin, YH Do, C Yarish, JK Kim",
+        "authors": "M Park, SK Shin, YH Do, <C Yarish>, JK Kim",
         "year": 2018,
         "title": "Application of open water integrated multi-trophic aquaculture to intensive monoculture: a review of the current status and challenges in Korea",
         "citation_id": "tlr2fqkAAAAJ:4fGpz3EwCPoC",
@@ -161,7 +161,7 @@
     },
     {
         "ignore": false,
-        "authors": "JM Rose, SB Bricker, S Deonarine, JG Ferreira, T Getchis, J Grant, JK Kim, JS Krumholz, GP Kraemer, K Stephenson, GH Wikfors, C Yarish",
+        "authors": "JM Rose, SB Bricker, S Deonarine, JG Ferreira, T Getchis, J Grant, JK Kim, JS Krumholz, GP Kraemer, K Stephenson, GH Wikfors, <C Yarish>",
         "year": 2015,
         "title": "Nutrient bioextraction",
         "citation_id": "tlr2fqkAAAAJ:MLfJN-KU85MC",
@@ -182,7 +182,7 @@
     },
     {
         "ignore": false,
-        "authors": "JT Hafting, JS Craigie, DB Stengel, RR Loureiro, AH Buschmann, C Yarish, MD Edwards, AT Critchley",
+        "authors": "JT Hafting, JS Craigie, DB Stengel, RR Loureiro, AH Buschmann, <C Yarish>, MD Edwards, AT Critchley",
         "year": 2015,
         "title": "Prospects and challenges for industrial production of seaweed bioactives",
         "citation_id": "tlr2fqkAAAAJ:yB1At4FlUx8C",
@@ -198,7 +198,7 @@
     },
     {
         "ignore": false,
-        "authors": "JK Kim, GP Kraemer, C Yarish",
+        "authors": "JK Kim, GP Kraemer, <C Yarish>",
         "year": 2015,
         "title": "Use of sugar kelp aquaculture in Long Island Sound and the Bronx River Estuary for nutrient extraction",
         "citation_id": "tlr2fqkAAAAJ:0KyAp5RtaNEC",
@@ -214,7 +214,7 @@
     },
     {
         "ignore": false,
-        "authors": "TT Chen, CM Lin, MJ Chen, JH Lo, PP Chiou, HY Gong, JL Wu, MHC Chen, C Yarish",
+        "authors": "TT Chen, CM Lin, MJ Chen, JH Lo, PP Chiou, HY Gong, JL Wu, MHC Chen, <C Yarish>",
         "year": 2015,
         "title": "Transgenic technology in marine organisms",
         "citation_id": "tlr2fqkAAAAJ:_B80troHkn4C",
@@ -235,7 +235,7 @@
     },
     {
         "ignore": false,
-        "authors": "JK Kim, S Kottuparambil, SH Moh, TK Lee, YJ Kim, JS Rhee, EM Choi, BH Kim, YJ Yu, C Yarish, T Han",
+        "authors": "JK Kim, S Kottuparambil, SH Moh, TK Lee, YJ Kim, JS Rhee, EM Choi, BH Kim, YJ Yu, <C Yarish>, T Han",
         "year": 2015,
         "title": "Potential applications of nuisance microalgae blooms",
         "citation_id": "tlr2fqkAAAAJ:7T2F9Uy0os0C",
@@ -251,7 +251,7 @@
     },
     {
         "ignore": false,
-        "authors": "JK Kim, Y Mao, G Kraemer, C Yarish",
+        "authors": "JK Kim, Y Mao, G Kraemer, <C Yarish>",
         "year": 2015,
         "title": "Growth and pigment content of _Gracilaria tikvahiae_ McLachlan under fluorescent and LED lighting",
         "citation_id": "tlr2fqkAAAAJ:2KloaMYe4IUC",
@@ -267,7 +267,7 @@
     },
     {
         "ignore": false,
-        "authors": "JM L\u00f3pez-Vivas, R Mu\u00f1iz-Salazar, R Riosmena-Rodr\u00edguez, C Yarish, E Carpizo-Ituarte",
+        "authors": "JM L\u00f3pez-Vivas, R Mu\u00f1iz-Salazar, R Riosmena-Rodr\u00edguez, <C Yarish>, E Carpizo-Ituarte",
         "year": 2015,
         "title": "Endemic _Pyropia_ species (Bangiales, Rhodophyta) from the Gulf of California, Mexico",
         "citation_id": "tlr2fqkAAAAJ:kzcrU_BdoSEC",
@@ -283,7 +283,7 @@
     },
     {
         "ignore": false,
-        "authors": "JM L\u00f3pez-Vivas, R Riosmena-Rodr\u00edguez, AAJG de la Llave, C Yarish",
+        "authors": "JM L\u00f3pez-Vivas, R Riosmena-Rodr\u00edguez, AAJG de la Llave, <C Yarish>",
         "year": 2015,
         "title": "Growth and reproductive responses of the conchocelis phase of _Pyropia hollenbergii_ (Bangiales, Rhodophyta) to light and temperature",
         "citation_id": "tlr2fqkAAAAJ:tzM49s52ZIMC",
@@ -299,7 +299,7 @@
     },
     {
         "ignore": false,
-        "authors": "J Zhang, JK Kim, C Yarish, P He",
+        "authors": "J Zhang, JK Kim, <C Yarish>, P He",
         "year": 2016,
         "title": "The expansion of _Ulva prolifera_ O. F.  M\u00fcller macroalgal blooms in the Yellow Sea, PR China, through asexual reproduction",
         "citation_id": "tlr2fqkAAAAJ:uWiczbcajpAC",
@@ -315,7 +315,7 @@
     },
     {
         "ignore": false,
-        "authors": "JK Kim, C Yarish, R Pereira",
+        "authors": "JK Kim, <C Yarish>, R Pereira",
         "year": 2016,
         "title": "Tolerances to hypo-osmotic and temperature stresses in native and invasive species of _Gracilaria_ (Rhodophyta)",
         "citation_id": "tlr2fqkAAAAJ:AvfA0Oy_GE0C",
@@ -331,7 +331,7 @@
     },
     {
         "ignore": false,
-        "authors": "R Bjerregaard, D Valderrama, R Radulovich, J Diana, M Capron, CA Mckinnie, M Cedric, K Hopkins, C Yarish, C Goudey, J Forster",
+        "authors": "R Bjerregaard, D Valderrama, R Radulovich, J Diana, M Capron, CA Mckinnie, M Cedric, K Hopkins, <C Yarish>, C Goudey, J Forster",
         "year": 2016,
         "title": "Seaweed aquaculture for food security, income generation and environmental health in tropical developing countries",
         "citation_id": "tlr2fqkAAAAJ:DJbcl8HfkQkC",
@@ -347,7 +347,7 @@
     },
     {
         "ignore": false,
-        "authors": "EJ Cottier-Cook, N Nagabhatla, Y Badis, M Campbell, T Chopin, W Dai, J Fang, P He, C Hewitt, GH Kim, Y Huo, Z Jiang, G Kema, X Li, F Liu, H Liu, Y Liu, Q Lu, Q Luo, Y Mao, FE Msuya, C Rebours, H Shen, GD Stentiford, C Yarish, H Wu, X Yang, J Zhang, Y Zhou, CMM Gachon",
+        "authors": "EJ Cottier-Cook, N Nagabhatla, Y Badis, M Campbell, T Chopin, W Dai, J Fang, P He, C Hewitt, GH Kim, Y Huo, Z Jiang, G Kema, X Li, F Liu, H Liu, Y Liu, Q Lu, Q Luo, Y Mao, FE Msuya, C Rebours, H Shen, GD Stentiford, <C Yarish>, H Wu, X Yang, J Zhang, Y Zhou, CMM Gachon",
         "year": 2016,
         "title": "Safeguarding the future of the global seaweed aquaculture industry",
         "citation_id": "tlr2fqkAAAAJ:PoWvk5oyLR8C",
@@ -368,7 +368,7 @@
     },
     {
         "ignore": false,
-        "authors": "Y Huo, H Han, L Hua, Z Wei, K Yu, H Shi, JK Kim, C Yarish, P He",
+        "authors": "Y Huo, H Han, L Hua, Z Wei, K Yu, H Shi, JK Kim, <C Yarish>, P He",
         "year": 2016,
         "title": "Tracing the origin of green macroalgal blooms based on the large scale spatio-temporal distribution of Ulva microscopic propagules and settled mature Ulva vegetative thalli in \u2026",
         "citation_id": "tlr2fqkAAAAJ:KUbvn5osdkgC",
@@ -384,7 +384,7 @@
     },
     {
         "ignore": false,
-        "authors": "G Kraemer, C Yarish, JK Kim, H Zhang, S Lin",
+        "authors": "G Kraemer, <C Yarish>, JK Kim, H Zhang, S Lin",
         "year": 2017,
         "title": "Life history interactions between the red algae _Chondrus crispus_ (Gigartinales) and _Grateloupia turuturu_ (Halymeniales) in a changing global environment",
         "citation_id": "tlr2fqkAAAAJ:TIZ-Mc8IlK0C",
@@ -400,7 +400,7 @@
     },
     {
         "ignore": false,
-        "authors": "L Gorman, GP Kraemer, C Yarish, SM Boo, JK Kim",
+        "authors": "L Gorman, GP Kraemer, <C Yarish>, SM Boo, JK Kim",
         "year": 2017,
         "title": "The effects of temperature on the growth rate and nitrogen content of invasive _Gracilaria vermiculophylla_ and native _Gracilaria tikvahiae_ from Long Island Sound, USA",
         "citation_id": "tlr2fqkAAAAJ:oNZyr7d5Mn4C",
@@ -416,7 +416,7 @@
     },
     {
         "ignore": false,
-        "authors": "JK Kim, C Yarish, EK Hwang, M Park, Y Kim",
+        "authors": "JK Kim, <C Yarish>, EK Hwang, M Park, Y Kim",
         "year": 2017,
         "title": "Seaweed aquaculture: cultivation technologies, challenges and its ecosystem services",
         "citation_id": "tlr2fqkAAAAJ:M7yex6snE4oC",
@@ -432,7 +432,7 @@
     },
     {
         "ignore": false,
-        "authors": "SH Brawley, NA Blouin, E Ficko-Blean, GL Wheeler, M Lohr, HV Goodson, JW Jenkins, CE Blaby-Haas, KE Helliwell, CX Chan, TN Marriage, D Bhattacharya, AS Klein, Y Badis, J Brodie, Y Cao, J Collé\u00e9n, SM Dittami, CMM Gachon, BR Green, SJ Karpowicz, JW Kim, UJ Kudahl, S Lin, G Michel, M Mittag, BJSC Olson, JL Pangilinan, Y Peng, H Qiu, S Shu, JT Singer, AG Smith, BN Sprecher, V Wagner, W Wang, ZY Wang, J Yan, C Yarish, S Z\u00e4uner-Riek, Y Zhuang, Y Zou, EA Lindquist, J Grimwood, KW Barry, DS Rokhsar, J Schmutz, JW Stiller, AR Grossman, SE Prochnik",
+        "authors": "SH Brawley, NA Blouin, E Ficko-Blean, GL Wheeler, M Lohr, HV Goodson, JW Jenkins, CE Blaby-Haas, KE Helliwell, CX Chan, TN Marriage, D Bhattacharya, AS Klein, Y Badis, J Brodie, Y Cao, J Collé\u00e9n, SM Dittami, CMM Gachon, BR Green, SJ Karpowicz, JW Kim, UJ Kudahl, S Lin, G Michel, M Mittag, BJSC Olson, JL Pangilinan, Y Peng, H Qiu, S Shu, JT Singer, AG Smith, BN Sprecher, V Wagner, W Wang, ZY Wang, J Yan, <C Yarish>, S Z\u00e4uner-Riek, Y Zhuang, Y Zou, EA Lindquist, J Grimwood, KW Barry, DS Rokhsar, J Schmutz, JW Stiller, AR Grossman, SE Prochnik",
         "year": 2017,
         "title": "Insights into the red algae and eukaryotic evolution from the genome of _Porphyra umbilicalis_ (Bangiophyceae, Rhodophyta)",
         "citation_id": "tlr2fqkAAAAJ:HbR8gkJAVGIC",
@@ -448,7 +448,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Augyte, C Yarish, S Redmond, JK Kim",
+        "authors": "S Augyte, <C Yarish>, S Redmond, JK Kim",
         "year": 2017,
         "title": "Cultivation of a morphologically distinct strain of the sugar kelp, _Saccharina latissima_ forma _angustissima_, from coastal Maine, USA, with implications for ecosystem \u2026",
         "citation_id": "tlr2fqkAAAAJ:-FonjvnnhkoC",
@@ -464,7 +464,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Augyte, L Lewis, S Lin, CD Neefus, C Yarish",
+        "authors": "S Augyte, <L Lewis>, S Lin, CD Neefus, <C Yarish>",
         "year": 2018,
         "title": "Speciation in the exposed intertidal zone: the case of _Saccharina angustissima_ comb. nov. & stat. nov. (Laminariales, Phaeophyceae)",
         "citation_id": "tlr2fqkAAAAJ:edDO8Oi4QzsC",
@@ -480,7 +480,7 @@
     },
     {
         "ignore": false,
-        "authors": "X Qiu, A Neori, JK Kim, C Yarish, M Shpigel, L Guttman, D Ben Ezra, V Odintsov, DA Davis",
+        "authors": "X Qiu, A Neori, JK Kim, <C Yarish>, M Shpigel, L Guttman, D Ben Ezra, V Odintsov, DA Davis",
         "year": 2018,
         "title": "Evaluation of green seaweed Ulva sp. as a replacement of fish meal in plant-based practical diets for Pacific white shrimp, _Litopenaeus vannamei_",
         "citation_id": "tlr2fqkAAAAJ:foquWX3nUaYC",
@@ -496,7 +496,7 @@
     },
     {
         "ignore": false,
-        "authors": "X Qiu, A Neori, JK Kim, C Yarish, M Shpigel, L Guttman, D Ben Ezra, V Odintsov, DA Davis",
+        "authors": "X Qiu, A Neori, JK Kim, <C Yarish>, M Shpigel, L Guttman, D Ben Ezra, V Odintsov, DA Davis",
         "year": 2018,
         "title": "Green seaweed _Ulva_ sp. as an alternative ingredient in plant-based practical diets for Pacific white shrimp, _Litopenaeus vannamei_",
         "citation_id": "tlr2fqkAAAAJ:ruyezt5ZtCIC",
@@ -512,7 +512,7 @@
     },
     {
         "ignore": false,
-        "authors": "H Wu, J Zhang, C Yarish, P He, JK Kim",
+        "authors": "H Wu, J Zhang, <C Yarish>, P He, JK Kim",
         "year": 2018,
         "title": "Bioremediation and nutrient migration during blooms of _Ulva_ in the Yellow Sea, China",
         "citation_id": "tlr2fqkAAAAJ:ClCfbGk0d_YC",
@@ -528,7 +528,7 @@
     },
     {
         "ignore": false,
-        "authors": "J Park, T Han, C Yarish, JK Kim",
+        "authors": "J Park, T Han, <C Yarish>, JK Kim",
         "year": 2018,
         "title": "Chapter 11: Microalgae and alcohol",
         "citation_id": "tlr2fqkAAAAJ:artPoR2Yc-kC",
@@ -549,7 +549,7 @@
     },
     {
         "ignore": false,
-        "authors": "W Mendoza, D Mendola, J Kim, C Yarish, A Velloze, BG Mitchell",
+        "authors": "W Mendoza, D Mendola, J Kim, <C Yarish>, A Velloze, BG Mitchell",
         "year": 2018,
         "title": "Correction: land-based drip-irrigated culture of _Ulva compressa_: the effect of culture platform design and nutrient concentration on biomass production and protein content",
         "citation_id": "tlr2fqkAAAAJ:bz8QjSJIRt4C",
@@ -565,7 +565,7 @@
     },
     {
         "ignore": false,
-        "authors": "H Wu, SK Shin, S Jang, C Yarish, JK Kim",
+        "authors": "H Wu, SK Shin, S Jang, <C Yarish>, JK Kim",
         "year": 2018,
         "title": "Growth and nutrient bioextraction of _Gracilaria chorda_, _G. vermiculophylla_, _Ulva prolifera_, and _U. compressa_ under hypo-and hyper-osmotic conditions",
         "citation_id": "tlr2fqkAAAAJ:GtLg2Ama23sC",
@@ -581,7 +581,7 @@
     },
     {
         "ignore": false,
-        "authors": "AL Lamb, JK Kim, C Yarish, BF Branco",
+        "authors": "AL Lamb, JK Kim, <C Yarish>, BF Branco",
         "year": 2018,
         "title": "Identification of the bloom forming _Ulva_ and macroalgal assemblage in Jamaica Bay, New York, USA",
         "citation_id": "tlr2fqkAAAAJ:FAceZFleit8C",
@@ -597,7 +597,7 @@
     },
     {
         "ignore": false,
-        "authors": "CMR Rocha, AMM Sousa, JK Kim, JMCS Magalh\u00e3es, C Yarish, MP Gon\u00e7alves",
+        "authors": "CMR Rocha, AMM Sousa, JK Kim, JMCS Magalh\u00e3es, <C Yarish>, MP Gon\u00e7alves",
         "year": 2019,
         "title": "Characterization of agar from _Gracilaria tikvahiae_ cultivated for nutrient bioextraction in open water farms",
         "citation_id": "tlr2fqkAAAAJ:9pM33mqn1YgC",
@@ -613,7 +613,7 @@
     },
     {
         "ignore": false,
-        "authors": "W Mendoza, D Mendola, J Kim, C Yarish, A Velloze, BG Mitchell",
+        "authors": "W Mendoza, D Mendola, J Kim, <C Yarish>, A Velloze, BG Mitchell",
         "year": 2018,
         "title": "Land-based drip-irrigated culture of _Ulva_ compressa: the effect of culture platform design and nutrient concentration on biomass production and protein content",
         "citation_id": "tlr2fqkAAAAJ:kh2fBNsKQNwC",
@@ -629,7 +629,7 @@
     },
     {
         "ignore": false,
-        "authors": "JK Kim, G Kraemer, C Yarish",
+        "authors": "JK Kim, G Kraemer, <C Yarish>",
         "year": 2019,
         "title": "Evaluation of the metal content of farm grown _Gracilaria tikvahiae_ and _Saccharina latissima_ from Long Island Sound and New York estuaries",
         "citation_id": "tlr2fqkAAAAJ:a9-T7VOCCH8C",
@@ -645,7 +645,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Augyte, C Yarish, CD Neefus",
+        "authors": "S Augyte, <C Yarish>, CD Neefus",
         "year": 2019,
         "title": "Thermal and light impacts on the early growth stages of the kelp _Saccharina angustissima_ (Laminariales, Phaeophyceae)",
         "citation_id": "tlr2fqkAAAAJ:4hFrxpcac9AC",
@@ -661,7 +661,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Umanzor, S Shin, M Marty-Rivera, S Augyte, C Yarish, JK Kim",
+        "authors": "S Umanzor, S Shin, M Marty-Rivera, S Augyte, <C Yarish>, JK Kim",
         "year": 2019,
         "title": "Preliminary assessment on the effects of the commercial seaweed extract, AMPEP, on growth and thermal tolerance of the kelp _Saccharina_ spp. from the Northwest \u2026",
         "citation_id": "tlr2fqkAAAAJ:umqufdRvDiIC",
@@ -677,7 +677,7 @@
     },
     {
         "ignore": false,
-        "authors": "JK Kim, M Stekoll, C Yarish",
+        "authors": "JK Kim, M Stekoll, <C Yarish>",
         "year": 2019,
         "title": "Opportunities, challenges and future directions of open-water seaweed aquaculture in the United States",
         "citation_id": "tlr2fqkAAAAJ:sNmaIFBj_lkC",
@@ -693,7 +693,7 @@
     },
     {
         "ignore": false,
-        "authors": "R Wade, S Augyte, M Harden, S Nuzhdin, C Yarish, F Alberto",
+        "authors": "R Wade, S Augyte, M Harden, S Nuzhdin, <C Yarish>, F Alberto",
         "year": 2020,
         "title": "Macroalgal germplasm banking for conservation, food security, and industry",
         "citation_id": "tlr2fqkAAAAJ:dBIO0h50nwkC",
@@ -709,7 +709,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Umanzor, Y Li, C Yarish",
+        "authors": "S Umanzor, Y Li, <C Yarish>",
         "year": 2020,
         "title": "Effect of direct \u201cseeding\u201d binders and embryonic sporophyte sizes on the development of the sugar kelp, _Saccharina latissima_",
         "citation_id": "tlr2fqkAAAAJ:OcBU2YAGkTUC",
@@ -725,7 +725,7 @@
     },
     {
         "ignore": false,
-        "authors": "HA Stefenoni, SE Raisanen, SF Welchez, DE Wasson, CF Lage, A Melgar, ME Fetter, P Smith, M Hennessy, B Vecchiarelli, J Bender, D Pitta, CL Cantrell, C Yarish, AN Hristov",
+        "authors": "HA Stefenoni, SE Raisanen, SF Welchez, DE Wasson, CF Lage, A Melgar, ME Fetter, P Smith, M Hennessy, B Vecchiarelli, J Bender, D Pitta, CL Cantrell, <C Yarish>, AN Hristov",
         "year": 2020,
         "title": "Effects of _Asparagopsis taxiformis_ and oregano leaves on methane emission, rumen fermentation, and lactational performance of dairy cows.",
         "citation_id": "tlr2fqkAAAAJ:fFSKOagxvKUC",
@@ -741,7 +741,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Vijn, DP Compart, N Dutta, A Foukis, M Hess, AN Hristov, KF Kalscheur, E Kebrea, S Nuzhdin, NN Price, Y Sun, JM Tricarico, A Turzillo, M Weisbjerg, C Yarish, T Kurt",
+        "authors": "S Vijn, DP Compart, N Dutta, A Foukis, M Hess, AN Hristov, KF Kalscheur, E Kebrea, S Nuzhdin, NN Price, Y Sun, JM Tricarico, A Turzillo, M Weisbjerg, <C Yarish>, T Kurt",
         "year": 2020,
         "title": "Key considerations for the use of seaweed to reduce enteric methane emissions from cattle",
         "citation_id": "tlr2fqkAAAAJ:KbBQZpvPDL4C",
@@ -757,7 +757,7 @@
     },
     {
         "ignore": false,
-        "authors": "Y Huo, JK Kim, C Yarish, S Augyte, P He",
+        "authors": "Y Huo, JK Kim, <C Yarish>, S Augyte, P He",
         "year": 2021,
         "title": "Responses of the germination and growth of _Ulva prolifera_ parthenogametes, the causative species of green tides, to gradients of temperature and light",
         "citation_id": "tlr2fqkAAAAJ:HeT0ZceujKMC",
@@ -789,7 +789,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Umanzor, Y Li, D Bailey, S Augyte, M Huang, M Marty\u2010Rivera, M Huang, JL Jannink, C Yarish, S Lindell",
+        "authors": "S Umanzor, Y Li, D Bailey, S Augyte, M Huang, M Marty\u2010Rivera, M Huang, JL Jannink, <C Yarish>, S Lindell",
         "year": 2021,
         "title": "Comparative analysis of morphometric traits of farmed sugar kelp and skinny kelp, _Saccharina_ spp., strains from the Northwest Atlantic",
         "citation_id": "tlr2fqkAAAAJ:F9fV5C73w3QC",
@@ -805,7 +805,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Augyte, JL Jannink, X Mao, M Huang, K Robbins, M Hare, S Umanzor, M Marty- Rivera, Y Li, S Lindell, D Bailey, C Yarish",
+        "authors": "S Augyte, JL Jannink, X Mao, M Huang, K Robbins, M Hare, S Umanzor, M Marty- Rivera, Y Li, S Lindell, D Bailey, <C Yarish>",
         "year": 2021,
         "title": "Kelp, _Saccharina_ spp, population genetics in New England, US, for guiding a breeding program of thermally resilient strains",
         "citation_id": "tlr2fqkAAAAJ:OP4eGU-M3BUC",
@@ -821,7 +821,7 @@
     },
     {
         "ignore": false,
-        "authors": "JS Park, SK Shin, H Wu, C Yarish, HI Yoo, JK Kim",
+        "authors": "JS Park, SK Shin, H Wu, <C Yarish>, HI Yoo, JK Kim",
         "year": 2021,
         "title": "Evaluation of nutrient bioextraction by seaweed and shellfish aquaculture in Korea",
         "citation_id": "tlr2fqkAAAAJ:lvd772isFD0C",
@@ -837,7 +837,7 @@
     },
     {
         "ignore": false,
-        "authors": "H Yang, Y Huo, JC Yee, C Yarish",
+        "authors": "H Yang, Y Huo, JC Yee, <C Yarish>",
         "year": 2021,
         "title": "Germplasm cryopreservation of macroalgae for aquaculture breeding and natural resource conservation: A review",
         "citation_id": "tlr2fqkAAAAJ:Ehil0879vHcC",
@@ -853,7 +853,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Augyte, JK Kim, C Yarish",
+        "authors": "S Augyte, JK Kim, <C Yarish>",
         "year": 2021,
         "title": "Seaweed aquaculture\u2014From historic trends to current innovation",
         "citation_id": "tlr2fqkAAAAJ:5icHVeHT4IsC",
@@ -869,7 +869,7 @@
     },
     {
         "ignore": false,
-        "authors": "EJ Cottier-Cook, N Nagabhatla, A Asri, M Beveridge, P Bianchi, J Bolton, MG Bondad-Reantaso, J Brodie, A Buschmann, J Cabarubias, I Campbell, T Chopin, A Critchley, P De Lombaerde, V Doumeizel, CMM Gachon, L Hayashi, CL Hewitt, J Huang, A Hurtado, C Kambey, GH Kim, V Le Masson, PE Lim, T Liu, G Malin, I Matoju, V Montalescot, FE Msuya, P Potin, M Puspita, Z Qi, L Shaxson, IS Pinto, GD Stentiford, J Suyo, C Yarish",
+        "authors": "EJ Cottier-Cook, N Nagabhatla, A Asri, M Beveridge, P Bianchi, J Bolton, MG Bondad-Reantaso, J Brodie, A Buschmann, J Cabarubias, I Campbell, T Chopin, A Critchley, P De Lombaerde, V Doumeizel, CMM Gachon, L Hayashi, CL Hewitt, J Huang, A Hurtado, C Kambey, GH Kim, V Le Masson, PE Lim, T Liu, G Malin, I Matoju, V Montalescot, FE Msuya, P Potin, M Puspita, Z Qi, L Shaxson, IS Pinto, GD Stentiford, J Suyo, <C Yarish>",
         "year": 2021,
         "title": "Ensuring the sustainable future of the rapidly expanding global seaweed aquaculture industry\u2013a vision",
         "citation_id": "tlr2fqkAAAAJ:gKiMpY-AVTkC",
@@ -890,7 +890,7 @@
     },
     {
         "ignore": false,
-        "authors": "M Huang, KR Robbins, Y Li, S Umanzor, M Marty-Rivera, D Bailey, C Yarish, S Lindell, JL Jannink",
+        "authors": "M Huang, KR Robbins, Y Li, S Umanzor, M Marty-Rivera, D Bailey, <C Yarish>, S Lindell, JL Jannink",
         "year": 2022,
         "title": "Simulation of sugar kelp (_Saccharina latissima_) breeding guided by practices to accelerate genetic gains",
         "citation_id": "tlr2fqkAAAAJ:Ak0FvsSvgGUC",
@@ -906,7 +906,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Umanzor, Y Li, C Yarish",
+        "authors": "S Umanzor, Y Li, <C Yarish>",
         "year": 2021,
         "title": "Correction to: Effect of direct \u201cseeding\u201d binders and embryonic sporophyte sizes on the development of the sugar kelp, _Saccharina latissima_",
         "citation_id": "tlr2fqkAAAAJ:5MTHONV0fEkC",
@@ -922,7 +922,7 @@
     },
     {
         "ignore": false,
-        "authors": "M Bao, JS Park, H Wu, HJ Lee, SR Park, TH Kim, YB Son, TH Lee, C Yarish, YK Kim",
+        "authors": "M Bao, JS Park, H Wu, HJ Lee, SR Park, TH Kim, YB Son, TH Lee, <C Yarish>, YK Kim",
         "year": 2022,
         "title": "A comparison of physiological responses between attached and pelagic populations of _Sargassum horneri_ under nutrient and light limitation",
         "citation_id": "tlr2fqkAAAAJ:Bg7qf7VwUHIC",
@@ -938,7 +938,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Umanzor, S Han, HI Song, JS Park, AT Critchley, C Yarish, JK Kim",
+        "authors": "S Umanzor, S Han, HI Song, JS Park, AT Critchley, <C Yarish>, JK Kim",
         "year": 2022,
         "title": "Enhancements provided by the use of an _Ascophyllum nodosum_ extract can be transferred through archeospores in the red alga _Neopyropia yezoensis_ (Ueda) L.-E. Yang & J. Brodie",
         "citation_id": "tlr2fqkAAAAJ:vDZJ-YLwNdEC",
@@ -954,7 +954,7 @@
     },
     {
         "ignore": false,
-        "authors": "M Bao, JS Park, Q Xing, P He, J Zhang, C Yarish, HI Yoo, JK Kim",
+        "authors": "M Bao, JS Park, Q Xing, P He, J Zhang, <C Yarish>, HI Yoo, JK Kim",
         "year": 2022,
         "title": "Comparative analysis of physiological responses in two _Ulva prolifera_ strains revealed the effect of eutrophication on high temperature and copper stress tolerance",
         "citation_id": "tlr2fqkAAAAJ:sJsF-0ZLhtgC",
@@ -970,7 +970,7 @@
     },
     {
         "ignore": false,
-        "authors": "Q Xing, YW Kim, D Kim, JS Park, HIL Yoo, C Yarish, JK Kim",
+        "authors": "Q Xing, YW Kim, D Kim, JS Park, HIL Yoo, <C Yarish>, JK Kim",
         "year": 2022,
         "title": "Effects of the ultraviolet filter oxybenzone on physiological responses in a red macroalga, _Gracilaria vermiculophylla_",
         "citation_id": "tlr2fqkAAAAJ:4X0JR2_MtJMC",
@@ -986,7 +986,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Umanzor, S Han, HI Song, JS Park, AT Critchley, C Yarish, JK Kim",
+        "authors": "S Umanzor, S Han, HI Song, JS Park, AT Critchley, <C Yarish>, JK Kim",
         "year": 2022,
         "title": "Ascertaining the interactions of brown seaweed-derived biostimulants and seawater temperature on spore release, germination, conchocelis, and newly formed blades of the important red alga _Neopyropia yezoensis_",
         "citation_id": "tlr2fqkAAAAJ:6yz0xqPARnAC",
@@ -1002,7 +1002,7 @@
     },
     {
         "ignore": false,
-        "authors": "HS Kim, HG Choi, MS Hwang, YJ Jeon, C Yarish, JK Kim",
+        "authors": "HS Kim, HG Choi, MS Hwang, YJ Jeon, <C Yarish>, JK Kim",
         "year": 2022,
         "title": "Concise review of the genus _Neopyropia_ (Rhodophyta: Bangiales)",
         "citation_id": "tlr2fqkAAAAJ:NyGDZy8z5eUC",
@@ -1018,7 +1018,7 @@
     },
     {
         "ignore": false,
-        "authors": "EK Hwang, GH Boo, L Graf, C Yarish, HS Yoon, JK Kim",
+        "authors": "EK Hwang, GH Boo, L Graf, <C Yarish>, HS Yoon, JK Kim",
         "year": 2022,
         "title": "Kelps in Korea: from population structure to aquaculture to potential carbon sequestration",
         "citation_id": "tlr2fqkAAAAJ:PVgj2kMGcgYC",
@@ -1034,7 +1034,7 @@
     },
     {
         "ignore": false,
-        "authors": "CP Heidkamp, LV Krak, MMR Kelly, C Yarish",
+        "authors": "CP Heidkamp, LV Krak, MMR Kelly, <C Yarish>",
         "year": 2022,
         "title": "Geographical considerations for capturing value in the US sugar kelp (_Saccharina latissima_) industry",
         "citation_id": "tlr2fqkAAAAJ:QD3KBmkZPeQC",
@@ -1050,7 +1050,7 @@
     },
     {
         "ignore": false,
-        "authors": "Y Li, S Umanzor, C Ng, M Huang, M Marty-Rivera, D Bailey, M Aydlett, JL Jannink, S Lindell, C Yarish",
+        "authors": "Y Li, S Umanzor, C Ng, M Huang, M Marty-Rivera, D Bailey, M Aydlett, JL Jannink, S Lindell, <C Yarish>",
         "year": 2022,
         "title": "Skinny kelp (_Saccharina angustissima_) provides valuable genetics for the biomass improvement of farmed sugar kelp (_Saccharina latissima_)",
         "citation_id": "tlr2fqkAAAAJ:otzGkya1bYkC",
@@ -1066,7 +1066,7 @@
     },
     {
         "ignore": false,
-        "authors": "JA Zertuche-Gonzalez, JS Gil, M Sanchez-Barredo, Z Altamirano_G\u00f3mez, JM Guzm\u00e1n-Calder\u00f3n, LK Rangel-Mendoza, LB Ladah, R Cruz-L\u00f3pez, C Yarish",
+        "authors": "JA Zertuche-Gonzalez, JS Gil, M Sanchez-Barredo, Z Altamirano_G\u00f3mez, JM Guzm\u00e1n-Calder\u00f3n, LK Rangel-Mendoza, LB Ladah, R Cruz-L\u00f3pez, <C Yarish>",
         "year": 2022,
         "title": "_Eisenia arborea_ (Areschoung) domestication and mariculture development on the Pacific coast of Baja California, M\u00e9xico.",
         "citation_id": "tlr2fqkAAAAJ:wMgC3FpKEyYC",
@@ -1098,7 +1098,7 @@
     },
     {
         "ignore": false,
-        "authors": "DE Wasson, C Yarish, AN Hristov",
+        "authors": "DE Wasson, <C Yarish>, AN Hristov",
         "year": 2022,
         "title": "Enteric methane mitigation through _Asparagopsis taxiformis_ supplementation and potential algal alternatives",
         "citation_id": "tlr2fqkAAAAJ:jgBuDB5drN8C",
@@ -1114,7 +1114,7 @@
     },
     {
         "ignore": false,
-        "authors": "HI Song, S Han, JS Park, YJ Kim, CB Jeong, C Yarish, JK Kim",
+        "authors": "HI Song, S Han, JS Park, YJ Kim, CB Jeong, <C Yarish>, JK Kim",
         "year": 2022,
         "title": "Dark treatment effect on the carrageenan characterization in a red alga, _Chondrus crispus_",
         "citation_id": "tlr2fqkAAAAJ:48xauSegjOkC",
@@ -1130,7 +1130,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Han, HI Song, JS Park, YJ Kim, S Umanzor, C Yarish, JK Kim",
+        "authors": "S Han, HI Song, JS Park, YJ Kim, S Umanzor, <C Yarish>, JK Kim",
         "year": 2023,
         "title": "_Sargassum horneri_ and _Ascophyllum nodosum_ extracts enhance thermal tolerance and antioxidant activity of _Neopyropia yezoensis_",
         "citation_id": "tlr2fqkAAAAJ:43bX7VzcjpAC",
@@ -1146,7 +1146,7 @@
     },
     {
         "ignore": false,
-        "authors": "M Bao, Q Xing, JS Park, P He, J Zhang, C Yarish, JK Kim",
+        "authors": "M Bao, Q Xing, JS Park, P He, J Zhang, <C Yarish>, JK Kim",
         "year": 2023,
         "title": "Temperature and high nutrients enhance hypo-salinity tolerance of the bloom forming green alga, _Ulva prolifera_",
         "citation_id": "tlr2fqkAAAAJ:PaBasH6fAo0C",
@@ -1162,7 +1162,7 @@
     },
     {
         "ignore": false,
-        "authors": "M Huang, KR Robbins, Y Li, S Umanzor, M Marty-Rivera, D Bailey, M Aydlett, J Schmutz, J Grimwood, C Yarish, S Lindell, JL Jannink",
+        "authors": "M Huang, KR Robbins, Y Li, S Umanzor, M Marty-Rivera, D Bailey, M Aydlett, J Schmutz, J Grimwood, <C Yarish>, S Lindell, JL Jannink",
         "year": 2023,
         "title": "Genomic selection in algae with biphasic lifecycles: a _Saccharina latissima_ (sugar kelp) case study",
         "citation_id": ["tlr2fqkAAAAJ:nRpfm8aw39MC","tlr2fqkAAAAJ:buQ7SEKw-1sC"],
@@ -1178,7 +1178,7 @@
     },
     {
         "ignore": false,
-        "authors": "Q Xing, S Han, JS Park, C Yarish, JK Kim",
+        "authors": "Q Xing, S Han, JS Park, <C Yarish>, JK Kim",
         "year": 2023,
         "title": "Comparative transcriptome analysis reveals the molecular mechanism of heat-tolerance in _Neopyropia yezoensis_ induced by _Sargassum horneri_ extract",
         "citation_id": "tlr2fqkAAAAJ:7BrZ7Jt4UNcC",

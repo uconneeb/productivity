@@ -1,7 +1,7 @@
 [
     {
         "ignore": false,
-        "authors": "JEK Byrnes, F Roger, R Bagchi",
+        "authors": "JEK Byrnes, F Roger, <R Bagchi>",
         "year": 2023,
         "title": "Understandable multifunctionality measures using Hill numbers",
         "citation_id": "bIbzgcwAAAAJ:BAanoTsO0WEC",
@@ -17,7 +17,7 @@
     },
     {
         "ignore": false,
-        "authors": "L Browne, L Markesteijn, E Manzan\u00e9-Pinz\u00f3n, SJ Wright, R Bagchi, B Engelbrecht, FA Jones, LS Comita",
+        "authors": "L Browne, L Markesteijn, E Manzan\u00e9-Pinz\u00f3n, SJ Wright, <R Bagchi>, B Engelbrecht, FA Jones, LS Comita",
         "year": 2023,
         "title": "Widespread variation in functional trait\u2013vital rate relationships in tropical tree seedlings across a precipitation and soil phosphorus gradient",
         "citation_id": "bIbzgcwAAAAJ:TGkaJS32XoUC",
@@ -33,7 +33,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Jia, X Wang, Z Hao, R Bagchi",
+        "authors": "S Jia, X Wang, Z Hao, <R Bagchi>",
         "year": 2022,
         "title": "The effects of natural enemies on herb diversity in a temperate forest depend on species traits and neighbouring tree composition",
         "citation_id": "bIbzgcwAAAAJ:aDl3D7KC1E4C",
@@ -49,7 +49,7 @@
     },
     {
         "ignore": false,
-        "authors": "R Bagchi, MC Lascaleia, VR Milici, D Dalui",
+        "authors": "<R Bagchi>, MC Lascaleia, VR Milici, D Dalui",
         "year": 2022,
         "title": "Replicated spatial point pattern analyses for ecological inference: a tutorial using the RSPPlme4 package in R",
         "citation_id": "bIbzgcwAAAAJ:PuOEWVtPfzwC",
@@ -65,7 +65,7 @@
     },
     {
         "ignore": false,
-        "authors": "VJ Pasquarella, JG Mickley, A Barker Plotkin, RG MacLean, RM Anderson, LM Brownp, DM Wagner, MS Singer, R Bagchi",
+        "authors": "VJ Pasquarella, JG Mickley, A Barker Plotkin, RG MacLean, RM Anderson, LM Brownp, DM Wagner, MS Singer, <R Bagchi>",
         "year": 2021,
         "title": "Predicting defoliator abundance and defoliation measurements using Landsat\u2010based condition scores",
         "citation_id": "bIbzgcwAAAAJ:3A3nxV7CjKIC",
@@ -81,7 +81,7 @@
     },
     {
         "ignore": false,
-        "authors": "VR Milici, D Dalui, JG Mickley, R Bagchi",
+        "authors": "VR Milici, D Dalui, JG Mickley, <R Bagchi>",
         "year": 2020,
         "title": "Responses of plant\u2013pathogen interactions to precipitation: implications for tropical tree richness in a changing world",
         "citation_id": "bIbzgcwAAAAJ:g8uWPOAv7ggC",
@@ -97,7 +97,7 @@
     },
     {
         "ignore": false,
-        "authors": "CA Garcia, J Vend\u00e9, N Konerira, J Kalla, M Nay, A Dray, M Delay, P Waeber, N Stoudmann, A Bose, C Le Page, Y Raghuram, R Bagchi, J Ghazoul, C Kushalappa, P Vaast",
+        "authors": "CA Garcia, J Vend\u00e9, N Konerira, J Kalla, M Nay, A Dray, M Delay, P Waeber, N Stoudmann, A Bose, C Le Page, Y Raghuram, <R Bagchi>, J Ghazoul, C Kushalappa, P Vaast",
         "year": 2020,
         "title": "Coffee, farmers, and trees\u2014shifting rights accelerates changing landscapes",
         "citation_id": "bIbzgcwAAAAJ:6ZzL7HXColQC",
@@ -113,7 +113,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Jia, X Wang, Z Yuan, F Lin, J Ye, G Lin, Z Hao, R Bagchi",
+        "authors": "S Jia, X Wang, Z Yuan, F Lin, J Ye, G Lin, Z Hao, <R Bagchi>",
         "year": 2020,
         "title": "Tree species traits affect which natural enemies drive the Janzen-Connell effect in a temperate forest",
         "citation_id": "bIbzgcwAAAAJ:I858iXPj1OkC",
@@ -129,7 +129,7 @@
     },
     {
         "ignore": false,
-        "authors": "A Viswanathan, J Ghazoul, OT Lewis, G Honwad, R Bagchi",
+        "authors": "A Viswanathan, J Ghazoul, OT Lewis, G Honwad, <R Bagchi>",
         "year": 2020,
         "title": "Effects of forest fragment area on interactions between plants and their natural enemies: Consequences for plant diversity at multiple spatial scales",
         "citation_id": "bIbzgcwAAAAJ:kUhpeDhEZMUC",
@@ -145,7 +145,7 @@
     },
     {
         "ignore": false,
-        "authors": "RM Anderson, NM Dallar, NL Pirtel, CJ Connors, J Mickley, R Bagchi, MS Singer",
+        "authors": "RM Anderson, NM Dallar, NL Pirtel, CJ Connors, J Mickley, <R Bagchi>, MS Singer",
         "year": 2019,
         "title": "Bottom-Up and top-down effects of forest fragmentation differ between dietary generalist and specialist caterpillars",
         "citation_id": "bIbzgcwAAAAJ:ifOnle78iJkC",
@@ -161,7 +161,7 @@
     },
     {
         "ignore": false,
-        "authors": "EM Slade, R Bagchi, N Keller, CD Philipson",
+        "authors": "EM Slade, <R Bagchi>, N Keller, CD Philipson",
         "year": 2019,
         "title": "When do more species maximize more ecosystem services?",
         "citation_id": "bIbzgcwAAAAJ:9shLKfS_uJEC",
@@ -177,7 +177,7 @@
     },
     {
         "ignore": false,
-        "authors": "A Viswanathan, J Ghazoul, G Honwad, NA Kumar, R Bagchi",
+        "authors": "A Viswanathan, J Ghazoul, G Honwad, NA Kumar, <R Bagchi>",
         "year": 2019,
         "title": "The effects of rainforest fragment area on the strength of plant\u2013pathogen interactions",
         "citation_id": "bIbzgcwAAAAJ:PlWzFYVEG4EC",
@@ -193,7 +193,7 @@
     },
     {
         "ignore": false,
-        "authors": "JG Mickley, TE Moore, CD Schlichting, A DeRobertis, EN Pfisterer, R Bagchi",
+        "authors": "JG Mickley, TE Moore, CD Schlichting, A DeRobertis, EN Pfisterer, <R Bagchi>",
         "year": 2019,
         "title": "Measuring microenvironments for global change: DIY environmental microcontroller units (EMUs)",
         "citation_id": "bIbzgcwAAAAJ:KTwcwpFFj4wC",
@@ -209,7 +209,7 @@
     },
     {
         "ignore": false,
-        "authors": "M Krishnadas, R Bagchi, S Sridhara, LS Comita",
+        "authors": "M Krishnadas, <R Bagchi>, S Sridhara, LS Comita",
         "year": 2018,
         "title": "Weaker plant-enemy interactions decrease tree seedling diversity with edge-effects in a fragmented tropical forest",
         "citation_id": "bIbzgcwAAAAJ:xGWFX6Gbr9MC",
@@ -225,7 +225,7 @@
     },
     {
         "ignore": false,
-        "authors": "TE Moore, R Bagchi, ME Aiello\u2010Lammens, CD Schlichting",
+        "authors": "TE Moore, <R Bagchi>, ME Aiello\u2010Lammens, CD Schlichting",
         "year": 2018,
         "title": "Spatial autocorrelation inflates niche breadth\u2013range size relationships",
         "citation_id": "bIbzgcwAAAAJ:3_LpOwP6eMYC",
@@ -241,7 +241,7 @@
     },
     {
         "ignore": false,
-        "authors": "R Bagchi, LM Brown, CS Elphick, DL Wagner, MS Singer",
+        "authors": "<R Bagchi>, LM Brown, <CS Elphick>, DL Wagner, MS Singer",
         "year": 2018,
         "title": "Anthropogenic fragmentation of landscapes: mechanisms for eroding the specificity of plant\u2013herbivore interactions",
         "citation_id": "bIbzgcwAAAAJ:H7nrzBkawXsC",
@@ -257,7 +257,7 @@
     },
     {
         "ignore": false,
-        "authors": "R Bagchi, V Swamy, JP Latorre Farfan, J Terborgh, CIA Vela, NCA Pitman, WG Sanchez",
+        "authors": "<R Bagchi>, V Swamy, JP Latorre Farfan, J Terborgh, CIA Vela, NCA Pitman, WG Sanchez",
         "year": 2018,
         "title": "Defaunation increases the spatial clustering of lowland Western Amazonian tree communities",
         "citation_id": "bIbzgcwAAAAJ:yeL6HyUMUGUC",
@@ -273,7 +273,7 @@
     },
     {
         "ignore": false,
-        "authors": "R Bagchi, DG Hole, SHM Butchart, YC Collingham, LD Fishpool, AJ Plumptre, I Owiunji, H Mugabe, SG Willis",
+        "authors": "<R Bagchi>, DG Hole, SHM Butchart, YC Collingham, LD Fishpool, AJ Plumptre, I Owiunji, H Mugabe, SG Willis",
         "year": 2018,
         "title": "Forecasting potential routes for movement of endemic birds among important sites for biodiversity in the Albertine Rift under projected climate change",
         "citation_id": "bIbzgcwAAAAJ:W2uZP3ddy8sC",
@@ -289,7 +289,7 @@
     },
     {
         "ignore": false,
-        "authors": "JR Smith, R Bagchi, CJ Kettle, C Maycock, E Khoo, J Ghazoul",
+        "authors": "JR Smith, <R Bagchi>, CJ Kettle, C Maycock, E Khoo, J Ghazoul",
         "year": 2016,
         "title": "Predicting the terminal velocity of dipterocarp fruit",
         "citation_id": "bIbzgcwAAAAJ:x21FZCSn4ZoC",
@@ -305,7 +305,7 @@
     },
     {
         "ignore": false,
-        "authors": "CT de Morais, J Ghazoul, CR Maycock, R Bagchi, DFRP Burslem, E Khoo, J Ghazoul",
+        "authors": "CT de Morais, J Ghazoul, CR Maycock, <R Bagchi>, DFRP Burslem, E Khoo, J Ghazoul",
         "year": 2015,
         "title": "Understanding local patterns of genetic diversity in dipterocarps using a multi-site, multi-species approach: implications for forest management and restoration",
         "citation_id": "bIbzgcwAAAAJ:ndLnGcHYRF0C",
@@ -321,7 +321,7 @@
     },
     {
         "ignore": false,
-        "authors": "JR Smith, R Bagchi, J Ellens, CJ Kettle, DFRP Burslem, CR Maycock, E Khoo, J Ghazoul",
+        "authors": "JR Smith, <R Bagchi>, J Ellens, CJ Kettle, DFRP Burslem, CR Maycock, E Khoo, J Ghazoul",
         "year": 2015,
         "title": "Predicting dispersal of auto\u2010gyrating fruit in tropical trees: a case study from the Dipterocarpaceae",
         "citation_id": "bIbzgcwAAAAJ:_tF6a-HnqWAC",
@@ -337,7 +337,7 @@
     },
     {
         "ignore": false,
-        "authors": "R Bagchi, JB Illian",
+        "authors": "<R Bagchi>, JB Illian",
         "year": 2015,
         "title": "A method for analysing replicated point patterns in ecology",
         "citation_id": "bIbzgcwAAAAJ:orDZ08hpP44C",
@@ -353,7 +353,7 @@
     },
     {
         "ignore": false,
-        "authors": "J Born, R Bagchi, D Burslem, R Nilus, C Tellenbach, AR Pluess, J Ghazoul",
+        "authors": "J Born, <R Bagchi>, D Burslem, R Nilus, C Tellenbach, AR Pluess, J Ghazoul",
         "year": 2015,
         "title": "Differential responses of dipterocarp seedlings to soil moisture and microtopography",
         "citation_id": "bIbzgcwAAAAJ:hNSvKAmkeYkC",

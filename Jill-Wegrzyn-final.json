@@ -1,7 +1,7 @@
 [
     {
         "ignore": false,
-        "authors": "JW Westbrook, AR Walker, LG Neves, P Munoz, MFR Resende, DB Neale, JL Wegrzyn, DA Huber, M Kirst, JM Davis, GF Peter",
+        "authors": "JW Westbrook, AR Walker, LG Neves, P Munoz, MFR Resende, DB Neale, <JL Wegrzyn>, DA Huber, M Kirst, JM Davis, GF Peter",
         "year": 2015,
         "title": "Discovering candidate genes that regulate resin canal number in Pinus taeda stems by integrating genetic analysis across environments, ages, and populations",
         "citation_id": "vV1_cjUAAAAJ:TFP_iSt0sucC",
@@ -17,7 +17,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Chakraborty, M Britton, J Wegrzyn, T Butterfield, PJ Mart\u00ednez-Garc\u00eda, RL Reagan, BJ Rao, CA Leslie, M Aradhaya, D Neale, K Woeste, A Dandekar",
+        "authors": "S Chakraborty, M Britton, <J Wegrzyn>, T Butterfield, PJ Mart\u00ednez-Garc\u00eda, RL Reagan, BJ Rao, CA Leslie, M Aradhaya, D Neale, K Woeste, A Dandekar",
         "year": 2015,
         "title": "YeATS-a tool suite for analyzing RNA-seq derived transcriptome identifies a highly transcribed putative extensin in heartwood/sapwood transition zone in black walnut",
         "citation_id": [
@@ -36,7 +36,7 @@
     },
     {
         "ignore": false,
-        "authors": "EA Visser, JL Wegrzyn, ET Steenkmap, AA Myburg, S Naidoo",
+        "authors": "EA Visser, <JL Wegrzyn>, ET Steenkmap, AA Myburg, S Naidoo",
         "year": 2015,
         "title": "Combined de novo and genome guided assembly and annotation of the _Pinus patula_ juvenile shoot transcriptome",
         "citation_id": "vV1_cjUAAAAJ:maZDTaKrznsC",
@@ -52,7 +52,7 @@
     },
     {
         "ignore": false,
-        "authors": "JV Syring, JA Tennessen, TN Jennings, J Wegrzyn, C Scelfo-Dalbey, R Cronn",
+        "authors": "JV Syring, JA Tennessen, TN Jennings, <J Wegrzyn>, C Scelfo-Dalbey, R Cronn",
         "year": 2016,
         "title": "Targeted capture sequencing in whitebark pine reveals range-wide demographic and adaptive patterns despite challenges of a large, repetitive genome",
         "citation_id": "vV1_cjUAAAAJ:9tletLqOvukC",
@@ -68,7 +68,7 @@
     },
     {
         "ignore": false,
-        "authors": "SG Hussey, JL Wegrzyn, HA Vasquez-Gross",
+        "authors": "SG Hussey, <JL Wegrzyn>, HA Vasquez-Gross",
         "year": 2017,
         "title": "Evolutionary histories of gene families in angiosperm trees",
         "citation_id": "vV1_cjUAAAAJ:f408LfHov48C",
@@ -89,7 +89,7 @@
     },
     {
         "ignore": false,
-        "authors": "A Nishiyama, L Boshans, CM Goncalves, J Wegrzyn, KD Patel",
+        "authors": "A Nishiyama, L Boshans, CM Goncalves, <J Wegrzyn>, KD Patel",
         "year": 2016,
         "title": "Lineage, fate, and fate potential of NG2-glia",
         "citation_id": "vV1_cjUAAAAJ:YFjsv_pBGBYC",
@@ -105,7 +105,7 @@
     },
     {
         "ignore": false,
-        "authors": "JL Wegrzyn, J Whalen, CS Kinlaw, DE Harry, J Puryear, CA Loopstra, DP Gonzalez-Ibeas, HAT Vasquez-Gross, RA Famula, DBNeale",
+        "authors": "<JL Wegrzyn>, J Whalen, CS Kinlaw, DE Harry, J Puryear, CA Loopstra, DP Gonzalez-Ibeas, HAT Vasquez-Gross, RA Famula, DBNeale",
         "year": 2016,
         "title": "Transcriptomic profile of leaf tissue from the leguminous tree, _Millettia pinnata_",
         "citation_id": "vV1_cjUAAAAJ:M3NEmzRMIkIC",
@@ -121,7 +121,7 @@
     },
     {
         "ignore": false,
-        "authors": "C Vangestel, A V\u00e1zquez-Lobo, PJ Mart\u00ednez-Garc\u00eda, I Calic, JL Wegrzyn, DB Neale",
+        "authors": "C Vangestel, A V\u00e1zquez-Lobo, PJ Mart\u00ednez-Garc\u00eda, I Calic, <JL Wegrzyn>, DB Neale",
         "year": 2016,
         "title": "Patterns of neutral and adaptive genetic diversity across the natural range of sugar pine (_Pinus lambertiana_ Dougl.)",
         "citation_id": "vV1_cjUAAAAJ:hMod-77fHWUC",
@@ -137,7 +137,7 @@
     },
     {
         "ignore": false,
-        "authors": "ML Hoffman, KN Peck, JL Wegrzyn, SA Reed, SA Zinn, KE Govoni",
+        "authors": "ML Hoffman, KN Peck, <JL Wegrzyn>, SA Reed, SA Zinn, KE Govoni",
         "year": 2016,
         "title": "Poor maternal nutrition during gestation alters the expression of genes involved in muscle development and metabolism in lambs",
         "citation_id": "vV1_cjUAAAAJ:0kxB6oEY0CcC",
@@ -153,7 +153,7 @@
     },
     {
         "ignore": true,
-        "authors": "M Staton, M Chen, N Henry, E Grau, C Wytko, B Soto, S Jung, K Wang, N Watts, CH Cheng, LA Sanderson, JL Wegrzyn, D Main, FA Feltus, SP Ficklin",
+        "authors": "M Staton, M Chen, N Henry, E Grau, C Wytko, B Soto, S Jung, K Wang, N Watts, CH Cheng, LA Sanderson, <JL Wegrzyn>, D Main, FA Feltus, SP Ficklin",
         "year": 2016,
         "title": "Moving data from the warehouse to the workbench: a bridge to Galaxy from the Tripal community genome database software platform",
         "citation_id": "vV1_cjUAAAAJ:T-Bu49-jKQgC",
@@ -169,7 +169,7 @@
     },
     {
         "ignore": false,
-        "authors": "PJ Mart\u00ednez\u2010Garc\u00eda, MW Crepeau, D Puiu, D Gonzalez\u2010Ibeas, J Whalen, KA Stevens, R Paul, TS Butterfield, MT Britton, RL Reagan, S Chakraborty, SL Walawage, HA Vasquez-Gross, C Cardeno, RA Famula, K Pratt, S Kuruganti, MK Aradhya, CA Leslie, AM Dandekar, SL Salzberg, JL Wegrzyn, CH Langley, DB Neale",
+        "authors": "PJ Mart\u00ednez\u2010Garc\u00eda, MW Crepeau, D Puiu, D Gonzalez\u2010Ibeas, J Whalen, KA Stevens, R Paul, TS Butterfield, MT Britton, RL Reagan, S Chakraborty, SL Walawage, HA Vasquez-Gross, C Cardeno, RA Famula, K Pratt, S Kuruganti, MK Aradhya, CA Leslie, AM Dandekar, SL Salzberg, <JL Wegrzyn>, CH Langley, DB Neale",
         "year": 2016,
         "title": "The walnut (_Juglans regia_) genome sequence reveals diversity in genes coding for the biosynthesis of non\u2010structural polyphenols",
         "citation_id": "vV1_cjUAAAAJ:blknAaTinKkC",
@@ -185,7 +185,7 @@
     },
     {
         "ignore": false,
-        "authors": "JS Xiong, SE McKeand, F Isik, J Wegrzyn, DB Neale, ZB Zeng, LC e Silva, RW Whetten",
+        "authors": "JS Xiong, SE McKeand, F Isik, <J Wegrzyn>, DB Neale, ZB Zeng, LC e Silva, RW Whetten",
         "year": 2016,
         "title": "Quantitative trait loci influencing forking defects in an outbred pedigree of loblolly pine",
         "citation_id": "vV1_cjUAAAAJ:Kb2XK_T5ZYAC",
@@ -201,7 +201,7 @@
     },
     {
         "ignore": false,
-        "authors": "D Gonzalez-Ibeas, PJ Martinez-Garcia, RA Famula, A Delfino-Mix, KA Stevens, CA Loopstra, CH Langley, DB Neale, JL Wegrzyn",
+        "authors": "D Gonzalez-Ibeas, PJ Martinez-Garcia, RA Famula, A Delfino-Mix, KA Stevens, CA Loopstra, CH Langley, DB Neale, <JL Wegrzyn>",
         "year": 2016,
         "title": "Assessing the gene content of the megagenome: sugar pine (_Pinus lambertiana_)",
         "citation_id": "vV1_cjUAAAAJ:M6kHaddf_34C",
@@ -217,7 +217,7 @@
     },
     {
         "ignore": false,
-        "authors": "KA Stevens, JL Wegrzyn, A Zimin, D Puiu, M Crepeau, C Cardeno, R Paul, D Gonzalez-Ibeas, M Koriabine, AE Holtz-Morris, PJ Mart\u00ednez-Garc\u00eda, UU Sezen, G Mar\u00e7ais, K Jermstad, PE McGuire, CA Loopstra, JM Davis, A Eckert, P de Jong, JA Yorke, SL Salzberg, DB Neale, CH Langley",
+        "authors": "KA Stevens, <JL Wegrzyn>, A Zimin, D Puiu, M Crepeau, C Cardeno, R Paul, D Gonzalez-Ibeas, M Koriabine, AE Holtz-Morris, PJ Mart\u00ednez-Garc\u00eda, UU Sezen, G Mar\u00e7ais, K Jermstad, PE McGuire, CA Loopstra, JM Davis, A Eckert, P de Jong, JA Yorke, SL Salzberg, DB Neale, CH Langley",
         "year": 2016,
         "title": "Sequence of the sugar pine megagenome",
         "citation_id": "vV1_cjUAAAAJ:5aszrCQfcYQC",
@@ -233,7 +233,7 @@
     },
     {
         "ignore": false,
-        "authors": "R Cronn, PC Dolan, S Jogdeo, JL Wegrzyn, DB Neale, JBS Clair, DR Denver",
+        "authors": "R Cronn, PC Dolan, S Jogdeo, <JL Wegrzyn>, DB Neale, JBS Clair, DR Denver",
         "year": 2017,
         "title": "Transcription through the eye of a needle: daily and annual cycles of gene expression variation in Douglas-fir needles",
         "citation_id": "vV1_cjUAAAAJ:4IpgxnMJogoC",
@@ -249,7 +249,7 @@
     },
     {
         "ignore": false,
-        "authors": "M Chen, N Henry, A Almsaeed, X Zhou, J Wegrzyn, S Ficklin, M Staton",
+        "authors": "M Chen, N Henry, A Almsaeed, X Zhou, <J Wegrzyn>, S Ficklin, M Staton",
         "year": 2017,
         "title": "New extension software modules to enhance searching and display of transcriptome data in Tripal databases",
         "citation_id": "vV1_cjUAAAAJ:IMJZBBnUFLgC",
@@ -265,7 +265,7 @@
     },
     {
         "ignore": false,
-        "authors": "AV Zimin, KA Stevens, MW Crepeau, D Puiu, JL Wegrzyn, JA Yorke, CH Langley, DB Neale, SL Salzberg",
+        "authors": "AV Zimin, KA Stevens, MW Crepeau, D Puiu, <JL Wegrzyn>, JA Yorke, CH Langley, DB Neale, SL Salzberg",
         "year": 2017,
         "title": "An improved assembly of the loblolly pine mega-genome using long-read single-molecule sequencing",
         "citation_id": "vV1_cjUAAAAJ:uXirmJe02n4C",
@@ -281,7 +281,7 @@
     },
     {
         "ignore": false,
-        "authors": "JP Velotta, JL Wegrzyn, S Ginzburg, L Kang, S Czesny, RJ O'Neill, SD McCormick, P Michalak, ET Schultz",
+        "authors": "JP Velotta, <JL Wegrzyn>, S Ginzburg, L Kang, S Czesny, RJ O'Neill, SD McCormick, P Michalak, <ET Schultz>",
         "year": 2017,
         "title": "Transcriptomic imprints of adaptation to fresh water: parallel evolution of osmoregulatory gene expression in the Alewife",
         "citation_id": "vV1_cjUAAAAJ:GwaQhVSQhKEC",
@@ -297,7 +297,7 @@
     },
     {
         "ignore": false,
-        "authors": "O Frelin, C Dervinis, JL Wegrzyn, JM Davis, AD Hanson",
+        "authors": "O Frelin, C Dervinis, <JL Wegrzyn>, JM Davis, AD Hanson",
         "year": 2017,
         "title": "Drought stress in _Pinus taeda_ L. induces coordinated transcript accumulation of genes involved in the homogentisate pathway",
         "citation_id": "vV1_cjUAAAAJ:dJ-sGqsME_YC",
@@ -313,7 +313,7 @@
     },
     {
         "ignore": false,
-        "authors": "A Carrasco, JL Wegrzyn, R Dur\u00e1n, M Fern\u00e1ndez, A Donoso, V Rodriguez, D Neale, S Valenzuela",
+        "authors": "A Carrasco, <JL Wegrzyn>, R Dur\u00e1n, M Fern\u00e1ndez, A Donoso, V Rodriguez, D Neale, S Valenzuela",
         "year": 2017,
         "title": "Expression profiling in Pinus radiata infected with _Fusarium circinatum_",
         "citation_id": "vV1_cjUAAAAJ:UuaQgmrAG1sC",
@@ -329,7 +329,7 @@
     },
     {
         "ignore": false,
-        "authors": "W Li, L Katin-Grazzini, X Gu, X Wang, R El-tanbouly, H Yer, C Thammina, J Inguagiato, K Guillard, R McAvoy, JL Wegrzyn, T Gu, Y Li",
+        "authors": "W Li, L Katin-Grazzini, X Gu, X Wang, R El-tanbouly, H Yer, C Thammina, J Inguagiato, K Guillard, R McAvoy, <JL Wegrzyn>, T Gu, Y Li",
         "year": 2017,
         "title": "Transcriptome Analysis Reveals Differential Gene Expression and a Possible Role of Gibberellins in a Shade-tolerant Mutant of Perennial Ryegrass",
         "citation_id": "vV1_cjUAAAAJ:9xDRhSErrBIC",
@@ -345,7 +345,7 @@
     },
     {
         "ignore": false,
-        "authors": "DB Neale, PE McGuire, NC Wheeler, KA Stevens, MW Crepeau, C Cardeno, AV Zimin, D Puiu, GM Pertea, UU Sezen, C Casola, TE Koralewski, R Paul, D Gonzalez-Ibeas, S Zaman, R Cronn, M Yandell, C Holt, CH Langley, JA Yorke, SL Salzberg, JL Wegrzyn",
+        "authors": "DB Neale, PE McGuire, NC Wheeler, KA Stevens, MW Crepeau, C Cardeno, AV Zimin, D Puiu, GM Pertea, UU Sezen, C Casola, TE Koralewski, R Paul, D Gonzalez-Ibeas, S Zaman, R Cronn, M Yandell, C Holt, CH Langley, JA Yorke, SL Salzberg, <JL Wegrzyn>",
         "year": 2017,
         "title": "The Douglas-fir genome sequence reveals specialization of the photosynthetic apparatus in Pinaceae",
         "citation_id": "vV1_cjUAAAAJ:rEjdzzKT7SMC",
@@ -361,7 +361,7 @@
     },
     {
         "ignore": false,
-        "authors": "BM Lind, CJ Friedline, JL Wegrzyn, PE Maloney, DR Vogler, DB Neale, AJ Eckert",
+        "authors": "BM Lind, CJ Friedline, <JL Wegrzyn>, PE Maloney, DR Vogler, DB Neale, AJ Eckert",
         "year": 2017,
         "title": "Water availability drives signatures of local adaptation in whitebark pine (Pinus albicaulis Engelm.) across fine spatial scales of the Lake Tahoe Basin, USA",
         "citation_id": "vV1_cjUAAAAJ:NMxIlDl6LWMC",
@@ -377,7 +377,7 @@
     },
     {
         "ignore": false,
-        "authors": "G Sablok, TW Chen, CC Lee, C Yang, RC Gan, JL Wegrzyn, NL Porta, KC Nayak, PJ Huang, C Varotto, P Tang",
+        "authors": "G Sablok, TW Chen, CC Lee, C Yang, RC Gan, <JL Wegrzyn>, NL Porta, KC Nayak, PJ Huang, C Varotto, P Tang",
         "year": 2017,
         "title": "ChloroMitoCU: codon patterns across organelle genomes for functional genomics and evolutionary applications",
         "citation_id": "vV1_cjUAAAAJ:aGxtzYPGyQEC",
@@ -393,7 +393,7 @@
     },
     {
         "ignore": false,
-        "authors": "A V\u00e1zquez-Lobo, AR De La Torre, PJ Mart\u00ednez-Garc\u00eda, C Vangestel, JL Wegrzyn, I \u0106ali\u0107, D Burton, D Davis, B Kinloch, D Vogler, DB Neale",
+        "authors": "A V\u00e1zquez-Lobo, AR De La Torre, PJ Mart\u00ednez-Garc\u00eda, C Vangestel, <JL Wegrzyn>, I \u0106ali\u0107, D Burton, D Davis, B Kinloch, D Vogler, DB Neale",
         "year": 2017,
         "title": "Finding loci associated to partial resistance to white pine blister rust in sugar pine (_Pinus lambertiana_ Dougl.).",
         "citation_id": "vV1_cjUAAAAJ:CmeMDzcFUg4C",
@@ -409,7 +409,7 @@
     },
     {
         "ignore": false,
-        "authors": "C Vangestel, AJ Eckert, JL Wegrzyn, JB St Clair, DB Neale",
+        "authors": "C Vangestel, AJ Eckert, <JL Wegrzyn>, JB St Clair, DB Neale",
         "year": 2018,
         "title": "Linking phenotype, genotype and environment to unravel genetic components underlying cold hardiness in coastal Douglas-fir (Pseudotsuga menziesii var. menziesii)",
         "citation_id": "vV1_cjUAAAAJ:WQTnNU6cpycC",
@@ -425,7 +425,7 @@
     },
     {
         "ignore": false,
-        "authors": "EAG Baker, JL Wegrzyn, UU Sezen, T Falk, PE Maloney, DR Vogler, D Delfino-Mix, C Jensen, J Mitton, J Wright, B Knaus, H Rai, R Cronn, D Gonzalez-Ibeas, HA Vasquez-Gross, RA Famula, L Liu, LM Kueppers, DB Neale",
+        "authors": "EAG Baker, <JL Wegrzyn>, UU Sezen, T Falk, PE Maloney, DR Vogler, D Delfino-Mix, C Jensen, J Mitton, J Wright, B Knaus, H Rai, R Cronn, D Gonzalez-Ibeas, HA Vasquez-Gross, RA Famula, L Liu, LM Kueppers, DB Neale",
         "year": 2018,
         "title": "Comparative Transcriptomics Among Four White Pine Species",
         "citation_id": "vV1_cjUAAAAJ:joW6AvqysxAC",
@@ -441,7 +441,7 @@
     },
     {
         "ignore": false,
-        "authors": "L Wang, Z Jiang, D Huang, J Duan, C Huang, S Sullivan, K Vali, Y Yin, M Zhang, JL Wegrzyn, X Tian, Y Tang",
+        "authors": "L Wang, Z Jiang, D Huang, J Duan, C Huang, S Sullivan, K Vali, Y Yin, M Zhang, <JL Wegrzyn>, X Tian, Y Tang",
         "year": 2018,
         "title": "JAK/STAT3 regulated global gene expression dynamics during late-stage reprogramming process",
         "citation_id": "vV1_cjUAAAAJ:noJvBAPgP0YC",
@@ -457,7 +457,7 @@
     },
     {
         "ignore": false,
-        "authors": "L Harper, J Campbell, EKS Cannon, S Jung, M Poelchau, R Walls, C Andorf, E Arnaud, TZ Berardini, C Birkett, S Cannon, J Carson, B Condon, L Cooper, N Dunn, CG Elsik, A Farmer, SP Ficklin, D Grant, E Grau, N Herndon, ZL Hu, J Humann, P Jaiswal, C Jonquet, MA Laporte, P Larmande, G Lazo, F McCarthy, N Menda, CJ Mungall, MC Munoz-Torres, S Naithani, R Nelson, D Nesdill, C Park, J Reecy, L Reiser, LA Sanderson, TZ Sen, MS, S Subramaniam, MK Tello-Ruiz, V Unda, D Unni, L Wang, D Ware, J Wegrzyn, J Williams, M Woodhouse, J Yu, D Main",
+        "authors": "L Harper, J Campbell, EKS Cannon, S Jung, M Poelchau, R Walls, C Andorf, E Arnaud, TZ Berardini, C Birkett, S Cannon, J Carson, B Condon, L Cooper, N Dunn, CG Elsik, A Farmer, SP Ficklin, D Grant, E Grau, N Herndon, ZL Hu, J Humann, P Jaiswal, C Jonquet, MA Laporte, P Larmande, G Lazo, F McCarthy, N Menda, CJ Mungall, MC Munoz-Torres, S Naithani, R Nelson, D Nesdill, C Park, J Reecy, L Reiser, LA Sanderson, TZ Sen, MS, S Subramaniam, MK Tello-Ruiz, V Unda, D Unni, L Wang, D Ware, <J Wegrzyn>, J Williams, M Woodhouse, J Yu, D Main",
         "year": 2018,
         "title": "AgBioData consortium recommendations for sustainable genomics and genetics databases for agriculture",
         "citation_id": "vV1_cjUAAAAJ:Y3Sh7dCAXz0C",
@@ -473,7 +473,7 @@
     },
     {
         "ignore": false,
-        "authors": "T Falk, N Herndon, E Grau, S Buehler, P Richter, S Zaman, EM Baker, R Ramnath, S Ficklin, M Staton, FA Feltus, S Jung, D Main, JL Wegrzyn",
+        "authors": "T Falk, N Herndon, E Grau, S Buehler, P Richter, S Zaman, EM Baker, R Ramnath, S Ficklin, M Staton, FA Feltus, S Jung, D Main, <JL Wegrzyn>",
         "year": 2018,
         "title": "Growing and cultivating the forest genomics database, TreeGenes",
         "citation_id": "vV1_cjUAAAAJ:RELVpAr6_7wC",
@@ -489,7 +489,7 @@
     },
     {
         "ignore": false,
-        "authors": "EA Visser, JL Wegrzyn, AA Myburg, S Naidoo",
+        "authors": "EA Visser, <JL Wegrzyn>, AA Myburg, S Naidoo",
         "year": 2018,
         "title": "Defence transcriptome assembly and pathogenesis related gene family analysis in Pinus tecunumanii (low elevation)",
         "citation_id": "vV1_cjUAAAAJ:FSl0EHHYj-kC",
@@ -505,7 +505,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Jung, T Lee, CH Cheng, K Buble, P Zheng, J Yu, J Humann, SP Ficklin, K Gasic, K Scott, M Frank, S Ru, H Hough, K Evans, C Peace, M Olmstead, LW DeVetter, J McFerson, M Coe, JL Wegrzyn, ME Staton, AG Abbott, D Main",
+        "authors": "S Jung, T Lee, CH Cheng, K Buble, P Zheng, J Yu, J Humann, SP Ficklin, K Gasic, K Scott, M Frank, S Ru, H Hough, K Evans, C Peace, M Olmstead, LW DeVetter, J McFerson, M Coe, <JL Wegrzyn>, ME Staton, AG Abbott, D Main",
         "year": 2019,
         "title": "15 years of GDR: new data and functionality in the Genome Database for Rosaceae",
         "citation_id": "vV1_cjUAAAAJ:k6hhvAYhr9EC",
@@ -521,7 +521,7 @@
     },
     {
         "ignore": false,
-        "authors": "K Buble, S Jung, JL Humann, J Yu, CH Cheng, T Lee, SP Ficklin, H Hough, B Condon, ME Staton, JL Wegrzyn, D Main",
+        "authors": "K Buble, S Jung, JL Humann, J Yu, CH Cheng, T Lee, SP Ficklin, H Hough, B Condon, ME Staton, <JL Wegrzyn>, D Main",
         "year": 2019,
         "title": "Tripal MapViewer: A tool for interactive visualization and comparison of genetic maps",
         "citation_id": "vV1_cjUAAAAJ:wNvz2w4be3AC",
@@ -537,7 +537,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Spoor, CH Cheng, LA Sanderson, B Condon, A Almsaeed, M Chen, A Bretaudeau, H Rasche, S Jung, D Main, K Bett, M Staton, JL Wegrzyn, FA Feltus, SP Ficklin",
+        "authors": "S Spoor, CH Cheng, LA Sanderson, B Condon, A Almsaeed, M Chen, A Bretaudeau, H Rasche, S Jung, D Main, K Bett, M Staton, <JL Wegrzyn>, FA Feltus, SP Ficklin",
         "year": 2019,
         "title": "Tripal v3: an ontology-based toolkit for construction of FAIR biological community databases",
         "citation_id": "vV1_cjUAAAAJ:m5Mwo8ouzesC",
@@ -553,7 +553,7 @@
     },
     {
         "ignore": false,
-        "authors": "M Caballero, J Wegrzyn",
+        "authors": "M Caballero, <J Wegrzyn>",
         "year": 2019,
         "title": "gFACs: gene filtering, analysis, and conversion to unify genome annotations across alignment and gene prediction frameworks",
         "citation_id": "vV1_cjUAAAAJ:1lB6hEDIqXYC",
@@ -569,7 +569,7 @@
     },
     {
         "ignore": false,
-        "authors": "JL Wegrzyn, MA Staton, NR Street, D Main, E Grau, N Herndon, S Buehler, T Falk, SG Zaman, R Ramnath, P Richter, L Sun, B Condon, A Almsaeed, M Chen, C Mannapperuma, S Jung, SFicklin",
+        "authors": "<JL Wegrzyn>, MA Staton, NR Street, D Main, E Grau, N Herndon, S Buehler, T Falk, SG Zaman, R Ramnath, P Richter, L Sun, B Condon, A Almsaeed, M Chen, C Mannapperuma, S Jung, SFicklin",
         "year": 2019,
         "title": "Cyberinfrastructure to improve forest health and productivity: The role of tree databases in connecting genomes, phenomes, and the environment",
         "citation_id": "vV1_cjUAAAAJ:nZtlP1Cc3DIC",
@@ -585,7 +585,7 @@
     },
     {
         "ignore": false,
-        "authors": "EA Visser, JL Wegrzyn, ET Steenkamp, AA Myburg, S Naidoo",
+        "authors": "EA Visser, <JL Wegrzyn>, ET Steenkamp, AA Myburg, S Naidoo",
         "year": 2019,
         "title": "Dual RNA-Seq analysis of the Pine-_Fusarium circinatum_ interaction in resistant (_Pinus tecunumanii_) and susceptible (_Pinus patula_) hosts",
         "citation_id": "vV1_cjUAAAAJ:yifHVNw3tWEC",
@@ -601,7 +601,7 @@
     },
     {
         "ignore": false,
-        "authors": "JL Wegrzyn, T Falk, E Grau, S Buehler, R Ramnath, N Herndon",
+        "authors": "<JL Wegrzyn>, T Falk, E Grau, S Buehler, R Ramnath, N Herndon",
         "year": 2020,
         "title": "Cyberinfrastructure and resources to enable an integrative approach to studying forest trees",
         "citation_id": "vV1_cjUAAAAJ:uWFADo6cQ7YC",
@@ -617,7 +617,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Spoor, C Wytko, B Soto, M Chen, A Almsaeed, B Condon, N Herndon, H Hough, J Jung, M Staton, JL Wegrzyn",
+        "authors": "S Spoor, C Wytko, B Soto, M Chen, A Almsaeed, B Condon, N Herndon, H Hough, J Jung, M Staton, <JL Wegrzyn>",
         "year": 2020,
         "title": "Tripal and Galaxy: supporting reproducible scientific workflows for community biological databases",
         "citation_id": "vV1_cjUAAAAJ:FS78WRl2AkQC",
@@ -633,7 +633,7 @@
     },
     {
         "ignore": true,
-        "authors": "D Corcoran, MC Urban, J Wegrzyn, C Merow",
+        "authors": "D Corcoran, MC Urban, <J Wegrzyn>, C Merow",
         "year": 2020,
         "title": "Virus evolution affected early COVID-19 spread",
         "citation_id": "vV1_cjUAAAAJ:q3SxJD15z-gC",
@@ -649,7 +649,7 @@
     },
     {
         "ignore": false,
-        "authors": "CR Fisher, JL Wegrzyn, EL Jockusch",
+        "authors": "CR Fisher, <JL Wegrzyn>, EL Jockusch",
         "year": 2020,
         "title": "Co-option of wing-patterning genes underlies the evolution of the treehopper helmet",
         "citation_id": "vV1_cjUAAAAJ:IsfZ5sDDKYkC",
@@ -665,7 +665,7 @@
     },
     {
         "ignore": false,
-        "authors": "AJ Hart, S Ginzburg, M Xu, CR Fisher, N Rahmatpour, JB Mitton, R Paul, JL Wegrzyn",
+        "authors": "AJ Hart, S Ginzburg, M Xu, CR Fisher, N Rahmatpour, JB Mitton, R Paul, <JL Wegrzyn>",
         "year": 2020,
         "title": "EnTAP: Bringing faster and smarter functional annotation to non\u2010model eukaryotic transcriptomes",
         "citation_id": "vV1_cjUAAAAJ:dX-nQPao9noC",
@@ -681,7 +681,7 @@
     },
     {
         "ignore": false,
-        "authors": "AJ Trouern\u2010Trend, T Falk, S Zaman, M Caballero, DB Neale, CH Langley, AM Dandekar, KA Stevens, JL Wegrzyn",
+        "authors": "AJ Trouern\u2010Trend, T Falk, S Zaman, M Caballero, DB Neale, CH Langley, AM Dandekar, KA Stevens, <JL Wegrzyn>",
         "year": 2020,
         "title": "Comparative genomics of six Juglans species reveals disease\u2010associated gene family contractions",
         "citation_id": "vV1_cjUAAAAJ:2168PZyDXAcC",
@@ -697,7 +697,7 @@
     },
     {
         "ignore": false,
-        "authors": "AD Scott, AV Zimin, D Puiu, R Workman, M Britton, S Zaman, M Caballero, AC Read, AJ Bogdanove, E Burns, JL Wegrzyn, W Timp, SL Salzberg, DB Neale",
+        "authors": "AD Scott, AV Zimin, D Puiu, R Workman, M Britton, S Zaman, M Caballero, AC Read, AJ Bogdanove, E Burns, <JL Wegrzyn>, W Timp, SL Salzberg, DB Neale",
         "year": 2020,
         "title": "A reference genome sequence for giant sequoia",
         "citation_id": "vV1_cjUAAAAJ:W6h41lW4BooC",
@@ -713,7 +713,7 @@
     },
     {
         "ignore": false,
-        "authors": "N Rahmatpour, NV Perera, V Singh, JL Wegrzyn, B Goffinet",
+        "authors": "N Rahmatpour, NV Perera, V Singh, <JL Wegrzyn>, <B Goffinet>",
         "year": 2020,
         "title": "High gene space divergence contrasts with frozen vegetative architecture in the moss family Funariaceae",
         "citation_id": "vV1_cjUAAAAJ:A_xf8jiGkywC",
@@ -729,7 +729,7 @@
     },
     {
         "ignore": false,
-        "authors": "J Li, JB West, A Hart, JL Wegrzyn, MA Smith, JC Domec, CA Loopstra, C Casola",
+        "authors": "J Li, JB West, A Hart, <JL Wegrzyn>, MA Smith, JC Domec, CA Loopstra, C Casola",
         "year": 2021,
         "title": "Extensive variation in drought-induced gene expression changes between loblolly pine genotypes",
         "citation_id": "vV1_cjUAAAAJ:qu5FZ_za5owC",
@@ -745,7 +745,7 @@
     },
     {
         "ignore": false,
-        "authors": "M Caballero, E Lauer, J Bennett, S Zaman, S McEvoy, J Acosta, C Jackson, L Townsend, A Eckert, RW Whetten, C Loopstra, J Holliday, M Mandal, JL Wegrzyn, F Isik",
+        "authors": "M Caballero, E Lauer, J Bennett, S Zaman, S McEvoy, J Acosta, C Jackson, L Townsend, A Eckert, RW Whetten, C Loopstra, J Holliday, M Mandal, <JL Wegrzyn>, F Isik",
         "year": 2021,
         "title": "Toward genomic selection in Pinus taeda: Integrating resources to support array design in a complex conifer genome",
         "citation_id": "vV1_cjUAAAAJ:P9oYG7HA76QC",
@@ -761,7 +761,7 @@
     },
     {
         "ignore": false,
-        "authors": "L Figueroa-Corona, P Delgado Valerio, J Wegrzyn, D Pi\u00f1ero",
+        "authors": "L Figueroa-Corona, P Delgado Valerio, <J Wegrzyn>, D Pi\u00f1ero",
         "year": 2021,
         "title": "Transcriptome of weeping pinyon pine, _Pinus pinceana_, shows differences across heterogeneous habitats",
         "citation_id": "vV1_cjUAAAAJ:Fx7lCCP36QIC",
@@ -777,7 +777,7 @@
     },
     {
         "ignore": false,
-        "authors": "I Cobo-Sim\u00f3n, B M\u00e9ndez-Cea, JI Seco, J Wegrzyn, JC Linares, FJ Gallego",
+        "authors": "I Cobo-Sim\u00f3n, B M\u00e9ndez-Cea, JI Seco, <J Wegrzyn>, JC Linares, FJ Gallego",
         "year": 2021,
         "title": "Gene Frequency Shift in Relict Abies pinsapo Forests Associated with Drought-Induced Mortality: Preliminary Evidence of Local-Scale Divergent Selection",
         "citation_id": "vV1_cjUAAAAJ:brChLMnLtjYC",
@@ -793,7 +793,7 @@
     },
     {
         "ignore": false,
-        "authors": "MC Urban, C Merow, JL Wegrzyn, BS Maitner, D Corcoran",
+        "authors": "<MC Urban>, C Merow, <JL Wegrzyn>, BS Maitner, D Corcoran",
         "year": 2021,
         "title": "How to publish at pandemic speed",
         "citation_id": "vV1_cjUAAAAJ:Cv-mv52rCCkC",
@@ -809,7 +809,7 @@
     },
     {
         "ignore": false,
-        "authors": "M Staton, E Cannon, LA Sanderson, J Wegrzyn, T Anderson, S Buehler, I Cobo-Sim\u00f3n, K Faaberg, E Grau, V Guignon, J Gunoskey, B Inderski, S Jung, K Lager, D Main, M Poelchau, R Ramnath, P Richter, J West, S Ficklin",
+        "authors": "M Staton, E Cannon, LA Sanderson, <J Wegrzyn>, T Anderson, S Buehler, I Cobo-Sim\u00f3n, K Faaberg, E Grau, V Guignon, J Gunoskey, B Inderski, S Jung, K Lager, D Main, M Poelchau, R Ramnath, P Richter, J West, S Ficklin",
         "year": 2021,
         "title": "Tripal, a community update after 10 years of supporting open source, standards-based genetic, genomic and breeding databases",
         "citation_id": "vV1_cjUAAAAJ:CLQ-NLsb8zAC",
@@ -825,7 +825,7 @@
     },
     {
         "ignore": false,
-        "authors": "WJ Kress, DE Soltis, PJ Kersey, JL Wegrzyn, JH Leebens-Mack, MR Gostel, X Liu, PS Soltis",
+        "authors": "WJ Kress, DE Soltis, PJ Kersey, <JL Wegrzyn>, JH Leebens-Mack, MR Gostel, X Liu, PS Soltis",
         "year": 2022,
         "title": "Green plant genomes: What we know in an era of rapidly expanding opportunities",
         "citation_id": "vV1_cjUAAAAJ:bNEIKWRbVi8C",
@@ -841,7 +841,7 @@
     },
     {
         "ignore": false,
-        "authors": "MKN Lawniczak, R Durbin, P Flicek, K Lindblad-Toh, X Wei, JM Archibald, WJ Baker, K Belov, ML Blaxter, TM Bonet, AK Childers, JA Coddington, KACrandall, AJCrawford, RP Davey, F Di Palma, Q Fang, W Haerty, N Hall, KJ Hoff, K Howe, ED Jarvis, WE Johnson, RN Johnson, PJ Kersey, X Liu, JV Lopez, EW Myers, OV Pettersson, AM Phillippy, MF Poelchau, KD Pruitt, A Rhie, JC Castilla-Rubio, SK Sahu, NA Salmon, PS Soltis, D Swarbreck, F Thibaud-Nissen, S Wang, JL Wegrzyn, G Zhang, H Zhang, HA Lewin, S Richards",
+        "authors": "MKN Lawniczak, R Durbin, P Flicek, K Lindblad-Toh, X Wei, JM Archibald, WJ Baker, K Belov, ML Blaxter, TM Bonet, AK Childers, JA Coddington, KACrandall, AJCrawford, RP Davey, F Di Palma, Q Fang, W Haerty, N Hall, KJ Hoff, K Howe, ED Jarvis, WE Johnson, RN Johnson, PJ Kersey, X Liu, JV Lopez, EW Myers, OV Pettersson, AM Phillippy, MF Poelchau, KD Pruitt, A Rhie, JC Castilla-Rubio, SK Sahu, NA Salmon, PS Soltis, D Swarbreck, F Thibaud-Nissen, S Wang, <JL Wegrzyn>, G Zhang, H Zhang, HA Lewin, S Richards",
         "year": 2022,
         "title": "Standards recommendations for the earth BioGenome project",
         "citation_id": "vV1_cjUAAAAJ:mYLs_rVKHI4C",
@@ -857,7 +857,7 @@
     },
     {
         "ignore": false,
-        "authors": "C Jackson, N Christie, SM Reynolds, GC Marais, Y Tii\u2010kuzu, M Caballero, M Kampman, EA Visser, S Naidoo, D Kain, RW Whetten, F Isik, JL Wegrzyn, GR Hodge, JJ Acosta, AA Myburg",
+        "authors": "C Jackson, N Christie, SM Reynolds, GC Marais, Y Tii\u2010kuzu, M Caballero, M Kampman, EA Visser, S Naidoo, D Kain, RW Whetten, F Isik, <JL Wegrzyn>, GR Hodge, JJ Acosta, AA Myburg",
         "year": 2022,
         "title": "A genome\u2010wide SNP genotyping resource for tropical pine tree species",
         "citation_id": "vV1_cjUAAAAJ:t6hKUfryX1MC",
@@ -873,7 +873,7 @@
     },
     {
         "ignore": false,
-        "authors": "D Ence, KE Smith, S Fan, L Gomide Neves, R Paul, J Wegrzyn, GF Peter, M Kirst, J Brawner, CD Nelson, JM Davis",
+        "authors": "D Ence, KE Smith, S Fan, L Gomide Neves, R Paul, <J Wegrzyn>, GF Peter, M Kirst, J Brawner, CD Nelson, JM Davis",
         "year": 2022,
         "title": "NLR diversity and candidate fusiform rust resistance genes in loblolly pine",
         "citation_id": "vV1_cjUAAAAJ:f8T_-ThkUo0C",
@@ -889,7 +889,7 @@
     },
     {
         "ignore": false,
-        "authors": "C Webster, L Figueroa\u2010Corona, ID M\u00e9ndez\u2010Gonz\u00e1lez, L \u00c1lvarez\u2010Soto, D Neale, J Jaramillo-Correa, JL Wegrzyn",
+        "authors": "C Webster, L Figueroa\u2010Corona, ID M\u00e9ndez\u2010Gonz\u00e1lez, L \u00c1lvarez\u2010Soto, D Neale, J Jaramillo-Correa, <JL Wegrzyn>",
         "year": 2022,
         "title": "Comparative analysis of differential gene expression indicates divergence in ontogenetic strategies of leaves in two conifer genera",
         "citation_id": "vV1_cjUAAAAJ:lIaPce-xyHYC",
@@ -905,7 +905,7 @@
     },
     {
         "ignore": false,
-        "authors": "SL McEvoy, UU Sezen, A Trouern\u2010Trend, SM McMahon, PG Schaberg, J Yang, JL Wegrzyn, NHSwenson",
+        "authors": "SL McEvoy, UU Sezen, A Trouern\u2010Trend, SM McMahon, PG Schaberg, J Yang, <JL Wegrzyn>, NHSwenson",
         "year": 2022,
         "title": "Strategies of tolerance reflected in two North American maple genomes",
         "citation_id": "vV1_cjUAAAAJ:ILCMxgzxjrQC",
@@ -921,7 +921,7 @@
     },
     {
         "ignore": false,
-        "authors": "Y Liu, S Wang, L Li, T Yang, S Dong, T Wei, S Wu, Y Liu, Y Gong, X Feng, J Ma, G Chang, J Huang, Y Yang, H Wang, M Liu, Y Xu, H Liang, J Yu, Y Cai, Z Zhang, Y Fan, W Mu, S Kumar Sahu, S Liu, X Lang, L Yang, N Li, S Habib, Y Yang, AJ Lindstrom, P Liang, B Goffinet, S Zaman, Jill L Wegrzyn, D Li, J Liu, J Cui, EC Sonnenschein, X Wang, J Ruan, J-Y Xue, Z-Q Shao, C Song, G Fan, Z Li, L Zhang, J Liu, Z-J Liu, Y Jiao, X-Q Wang, H Wu, E Wang, M Lisby, H Yang, J Wang, X Liu, X Xu, N Li, PS Soltis, Y Van de Peer, DE Soltis, X Gong, H Liu, S Zhang",
+        "authors": "Y Liu, S Wang, L Li, T Yang, S Dong, T Wei, S Wu, Y Liu, Y Gong, X Feng, J Ma, G Chang, J Huang, Y Yang, H Wang, M Liu, Y Xu, H Liang, J Yu, Y Cai, Z Zhang, Y Fan, W Mu, S Kumar Sahu, S Liu, X Lang, L Yang, N Li, S Habib, Y Yang, AJ Lindstrom, P Liang, <B Goffinet>, S Zaman, Jill L Wegrzyn, D Li, J Liu, J Cui, EC Sonnenschein, X Wang, J Ruan, J-Y Xue, Z-Q Shao, C Song, G Fan, Z Li, L Zhang, J Liu, Z-J Liu, Y Jiao, X-Q Wang, H Wu, E Wang, M Lisby, H Yang, J Wang, X Liu, X Xu, N Li, PS Soltis, Y Van de Peer, DE Soltis, X Gong, H Liu, S Zhang",
         "year": 2022,
         "title": "The _Cycas_ genome and the early evolution of seed plants",
         "citation_id": "vV1_cjUAAAAJ:4b-LE5UluQcC",
@@ -937,7 +937,7 @@
     },
     {
         "ignore": false,
-        "authors": "PJ Mart\u00ednez-Garc\u00eda, J Mas-G\u00f3mez, J Wegrzyn, JA Bot\u00eda",
+        "authors": "PJ Mart\u00ednez-Garc\u00eda, J Mas-G\u00f3mez, <J Wegrzyn>, JA Bot\u00eda",
         "year": 2022,
         "title": "Bioinformatic approach for the discovery of cis-eQTL signals during fruit ripening of a woody species as grape (_Vitis vinifera_ L.)",
         "citation_id": "vV1_cjUAAAAJ:RGp4dj-Wy-oC",
@@ -953,7 +953,7 @@
     },
     {
         "ignore": false,
-        "authors": "JD Mahoney, S Wang, LA Iorio, JL Wegrzyn, M Dorris, D Martin, BW Bolling, MH Brand, H Wang",
+        "authors": "JD Mahoney, S Wang, LA Iorio, <JL Wegrzyn>, M Dorris, D Martin, BW Bolling, MH Brand, H Wang",
         "year": 2022,
         "title": "De novo assembly of a fruit transcriptome set identifies AmMYB10 as a key regulator of anthocyanin biosynthesis in Aronia melanocarpa",
         "citation_id": "vV1_cjUAAAAJ:UTh8PbecGs4C",
@@ -969,7 +969,7 @@
     },
     {
         "ignore": false,
-        "authors": "EA Visser, TP Kampmann, JL Wegrzyn, S Naidoo",
+        "authors": "EA Visser, TP Kampmann, <JL Wegrzyn>, S Naidoo",
         "year": 2022,
         "title": "Multispecies comparison of host responses to Fusarium circinatum challenge in tropical pines show consistency in resistance mechanisms",
         "citation_id": "vV1_cjUAAAAJ:pqgf-8x9CmQC",
@@ -985,7 +985,7 @@
     },
     {
         "ignore": false,
-        "authors": "I Cobo-Sim\u00f3n, JN Maloof, R Li, H Amini, B M\u00e9ndez-Cea, I Garc\u00eda-Garc\u00eda, J G\u00f3mez-Garrido, A Esteve-Codina, M Dabad, T Alioto, JL Wegrzyn, JI Seco, JC Linares, FJ Gallego",
+        "authors": "I Cobo-Sim\u00f3n, JN Maloof, R Li, H Amini, B M\u00e9ndez-Cea, I Garc\u00eda-Garc\u00eda, J G\u00f3mez-Garrido, A Esteve-Codina, M Dabad, T Alioto, <JL Wegrzyn>, JI Seco, JC Linares, FJ Gallego",
         "year": 2023,
         "title": "Contrasting transcriptomic patterns reveal a genomic basis for drought resilience in the relict fir Abies pinsapo Boiss",
         "citation_id": "vV1_cjUAAAAJ:-pSblevFsSkC",
@@ -1001,7 +1001,7 @@
     },
     {
         "ignore": false,
-        "authors": "VME Velasco, A Ferreira, S Zaman, D Noordermeer, I Ensminger, JL Wegrzyn",
+        "authors": "VME Velasco, A Ferreira, S Zaman, D Noordermeer, I Ensminger, <JL Wegrzyn>",
         "year": 2023,
         "title": "A long-read and short-read transcriptomics approach provides the first high-quality reference transcriptome and genome annotation for Pseudotsuga menziesii (Douglas-fir)",
         "citation_id": "vV1_cjUAAAAJ:8aAMN6PqWdYC",
@@ -1017,7 +1017,7 @@
     },
     {
         "ignore": false,
-        "authors": "L Figueroa\u2010Corona, A Moreno\u2010Letelier, D Ortega\u2010Del Vecchyo, P Pel\u00e1ez, DS Gernandt, LE Eguiarte, J Wegrzyn, D Pi\u00f1ero",
+        "authors": "L Figueroa\u2010Corona, A Moreno\u2010Letelier, D Ortega\u2010Del Vecchyo, P Pel\u00e1ez, DS Gernandt, LE Eguiarte, <J Wegrzyn>, D Pi\u00f1ero",
         "year": 2022,
         "title": "Changes in demography and geographic distribution in the weeping pinyon pine (_Pinus pinceana_) during the Pleistocene",
         "citation_id": "vV1_cjUAAAAJ:YClPFpxzHmwC",
@@ -1033,7 +1033,7 @@
     },
     {
         "ignore": false,
-        "authors": "DB Neale, AV Zimin, S Zaman, AD Scott, B Shrestha, RE Workman, D Puiu, BJ Allen, ZJ Moore, MK Sekhwal, AR De La Torre, PE McGuire, E Burns, W Timp, JL Wegrzyn, SL Salzberg",
+        "authors": "DB Neale, AV Zimin, S Zaman, AD Scott, B Shrestha, RE Workman, D Puiu, BJ Allen, ZJ Moore, MK Sekhwal, AR De La Torre, PE McGuire, E Burns, W Timp, <JL Wegrzyn>, SL Salzberg",
         "year": 2022,
         "title": "Assembled and annotated 26.5 Gbp coast redwood genome: a resource for estimating evolutionary adaptive potential and investigating hexaploid origin",
         "citation_id": "vV1_cjUAAAAJ:d7BmB2BcYiwC",

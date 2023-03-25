@@ -1,7 +1,7 @@
 [
     {
         "ignore": false,
-        "authors": "WG Ryerson, K Schwenk",
+        "authors": "WG Ryerson, <K Schwenk>",
         "year": 2022,
         "title": "The kinematics and functional significance of chemosensory tongue-flicking in northern water snakes (_Nerodia sipedon_) on land, in water, and in between",
         "citation_id": "G-2IS0oAAAAJ:WzbvD7BMtBoC",
@@ -17,7 +17,7 @@
     },
     {
         "ignore": false,
-        "authors": "JR Phillips, AE Hewes, MC Womack, K Schwenk",
+        "authors": "JR Phillips, AE Hewes, MC Womack, <K Schwenk>",
         "year": 2022,
         "title": "The mechanics of air breathing in African clawed frog tadpoles, _Xenopus laevis_ (Anura: Pipidae)",
         "citation_id": "G-2IS0oAAAAJ:zCpYd49hD24C",
@@ -49,7 +49,7 @@
     },
     {
         "ignore": false,
-        "authors": "K Schwenk",
+        "authors": "<K Schwenk>",
         "year": 2021,
         "title": "Tongue morphology in horned lizards (Phrynosomatidae: _Phrynosoma_) and its relationship to specialized feeding and diet",
         "citation_id": "G-2IS0oAAAAJ:DxlTmyU89zoC",
@@ -65,7 +65,7 @@
     },
     {
         "ignore": false,
-        "authors": "AE Hewes, K Schwenk",
+        "authors": "AE Hewes, <K Schwenk>",
         "year": 2021,
         "title": "The functional morphology of lingual prey capture in a scincid lizard, _Tiliqua scincoides_ (Reptilia: Squamata)",
         "citation_id": "G-2IS0oAAAAJ:1n-LKbgTOzoC",
@@ -81,7 +81,7 @@
     },
     {
         "ignore": false,
-        "authors": "JR Phillips, AE Hewes, K Schwenk",
+        "authors": "JR Phillips, AE Hewes, <K Schwenk>",
         "year": 2020,
         "title": "The mechanics of air breathing in gray tree frog tadpoles, _Hyla versicolor_ (Anura: Hylidae)",
         "citation_id": "G-2IS0oAAAAJ:UCVoGz2p8ukC",
@@ -97,7 +97,7 @@
     },
     {
         "ignore": false,
-        "authors": "K Schwenk, JR Phillips",
+        "authors": "<K Schwenk>, JR Phillips",
         "year": 2020,
         "title": "Circumventing surface tension: tadpoles suck bubbles to breathe air",
         "citation_id": "G-2IS0oAAAAJ:KtrhGiDecpEC",
@@ -113,7 +113,7 @@
     },
     {
         "ignore": false,
-        "authors": "K Schwenk",
+        "authors": "<K Schwenk>",
         "year": 2017,
         "title": "Ingestive behavior.",
         "citation_id": "G-2IS0oAAAAJ:fXbrI0tPCuEC",

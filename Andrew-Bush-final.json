@@ -1,7 +1,7 @@
 [
     {
         "ignore": false,
-        "authors": "JP Kerr, JQ Pier, SK Brisson, JA Beard, AM Bush",
+        "authors": "JP Kerr, JQ Pier, SK Brisson, JA Beard, <AM Bush>",
         "year": 2022,
         "title": "Preservation and host preferences of Late Frasnian (Late Devonian) skeletobionts in the Appalachian Foreland Basin, USA",
         "citation_id": "SiVfZFYAAAAJ:dTyEYWd-f8wC",
@@ -17,7 +17,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Hsieh, RE Plotnick, AM Bush",
+        "authors": "S Hsieh, RE Plotnick, <AM Bush>",
         "year": 2022,
         "title": "The Phanerozoic aftermath of the Cambrian information revolution: sensory and cognitive complexity in marine faunas",
         "citation_id": "SiVfZFYAAAAJ:dshw04ExmUIC",
@@ -33,7 +33,7 @@
     },
     {
         "ignore": true,
-        "authors": "JQ Pier, SK Brisson, JA Beard, MT Hren, AM Bush",
+        "authors": "JQ Pier, SK Brisson, JA Beard, MT Hren, <AM Bush>",
         "year": 2021,
         "title": "Climate change and mass extinction risk in an endemic-rich late devonian fauna",
         "citation_id": "SiVfZFYAAAAJ:xtRiw3GOFMkC",
@@ -49,7 +49,7 @@
     },
     {
         "ignore": false,
-        "authors": "JQ Pier, SK Brisson, JA Beard, MT Hren, AM Bush",
+        "authors": "JQ Pier, SK Brisson, JA Beard, MT Hren, <AM Bush>",
         "year": 2021,
         "title": "Accelerated mass extinction in an isolated biota during Late Devonian climate changes",
         "citation_id": "SiVfZFYAAAAJ:KxtntwgDAa4C",
@@ -65,7 +65,7 @@
     },
     {
         "ignore": false,
-        "authors": "AM Bush, JL Payne",
+        "authors": "<AM Bush>, JL Payne",
         "year": 2021,
         "title": "Biotic and abiotic controls on the phanerozoic history of marine animal biodiversity",
         "citation_id": "SiVfZFYAAAAJ:CHSYGLWDkRkC",
@@ -81,7 +81,7 @@
     },
     {
         "ignore": false,
-        "authors": "GM Daley, AM Bush",
+        "authors": "GM Daley, <AM Bush>",
         "year": 2020,
         "title": "The effects of lithification on fossil assemblage biodiversity and composition: an experimental test",
         "citation_id": "SiVfZFYAAAAJ:NhqRSupF_l8C",
@@ -97,7 +97,7 @@
     },
     {
         "ignore": false,
-        "authors": "ML Knope, AM Bush, LO Frishkoff, NA Heim, JL Payne",
+        "authors": "ML Knope, <AM Bush>, LO Frishkoff, NA Heim, JL Payne",
         "year": 2020,
         "title": "Ecologically diverse clades dominate the oceans via extinction resistance",
         "citation_id": "SiVfZFYAAAAJ:D03iK_w7-QYC",
@@ -113,7 +113,7 @@
     },
     {
         "ignore": false,
-        "authors": "AM Bush, SC Wang, JL Payne, NA Heim",
+        "authors": "<AM Bush>, SC Wang, JL Payne, NA Heim",
         "year": 2020,
         "title": "A framework for the integrated analysis of the magnitude, selectivity, and biotic effects of extinction and origination",
         "citation_id": "SiVfZFYAAAAJ:rO6llkc54NcC",
@@ -129,7 +129,7 @@
     },
     {
         "ignore": false,
-        "authors": "S Hsieh, AM Bush, JB Bennington",
+        "authors": "S Hsieh, <AM Bush>, JB Bennington",
         "year": 2019,
         "title": "Were bivalves ecologically dominant over brachiopods in the late Paleozoic? A test using exceptionally preserved fossil assemblages",
         "citation_id": "SiVfZFYAAAAJ:HoB7MX3m0LUC",
@@ -145,7 +145,7 @@
     },
     {
         "ignore": false,
-        "authors": "AM Bush, J Louys, JP Rumford",
+        "authors": "<AM Bush>, J Louys, JP Rumford",
         "year": 2017,
         "title": "Paleontologia Electronica is still number one for new open access fossil species",
         "citation_id": "SiVfZFYAAAAJ:M05iB0D1s5AC",
@@ -161,7 +161,7 @@
     },
     {
         "ignore": false,
-        "authors": "JA Beard, AM Bush, AM Fernandes, PR Getty, MT Hren",
+        "authors": "JA Beard, <AM Bush>, AM Fernandes, PR Getty, MT Hren",
         "year": 2017,
         "title": "Stratigraphy and paleoenvironmental analysis of the Frasnian-Famennian (Upper Devonian) boundary interval in Tioga, north-central Pennsylvania",
         "citation_id": "SiVfZFYAAAAJ:blknAaTinKkC",
@@ -193,7 +193,7 @@
     },
     {
         "ignore": false,
-        "authors": "PR Getty, AM Bush",
+        "authors": "PR Getty, <AM Bush>",
         "year": 2017,
         "title": "On the ichnotaxonomic status of _Haplotichnus indianensis_ (Miller, 1889)",
         "citation_id": "SiVfZFYAAAAJ:BqipwSGYUEgC",
@@ -209,7 +209,7 @@
     },
     {
         "ignore": false,
-        "authors": "DH Goldstein, PR Getty, AM Bush",
+        "authors": "DH Goldstein, PR Getty, <AM Bush>",
         "year": 2017,
         "title": "Hitchcock\u2019s treptichnid trace fossils (Jurassic, Massachusetts, USA): conflicting interpretations in the \u201cAge of Fucoids\u201d",
         "citation_id": "SiVfZFYAAAAJ:ldfaerwXgEUC",
@@ -225,7 +225,7 @@
     },
     {
         "ignore": false,
-        "authors": "PR Getty, C Aucoin, N Fox, A Judge, L Hardy, AM Bush",
+        "authors": "PR Getty, C Aucoin, N Fox, A Judge, L Hardy, <AM Bush>",
         "year": 2017,
         "title": "Perennial lakes as an environmental control on theropod movement in the Jurassic of the Hartford Basin",
         "citation_id": "SiVfZFYAAAAJ:ns9cj8rnVeAC",
@@ -241,7 +241,7 @@
     },
     {
         "ignore": false,
-        "authors": "AM Bush, G Hunt, RK Bambach",
+        "authors": "<AM Bush>, G Hunt, RK Bambach",
         "year": 2016,
         "title": "Sex and the shifting biodiversity dynamics of marine animals in deep time",
         "citation_id": "SiVfZFYAAAAJ:maZDTaKrznsC",
@@ -257,7 +257,7 @@
     },
     {
         "ignore": false,
-        "authors": "JL Payne, AM Bush, ET Chang, NA Heim, ML Knope, SB Pruss",
+        "authors": "JL Payne, <AM Bush>, ET Chang, NA Heim, ML Knope, SB Pruss",
         "year": 2016,
         "title": "Extinction intensity, selectivity and their combined macroevolutionary influence in the fossil record",
         "citation_id": "SiVfZFYAAAAJ:iH-uZ7U-co4C",
@@ -273,7 +273,7 @@
     },
     {
         "ignore": false,
-        "authors": "JL Payne, AM Bush, NA Heim, ML Knope, DJ McCauley",
+        "authors": "JL Payne, <AM Bush>, NA Heim, ML Knope, DJ McCauley",
         "year": 2016,
         "title": "Ecological selectivity of the emerging mass extinction in the oceans",
         "citation_id": "SiVfZFYAAAAJ:RHpTSmoSYBkC",
@@ -289,7 +289,7 @@
     },
     {
         "ignore": false,
-        "authors": "PR Getty, TD McCarthy, S Hsieh, AM Bush",
+        "authors": "PR Getty, TD McCarthy, S Hsieh, <AM Bush>",
         "year": 2016,
         "title": "A new reconstruction of continental _Treptichnus_ based on exceptionally preserved material from the Jurassic of Massachusetts",
         "citation_id": "SiVfZFYAAAAJ:_Qo2XoVZTnwC",
@@ -305,7 +305,7 @@
     },
     {
         "ignore": false,
-        "authors": "AM Bush, RK Bambach",
+        "authors": "<AM Bush>, RK Bambach",
         "year": 2015,
         "title": "Sustained Mesozoic\u2013Cenozoic diversification of marine Metazoa: a consistent signal from the fossil record",
         "citation_id": "SiVfZFYAAAAJ:mB3voiENLucC",
@@ -321,7 +321,7 @@
     },
     {
         "ignore": false,
-        "authors": "AM Bush, JD Csonka, GV DiRenzo, DJ Over, JA Beard",
+        "authors": "<AM Bush>, JD Csonka, GV DiRenzo, DJ Over, JA Beard",
         "year": 2015,
         "title": "Revised correlation of the Frasnian\u2013Famennian boundary and Kellwasser Events (Upper Devonian) in shallow marine paleoenvironments of New York State",
         "citation_id": "SiVfZFYAAAAJ:ZeXyd9-uunAC",
@@ -337,7 +337,7 @@
     },
     {
         "ignore": false,
-        "authors": "PR Getty, L Hardy, AM Bush",
+        "authors": "PR Getty, L Hardy, <AM Bush>",
         "year": 2015,
         "title": "Was the Eubrontes track maker gregarious? Testing the herding hypothesis at Powder Hill Dinosaur Park, Middlefield, Connecticut",
         "citation_id": "SiVfZFYAAAAJ:L8Ckcad2t8MC",
@@ -353,7 +353,7 @@
     },
     {
         "ignore": false,
-        "authors": "ME Fichman, JM Crespi, PR Getty, AM Bush",
+        "authors": "ME Fichman, JM Crespi, PR Getty, <AM Bush>",
         "year": 2015,
         "title": "Retrodeformation of Carboniferous trace fossils from the Narragansett Basin, United States, using raindrop imprints and bedding-cleavage intersection lineation as strain markers",
         "citation_id": "SiVfZFYAAAAJ:hFOr9nPyWt4C",
