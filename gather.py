@@ -5,6 +5,7 @@ starting_year = 2015
 faculty = [
     'Bagchi',
     'Bolnick',
+    'Bush',
     'Cooley',
     'Davis',
     'Diggle',
@@ -26,6 +27,7 @@ faculty = [
 filepaths = {
     'Bagchi':    'Robert-Bagchi-final.json',
     'Bolnick':   'Daniel-Bolnick-final.json',
+    'Bush':      'Andrew-Bush-final.json',
     'Cooley':    'John-Cooley-final.json',
     'Davis':     'Miranda-Davis-final.json',
     'Diggle':    'Pamela-Diggle-final.json',
