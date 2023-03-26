@@ -1,7 +1,7 @@
 [
     {
         "ignore": false,
-        "authors": "J Bator, DC Marshall, KBR Hill, <JR Cooley>, A Leston, C Simon",
+        "authors": "J Bator, DC Marshall, KBR Hill, <JR Cooley>, A Leston, <C Simon>",
         "year": 2022,
         "title": "Phylogeography of the endemic red-tailed cicadas of New Zealand (Hemiptera: Cicadidae: Rhodopsalta), and molecular, morphological and bioacoustical confirmation of the existence of Hudson\u2019s _Rhodopsalta microdora_",
         "citation_id": "aXo5yZYAAAAJ:u_35RYKgDlwC",
@@ -17,7 +17,7 @@
     },
     {
         "ignore": false,
-        "authors": "C Simon, <JR Cooley>, R Karban, T Sota",
+        "authors": "<C Simon>, <JR Cooley>, R Karban, T Sota",
         "year": 2022,
         "title": "Advances in the evolution and ecology of 13-and 17-year periodical cicadas",
         "citation_id": "aXo5yZYAAAAJ:fPk4N6BV_jEC",
@@ -33,7 +33,7 @@
     },
     {
         "ignore": false,
-        "authors": "<JR Cooley>, DC Marshall, C Simon",
+        "authors": "<JR Cooley>, DC Marshall, <C Simon>",
         "year": 2021,
         "title": "Documenting single-generation range shifts of periodical cicada brood VI (Hemiptera: Cicadidae: _Magicicada_ spp.)",
         "citation_id": "aXo5yZYAAAAJ:3s1wT3WcHBgC",
@@ -65,7 +65,7 @@
     },
     {
         "ignore": false,
-        "authors": "GR Boyce, E Gluck-Thaler, JC Slot, JE Stajich, WJ Davis, TY James, <JR Cooley>, DG Panaccione, JEilenberg, HH De Fine Licht, AM Macias, MC Berger, KL Wickert, CM Stauder, EJ Spahr, MD Maust, AM Metheny, C Simon, G Kritsky, KT Hodge, RA Humber, T Gullion, DPG Short, T Kijimoto, D Mozgai, N Arguedas, MT Kasson",
+        "authors": "GR Boyce, E Gluck-Thaler, JC Slot, JE Stajich, WJ Davis, TY James, <JR Cooley>, DG Panaccione, JEilenberg, HH De Fine Licht, AM Macias, MC Berger, KL Wickert, CM Stauder, EJ Spahr, MD Maust, AM Metheny, <C Simon>, G Kritsky, KT Hodge, RA Humber, T Gullion, DPG Short, T Kijimoto, D Mozgai, N Arguedas, MT Kasson",
         "year": 2019,
         "title": "Psychoactive plant-and mushroom-associated alkaloids from two behavior modifying cicada pathogens",
         "citation_id": "aXo5yZYAAAAJ:k_IJM867U9cC",
@@ -81,7 +81,7 @@
     },
     {
         "ignore": false,
-        "authors": "Z Du, H Hasegawa, <JR Cooley>, C Simon, J Yoshimura, W Cai, T Sota, H Li",
+        "authors": "Z Du, H Hasegawa, <JR Cooley>, <C Simon>, J Yoshimura, W Cai, T Sota, H Li",
         "year": 2019,
         "title": "Mitochondrial genomics reveals shared phylogeographic patterns and demographic history among three periodical cicada species groups",
         "citation_id": "aXo5yZYAAAAJ:GnPB-g6toBAC",
@@ -113,7 +113,7 @@
     },
     {
         "ignore": false,
-        "authors": "<JR Cooley>, N Arguedas, E Bonaros, G Bunker, SM Chiswell, A DeGiovine, M Edwards, D Hassanieh, D Haji, J Knox, G Kritsky, C Mills, D Mozgai, R Troutman, J Zyla, H Hasegawa, T Sota, J Yoshimura, C Simon",
+        "authors": "<JR Cooley>, N Arguedas, E Bonaros, G Bunker, SM Chiswell, A DeGiovine, M Edwards, D Hassanieh, D Haji, J Knox, G Kritsky, C Mills, D Mozgai, R Troutman, J Zyla, H Hasegawa, T Sota, J Yoshimura, <C Simon>",
         "year": 2018,
         "title": "The periodical cicada four-year acceleration hypothesis revisited and the polyphyletic nature of brood V, including an updated crowd-source enhanced map (Hemiptera: Cicadidae: _Magicicada_)",
         "citation_id": "aXo5yZYAAAAJ:maZDTaKrznsC",
@@ -129,7 +129,7 @@
     },
     {
         "ignore": false,
-        "authors": "T Fujisawa, T Koyama, S Kakishima, <JR Cooley>, C Simon, J Yoshimura, T Sota",
+        "authors": "T Fujisawa, T Koyama, S Kakishima, <JR Cooley>, <C Simon>, J Yoshimura, T Sota",
         "year": 2018,
         "title": "Triplicate parallel life cycle divergence despite gene flow in periodical cicadas",
         "citation_id": "aXo5yZYAAAAJ:r0BpntZqJG4C",
@@ -145,7 +145,7 @@
     },
     {
         "ignore": false,
-        "authors": "DC Marshall, M Moulds, KBR Hill, BW Price, EJ Wade, CL Owen, G Goemans, K Marathe, V Sarkar, <JR Cooley>, AF Sanborn, K Kunte, MH Villet, C Simon",
+        "authors": "DC Marshall, M Moulds, KBR Hill, BW Price, EJ Wade, CL Owen, G Goemans, K Marathe, V Sarkar, <JR Cooley>, AF Sanborn, K Kunte, MH Villet, <C Simon>",
         "year": 2018,
         "title": "A molecular phylogeny of the cicadas (Hemiptera: Cicadidae) with a review of tribe and subfamily classification",
         "citation_id": "aXo5yZYAAAAJ:iH-uZ7U-co4C",
@@ -177,7 +177,7 @@
     },
     {
         "ignore": false,
-        "authors": "G Kritsky, R Troutman, D Mozgai, C Simon, SM Chiswell, S Kakishima, T Sota, J Yoshimura, <JR Cooley>",
+        "authors": "G Kritsky, R Troutman, D Mozgai, <C Simon>, SM Chiswell, S Kakishima, T Sota, J Yoshimura, <JR Cooley>",
         "year": 2017,
         "title": "Evolution and geographic extent of a surprising northern disjunct population of 13-year cicada brood XXII (Hemiptera: Cicadidae, _Magicicada_)",
         "citation_id": "aXo5yZYAAAAJ:4JMBOYKVnBMC",
@@ -193,7 +193,7 @@
     },
     {
         "ignore": false,
-        "authors": "T Koyama, H Ito, T Fujisawa, H Ikeda, S Kakishima, <JR Cooley>, C Simon, J Yoshimura, T Sota",
+        "authors": "T Koyama, H Ito, T Fujisawa, H Ikeda, S Kakishima, <JR Cooley>, <C Simon>, J Yoshimura, T Sota",
         "year": 2016,
         "title": "Genomic divergence and lack of introgressive hybridization between two 13\u2010year periodical cicadas support life cycle switching in the face of climate change",
         "citation_id": "aXo5yZYAAAAJ:R3hNpaxXUhUC",
@@ -209,7 +209,7 @@
     },
     {
         "ignore": false,
-        "authors": "<JR Cooley>, G Kritsky, DC Marshall, KBR Hill, G Bunker, ML Neckermann, JIN Yoshimura, JE Cooley, C Simon",
+        "authors": "<JR Cooley>, G Kritsky, DC Marshall, KBR Hill, G Bunker, ML Neckermann, JIN Yoshimura, JE Cooley, <C Simon>",
         "year": 2016,
         "title": "A GIS-based map of periodical cicada brood XIII in 2007, with notes on adjacent populations of broods III and X (Hemiptera: _Magicicada_ spp.)",
         "citation_id": "aXo5yZYAAAAJ:e5wmG9Sq2KIC",
@@ -225,7 +225,7 @@
     },
     {
         "ignore": false,
-        "authors": "<JR Cooley>, C Simon, CT Maier, D Marshall, J Yoshimura, SM Chiswell, M Edwards, C Holliday, R Grantham, J Zyla, RL Sanders, M Neckermann, G Bunker",
+        "authors": "<JR Cooley>, <C Simon>, CT Maier, D Marshall, J Yoshimura, SM Chiswell, M Edwards, C Holliday, R Grantham, J Zyla, RL Sanders, M Neckermann, G Bunker",
         "year": 2015,
         "title": "The distribution of periodical cicada (Hemiptera: Cicadidae: _Magicicada_) brood II in 2013: disjunct emergences suggest complex brood origins",
         "citation_id": "aXo5yZYAAAAJ:hFOr9nPyWt4C",
@@ -241,7 +241,7 @@
     },
     {
         "ignore": false,
-        "authors": "DC Marshall, KBR Hill, M Moulds, D Vanderpool, <JR Cooley>, AB Mohagan, C Simon",
+        "authors": "DC Marshall, KBR Hill, M Moulds, D Vanderpool, <JR Cooley>, AB Mohagan, <C Simon>",
         "year": 2016,
         "title": "Inflation of molecular clock rates and dates: molecular phylogenetics, biogeography, and diversification of a global cicada radiation from Australasia (Hemiptera: Cicadidae \u2026",
         "citation_id": "aXo5yZYAAAAJ:-f6ydRqryjwC",
@@ -273,7 +273,7 @@
     },
     {
         "ignore": false,
-        "authors": "T Koyama, H Ito, S Kakishima, J Yoshimura, <JR Cooley>, C Simon, T Sota",
+        "authors": "T Koyama, H Ito, S Kakishima, J Yoshimura, <JR Cooley>, <C Simon>, T Sota",
         "year": 2015,
         "title": "Geographic body size variation in the periodical cicadas _Magicicada_: implications for life cycle divergence and local adaptation",
         "citation_id": null,
@@ -305,7 +305,7 @@
     },
     {
         "ignore": false,
-        "authors": "KD Brumfield, MJ Raupp, D Haji, C Simon, J Graf, <JR Cooley>, ST Janton, RC Meister, A Huq, RR Colwell, NA HasanRussell C Meister, A Huq, RR Colwell, NA Hasan",
+        "authors": "KD Brumfield, MJ Raupp, D Haji, <C Simon>, J Graf, <JR Cooley>, ST Janton, RC Meister, A Huq, RR Colwell, NA HasanRussell C Meister, A Huq, RR Colwell, NA Hasan",
         "year": 2022,
         "title": "Gut microbiome insights from 16S rRNA analysis of 17-year periodical cicadas (Hemiptera: _Magicicada_ spp.) broods II, VI, and X",
         "citation_id": "aXo5yZYAAAAJ:a0OBvERweLwC",
