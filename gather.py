@@ -23,7 +23,8 @@ faculty = [
     'Trumbo',
     'Urban',
     'Wegrzyn',
-    'Yarish'
+    'Yarish',
+    'Yuan'
 ]
 
 filepaths = {
@@ -47,7 +48,8 @@ filepaths = {
     'Trumbo':    'Stephen-Trumbo-final.json',
     'Urban':     'Mark-Urban-final.json',
     'Wegrzyn':   'Jill-Wegrzyn-final.json',
-    'Yarish':    'Charles-Yarish-final.json'
+    'Yarish':    'Charles-Yarish-final.json',
+    'Yuan':      'Yaowu-Yuan-final.json'
 }
 
 def dumpException(exceptf, f, a, y, t, j, v, b, e, doi):
@@ -97,6 +99,7 @@ exceptf = open('exceptions.txt', 'w')
 dupf = open('duplicates.txt', 'w')
 nyearless = 0
 nexceptions = 0
+nduplicates = 0
 ninpress = 0
 nchapters = 0
 bibentries = []
@@ -189,6 +192,7 @@ for f in faculty:
                 nchapters += 1
                 entry = (year, bib)
                 if already_seen:
+                    nduplicates += 1
                     dupf.write('\n-------------------\n')
                     dupf.write('Previous: %s\n' % titles_seen[title])
                     dupf.write('~~> %s\n' % bib)
@@ -200,6 +204,7 @@ for f in faculty:
             else:
                 entry = (year, bib)
                 if already_seen:
+                    nduplicates += 1
                     dupf.write('\n-------------------\n')
                     dupf.write('Previous: %s\n' % titles_seen[title])
                     dupf.write('~~> %s\n' % bib)
@@ -225,6 +230,7 @@ gatherf.close()
 
 print('nyearless   = %d' % nyearless)
 print('nexceptions = %d' % nexceptions)
+print('nduplicates = %d' % nduplicates)
 print('ninpress    = %d' % ninpress)
 print('nchapters   = %d' % nchapters)
 print('ngood       = %d' % ngood)
