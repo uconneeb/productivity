@@ -31,6 +31,7 @@ faculty = [
     'Urban',
     'Wagner',
     'Wegrzyn',
+    'Wells',
     'Willig',
     'Yarish',
     'Yuan'
@@ -65,6 +66,7 @@ filepaths = {
     'Urban':         'Mark-Urban-final.json',
     'Wagner':        'David-Wagner-final.json',
     'Wegrzyn':       'Jill-Wegrzyn-final.json',
+    'Wells':         'b-Wells/Kentwood-Wells-final.json',
     'Willig':        'Michael-Willig-final.json',
     'Yarish':        'Charles-Yarish-final.json',
     'Yuan':          'Yaowu-Yuan-final.json'
