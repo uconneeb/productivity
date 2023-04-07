@@ -31,6 +31,7 @@ faculty = [
     'Urban',
     'Wagner',
     'Wegrzyn',
+    'Willig',
     'Yarish',
     'Yuan'
 ]
@@ -64,6 +65,7 @@ filepaths = {
     'Urban':         'Mark-Urban-final.json',
     'Wagner':        'David-Wagner-final.json',
     'Wegrzyn':       'Jill-Wegrzyn-final.json',
+    'Willig':        'Michael-Willig-final.json',
     'Yarish':        'Charles-Yarish-final.json',
     'Yuan':          'Yaowu-Yuan-final.json'
 }
@@ -118,6 +120,7 @@ nexceptions = 0
 nduplicates = 0
 ninpress = 0
 nchapters = 0
+neditedvolumes = 0
 bibentries = []
 titles_seen = {}
 title_lookup = {}
@@ -129,7 +132,10 @@ for f in faculty:
     for result in results:
         if not result['ignore']:
             # Capture information in r
-            authors,nsubs = re.subn(r'<(.+?)>', r'**\1**', result['authors'])
+            if result['authors'] is None:
+                authors = None
+            else:
+                authors,nsubs = re.subn(r'<(.+?)>', r'**\1**', result['authors'])
             year    = result['year']
             #title   = re.sub(r'\b_(.+?)_\b', r'<em>\1</em>', result['title'])
             title   = result['title']
@@ -166,6 +172,7 @@ for f in faculty:
             exception = False
             inpress = False
             ischapter = False
+            iseditedvolume = False
             bib = ''
             if authors:
                 bib += '%s' % authors
@@ -182,6 +189,9 @@ for f in faculty:
             elif journal and volume == 'inpress':
                 inpress = True
                 bib += ' %s (in press).' % journal
+            elif authors is None and (booktitle and bookeditors and bookpublisher and bookcity and bpage and epage):
+                iseditedvolume = True
+                bib = '%s (eds.) %s. %s. %s, %s' % (bookeditors, year, booktitle, bookpublisher, bookcity)
             elif booktitle and bookeditors and bookpublisher and bookcity and bpage and epage:
                 ischapter = True
                 bib += ' pp. %s-%s in: %s, %s (eds.) %s, %s' % (bpage, epage, booktitle, bookeditors, bookpublisher, bookcity)
@@ -206,6 +216,19 @@ for f in faculty:
                 dumpException(exceptf, f, authors, year, title, journal, volume, bpage, epage, doi)
             elif ischapter:
                 nchapters += 1
+                entry = (year, bib)
+                if already_seen:
+                    nduplicates += 1
+                    dupf.write('\n-------------------\n')
+                    dupf.write('Previous: %s\n' % titles_seen[title])
+                    dupf.write('~~> %s\n' % bib)
+                    dupf.write('Current: %s\n' % f)
+                    dupf.write('~~> %s\n' % title_lookup[title])
+                else:
+                    bibentries.append(entry)
+                    title_lookup[title] = bib
+            elif iseditedvolume:
+                neditedvolumes += 1
                 entry = (year, bib)
                 if already_seen:
                     nduplicates += 1
@@ -244,9 +267,10 @@ for b in bibentries:
     gatherf.write('%s\n' % b[1])
 gatherf.close()
 
-print('nyearless   = %d' % nyearless)
-print('nexceptions = %d' % nexceptions)
-print('nduplicates = %d' % nduplicates)
-print('ninpress    = %d' % ninpress)
-print('nchapters   = %d' % nchapters)
-print('ngood       = %d' % ngood)
+print('nyearless      = %d' % nyearless)
+print('nexceptions    = %d' % nexceptions)
+print('nduplicates    = %d' % nduplicates)
+print('ninpress       = %d' % ninpress)
+print('nchapters      = %d' % nchapters)
+print('neditedvolumes = %d' % neditedvolumes)
+print('ngood          = %d' % ngood)
