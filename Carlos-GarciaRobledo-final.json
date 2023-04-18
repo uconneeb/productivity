@@ -1,7 +1,7 @@
 [
     {
         "ignore": false,
-        "authors": "JA Harvey, K Tougeron, R Gols, R Heinen, M Abarca, PK Abram, Y Basset, M Berg, C Boggs, J Brodeur, P Cardoso, JG De Boer, GR De Snoo, C Deacon, JE Dell, N Desneux, ME Dillon, GA Duffy, LA Dyer, J Ellers, A Espíndola, J Fordyce, ML Forister, C Fukushima, MJG Gage, <C Garc\u00eda‐Robledo>, C Gely, M Gobbi, C Hallmann, T Hance, J Harte, A Hochkirch, C Hof, AA Hoffmann, JG Kingsolver, GPA Lamarre, WF Laurance, B Lavandero, SR Leather, P Lehmann, C Le Lann, MM L\u00f3pez‐Uribe, CS Ma, G Ma, J Moiroux, L Monticelli, C Nice, PJ Ode, S Pincebourde, WJ Ripple, M Rowe, MJ Samways, A Sentis, AA Shah, N Stork, JS Terblanche, MP Thakur, MB Thomas, JM Tylianakis, J Van Baaren, M Van de Pol, WH Van der Putten, H Van Dyck, WCEP Verberk, <DL Wagner>, WW Weisser, WC Wetzel, HA Woods, KAG Wyckhuys, SL Chown",
+        "authors": "JA Harvey, K Tougeron, R Gols, R Heinen, M Abarca, PK Abram, Y Basset, M Berg, C Boggs, J Brodeur, P Cardoso, JG De Boer, GR De Snoo, C Deacon, JE Dell, N Desneux, ME Dillon, GA Duffy, LA Dyer, J Ellers, A Espíndola, J Fordyce, ML Forister, C Fukushima, MJG Gage, <C Garc\u00eda\u2010Robledo>, C Gely, M Gobbi, C Hallmann, T Hance, J Harte, A Hochkirch, C Hof, AA Hoffmann, JG Kingsolver, GPA Lamarre, WF Laurance, B Lavandero, SR Leather, P Lehmann, C Le Lann, MM L\u00f3pez‐Uribe, CS Ma, G Ma, J Moiroux, L Monticelli, C Nice, PJ Ode, S Pincebourde, WJ Ripple, M Rowe, MJ Samways, A Sentis, AA Shah, N Stork, JS Terblanche, MP Thakur, MB Thomas, JM Tylianakis, J Van Baaren, M Van de Pol, WH Van der Putten, H Van Dyck, WCEP Verberk, <DL Wagner>, WW Weisser, WC Wetzel, HA Woods, KAG Wyckhuys, SL Chown",
         "year": 2023,
         "title": "Scientists' warning on climate change and insects",
         "citation_id": "qa7ATcwAAAAJ:D03iK_w7-QYC",
@@ -17,7 +17,7 @@
     },
     {
         "ignore": false,
-        "authors": "GG Hern\u00e1ndez, TM Perez, OM Vargas, WJ Kress, R Molina\u2010Bravo, RA Cordero, <JR Seemann>, C Garc\u00eda-Robledo",
+        "authors": "GG Hern\u00e1ndez, TM Perez, OM Vargas, WJ Kress, R Molina\u2010Bravo, RA Cordero, <JR Seemann>, <C Garc\u00eda\u2010Robledo>",
         "year": 2022,
         "title": "Evolutionary history constrains heat tolerance of native and exotic tropical Zingiberales",
         "citation_id": "qa7ATcwAAAAJ:yD5IFk8b50cC",
@@ -33,7 +33,7 @@
     },
     {
         "ignore": false,
-        "authors": "CA Bota\u2010Sierra, C Garc\u00eda\u2010Robledo, F Escobar, R Novelo\u2010Guti\u00e9rrez, G Londo\u00f1o",
+        "authors": "CA Bota\u2010Sierra, <C Garc\u00eda\u2010Robledo>, F Escobar, R Novelo\u2010Guti\u00e9rrez, G Londo\u00f1o",
         "year": 2022,
         "title": "Environment, taxonomy and morphology constrain insect thermal physiology along tropical mountains",
         "citation_id": "qa7ATcwAAAAJ:4OULZ7Gr8RgC",
@@ -49,7 +49,7 @@
     },
     {
         "ignore": false,
-        "authors": "L Bizzarri, C Baer, <C Garc\u00eda-Robledo>",
+        "authors": "L Bizzarri, C Baer, <C Garc\u00eda\u2010Robledo>",
         "year": 2022,
         "title": "DNA barcoding reveals generalization and host overlap in hummingbird flower mites: implications for the Mating Rendezvous Hypothesis",
         "citation_id": "qa7ATcwAAAAJ:zA6iFVUQeVQC",
@@ -97,7 +97,7 @@
     },
     {
         "ignore": false,
-        "authors": "M Duffy, <C Garc\u00eda-Robledo>, SP Gordon, NA Grant, DAG II, A Kamath, RM Penczykowski, M Rebolleda-G\u00f3mez",
+        "authors": "M Duffy, <C Garc\u00eda\u2010Robledo>, SP Gordon, NA Grant, DAG II, A Kamath, RM Penczykowski, M Rebolleda-G\u00f3mez",
         "year": 2021,
         "title": "Model systems in ecology, evolution, and behavior: a call for diversity in our model systems and discipline",
         "citation_id": "qa7ATcwAAAAJ:ZHo1McVdvXMC",
@@ -113,7 +113,7 @@
     },
     {
         "ignore": false,
-        "authors": "<C Garc\u00eda-Robledo>, CS Baer",
+        "authors": "<C Garc\u00eda\u2010Robledo>, CS Baer",
         "year": 2021,
         "title": "Demographic attritions, elevational refugia, and the resilience of insect populations to projected global warming",
         "citation_id": "qa7ATcwAAAAJ:3s1wT3WcHBgC",
@@ -129,7 +129,7 @@
     },
     {
         "ignore": false,
-        "authors": "D Gonz\u00e1lez-Tokman, Y Gil-P\u00e9rez, M Serv\u00edn-Pastor, F Alvarado, F Escobar, F Baena-Díaz, <C Garc\u00eda-Robledo>, I Martínez M",
+        "authors": "D Gonz\u00e1lez-Tokman, Y Gil-P\u00e9rez, M Serv\u00edn-Pastor, F Alvarado, F Escobar, F Baena-Díaz, <C Garc\u00eda\u2010Robledo>, I Martínez M",
         "year": 2021,
         "title": "Effect of chemical pollution and parasitism on heat tolerance in dung beetles (Coleoptera: Scarabaeinae)",
         "citation_id": "qa7ATcwAAAAJ:M05iB0D1s5AC",
@@ -145,7 +145,7 @@
     },
     {
         "ignore": false,
-        "authors": "<C Garcia\u2010Robledo>, CS Baer, K Lippert, V Sarathy",
+        "authors": "<C Garc\u00eda\u2010Robledo>, CS Baer, K Lippert, V Sarathy",
         "year": 2020,
         "title": "Evolutionary history, not ecogeographic rules, explains size variation of tropical insects along elevational gradients",
         "citation_id": "qa7ATcwAAAAJ:ldfaerwXgEUC",
@@ -193,7 +193,7 @@
     },
     {
         "ignore": false,
-        "authors": "Y Meza-Parral, <C Garc\u00eda-Robledo>, E Pineda, F Escobar, MA Donnelly",
+        "authors": "Y Meza-Parral, <C Garc\u00eda\u2010Robledo>, E Pineda, F Escobar, MA Donnelly",
         "year": 2020,
         "title": "Standardized ethograms and a device for assessing amphibian thermal responses in a warming world",
         "citation_id": "qa7ATcwAAAAJ:RYcK_YlVTxYC",
@@ -209,7 +209,7 @@
     },
     {
         "ignore": false,
-        "authors": "CS Baer, D Dierick, <C Garcia\u2010Robledo>",
+        "authors": "CS Baer, D Dierick, <C Garc\u00eda\u2010Robledo>",
         "year": 2020,
         "title": "Portable heaters for microhabitat heating experiments",
         "citation_id": "qa7ATcwAAAAJ:lSLTfruPkqcC",
@@ -225,7 +225,7 @@
     },
     {
         "ignore": false,
-        "authors": "<C Garcia\u2010Robledo>, EK Kuprewicz, D Dierick, S Hurley, A Langevin",
+        "authors": "<C Garc\u00eda\u2010Robledo>, EK Kuprewicz, D Dierick, S Hurley, A Langevin",
         "year": 2020,
         "title": "The affordable laboratory of climate change: devices to estimate ectotherm vital rates under projected global warming",
         "citation_id": "qa7ATcwAAAAJ:vV6vV6tmYwMC",
@@ -257,7 +257,7 @@
     },
     {
         "ignore": false,
-        "authors": "D Gonz\u00e1lez-Tokman, F Baena-D\u00edaz, F Escobar-Sarria, EK Kuprewicz, <C Garc\u00eda-Robledo>",
+        "authors": "D Gonz\u00e1lez-Tokman, F Baena-D\u00edaz, F Escobar-Sarria, EK Kuprewicz, <C Garc\u00eda\u2010Robledo>",
         "year": 2019,
         "title": "Energy storage, body size and immune response of herbivore beetles at two different elevations in Costa Rica",
         "citation_id": "qa7ATcwAAAAJ:blknAaTinKkC",
@@ -289,7 +289,7 @@
     },
     {
         "ignore": false,
-        "authors": "WJ Kress, <C Garc\u00eda-Robledo>, JVB Soares, D Jacobs, K Wilson, IC Lopez, P Belhumeur",
+        "authors": "WJ Kress, <C Garc\u00eda\u2010Robledo>, JVB Soares, D Jacobs, K Wilson, IC Lopez, P Belhumeur",
         "year": 2018,
         "title": "Citizen science and climate change: mapping the range expansions of native and exotic plants with the mobile app Leafsnap",
         "citation_id": "qa7ATcwAAAAJ:j3f4tGmQtD8C",
@@ -321,7 +321,7 @@
     },
     {
         "ignore": false,
-        "authors": "C Garc\u00eda-Robledo, M Charlotten-Silva, C Cruz, EK Kuprewicz",
+        "authors": "C Garc\u00eda\u2010Robledo, M Charlotten-Silva, C Cruz, EK Kuprewicz",
         "year": 2018,
         "title": "Low quality diet and challenging temperatures affect vital rates, but not thermal tolerance in a tropical insect expanding its diet to an exotic plant",
         "citation_id": "qa7ATcwAAAAJ:TFP_iSt0sucC",
@@ -353,7 +353,7 @@
     },
     {
         "ignore": false,
-        "authors": "<C Garc\u00eda-Robledo>, EK Kuprewicz, CL Staines, TL Erwin, WJ Kress",
+        "authors": "<C Garc\u00eda\u2010Robledo>, EK Kuprewicz, CL Staines, TL Erwin, WJ Kress",
         "year": 2016,
         "title": "Limited tolerance by insects to high temperatures across tropical elevational gradients and the implications of global warming for extinction",
         "citation_id": "qa7ATcwAAAAJ:L8Ckcad2t8MC",
@@ -369,7 +369,7 @@
     },
     {
         "ignore": false,
-        "authors": "<C Garc\u00eda-Robledo>, CL Staines, WJ Kress",
+        "authors": "<C Garc\u00eda\u2010Robledo>, CL Staines, WJ Kress",
         "year": 2015,
         "title": "A new species of bromeliad-feeding Cephaloleia Chevrolat (Coleoptera, Chrysomelidae, Cassidinae) from Costa Rica: evidence from DNA barcodes, larval and adult morphology and \u2026",
         "citation_id": "qa7ATcwAAAAJ:mVmsd5A6BfQC",
@@ -385,7 +385,7 @@
     },
     {
         "ignore": false,
-        "authors": "WJ Kress, <C Garc\u00eda-Robledo>, M Uriarte, DL Erickson",
+        "authors": "WJ Kress, <C Garc\u00eda\u2010Robledo>, M Uriarte, DL Erickson",
         "year": 2015,
         "title": "DNA barcodes for ecology, evolution, and conservation",
         "citation_id": "qa7ATcwAAAAJ:aqlVkmm33-oC",

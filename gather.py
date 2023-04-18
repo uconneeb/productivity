@@ -80,6 +80,33 @@ filepaths = {
     'Yuan':          'Yaowu-Yuan-final.json'
 }
 
+def updateCounts(authors):
+    global person_counts
+    if authors is None:
+        return
+        
+    author_list = authors.split(',')
+    for a in author_list:
+        m = re.match('<(.+)>', a.strip())
+        if m is not None:
+            eeb_author = m.group(1)
+            eeb_parts = eeb_author.split()
+            if len(eeb_parts) == 3:
+                assert eeb_parts[2] == 'Jr'
+            else:
+                assert len(eeb_parts) == 2, 'More than two parts found for EEB author "%s"' % eeb_author
+            eeb_author_key = eeb_parts[1]
+            if eeb_parts[1] == 'Lewis':
+                if eeb_parts[0] == 'L' or eeb_parts[0] == 'LA':
+                    eeb_author_key = 'LLewis'
+                elif eeb_parts[0] == 'P' or eeb_parts[0] == 'PO':
+                    eeb_author_key = 'PLewis'
+            
+            if eeb_author_key in person_counts.keys():
+                person_counts[eeb_author_key] += 1
+            else:
+                person_counts[eeb_author_key] = 1
+
 def dumpException(exceptf, f, a, y, t, j, v, b, e, doi):
     exceptf.write('-------- %s ---------\n' % f)
 
@@ -134,6 +161,7 @@ neditedvolumes = 0
 bibentries = []
 titles_seen = {}
 title_lookup = {}
+person_counts = {}
 for f in faculty:
     fn = '%s' % filepaths[f]
     print('Reading file "%s"...' % fn)
@@ -141,6 +169,8 @@ for f in faculty:
     results = json.loads(stuff)
     for result in results:
         if not result['ignore']:
+            # Add to counts for EEB authors
+            updateCounts(result['authors'])
             # Capture information in r
             if result['authors'] is None:
                 authors = None
@@ -284,3 +314,12 @@ print('ninpress       = %d' % ninpress)
 print('nchapters      = %d' % nchapters)
 print('neditedvolumes = %d' % neditedvolumes)
 print('ngood          = %d' % ngood)
+
+print('\nPerson counts:')
+counts = []
+for k in person_counts.keys():
+    counts.append((person_counts[k], k))
+counts.sort()
+counts.reverse()
+for c,p in counts:
+    print('%6d %s' % (c,p))
