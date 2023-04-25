@@ -33,6 +33,7 @@ faculty = [
     'Simon',
     'Tingley',
     'Trumbo',
+    'Turchin',
     'Urban',
     'Wagner',
     'Wegrzyn',
@@ -73,6 +74,7 @@ filepaths = {
     'Simon':         'Chris-Simon-final.json',
     'Tingley':       'Morgan-Tingley-final.json',
     'Trumbo':        'Stephen-Trumbo-final.json',
+    'Turchin':       'Peter-Turchin-final.json',
     'Urban':         'Mark-Urban-final.json',
     'Wagner':        'David-Wagner-final.json',
     'Wegrzyn':       'Jill-Wegrzyn-final.json',
@@ -158,6 +160,7 @@ nyearless = 0
 nexceptions = 0
 nduplicates = 0
 ninpress = 0
+nbooks = 0
 nchapters = 0
 neditedvolumes = 0
 bibentries = []
@@ -215,6 +218,7 @@ for f in faculty:
             inpress = False
             ischapter = False
             iseditedvolume = False
+            isbook = False
             bib = ''
             if authors:
                 bib += '%s' % authors
@@ -243,6 +247,13 @@ for f in faculty:
             elif booktitle and bookpublisher:
                 ischapter = True
                 bib += ' In: %s, %s' % (booktitle, bookpublisher)
+            elif bookisbn and bookpublisher:
+                isbook = True
+                bib += ' %s' % bookpublisher
+                if bookcity:
+                    bib += ', %s' % bookcity
+                if bookisbn:
+                    bib += ' ISBN: %s' % bookisbn
             else:
                 exception = True
             if doi:
@@ -269,6 +280,10 @@ for f in faculty:
                 else:
                     bibentries.append(entry)
                     title_lookup[title] = bib
+            elif isbook:
+                nbooks += 1
+                entry = (year, bib)
+                bibentries.append(entry)
             elif iseditedvolume:
                 neditedvolumes += 1
                 entry = (year, bib)
@@ -314,6 +329,7 @@ print('nexceptions    = %d' % nexceptions)
 print('nduplicates    = %d' % nduplicates)
 print('ninpress       = %d' % ninpress)
 print('nchapters      = %d' % nchapters)
+print('nbooks         = %d' % nbooks)
 print('neditedvolumes = %d' % neditedvolumes)
 print('ngood          = %d' % ngood)
 
