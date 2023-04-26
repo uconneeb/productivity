@@ -557,5 +557,53 @@
         "bpage": "1108",
         "epage": "1113",
         "article": null
-    }
+    },
+    {
+        "ignore": false,
+        "authors": "A Chao, TC Hsieh, <RL Chazdon>, <RK Colwell>, NJ Gotelli",
+        "year": 2015,
+        "title": "Unveiling the species-rank abundance distribution by generalizing the Good-Turing sample coverage theory",
+        "citation_id": "8266943199347615849",
+        "url": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Chao%2C+A.%2C+T.+C.+Hsieh%2C+R.+L.+Chazdon%2C+R.+K.+Colwell%2C+and+N.+J.+Gotelli.+2015.+Unveiling+the+species-+rank+abundance+distribution+by+generalizing+the+Good-Turing+sample+coverage+theory.+Ecology+96%3A1189–1201.&btnG=",
+        "doi": "10.1890/14-0550.1",
+        "ncites": 103,
+        "journal": "Ecology",
+        "volume": "96",
+        "number": "5",
+        "bpage": "1189",
+        "epage": "1201",
+        "article": null
+    },
+    {
+        "ignore": false,
+        "authors": "TF Rangel, <RK Colwell>, GR Graves, K Fu\u010d\u00edkov\u00e1, C Rahbek, JAF Diniz-Filho",
+        "year": 2015,
+        "title": "Phylogenetic uncertainty revisited: implications for ecological analyses",
+        "citation_id": "13931999156524818433",
+        "url": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Rangel%2C+T.+F.%2C+R.+K.+Colwell%2C+G.+R.+Graves%2C+K.+Fučíková%2C+C.+Rahbek%2C+and+J.+A.+F.+Diniz-Filho.+2015.+Phylogenetic+uncertainty+revisited%3A+Implications+for+ecological+analyses.+Evolution+69%3A1301-1312.&btnG=",
+        "doi": "10.1111/evo.12644",
+        "ncites": 99,
+        "journal": "Evolution",
+        "volume": "69",
+        "number": "5",
+        "bpage": "1301",
+        "epage": "1312",
+        "article": null
+    },
+    {
+        "ignore": false,
+        "authors": "JWF Slik, V Arroyo-Rodr\u00edguez, S Aiba, P Alvarez-Loayza, LF Alves, P Ashton, P Balvanera, ML Bastian, PJ Bellingham, Evd Berg, L Bernacci, PdC Bispo, L Blanc, K B\u00f6hning-Gaese, P Boeckx, F Bongers, B Boyle, M Bradford, FQ Brearley, MB Hockemba, S Bunyavejchewin, DCL Matos, M Castillo-Santiago, ELM Catharino, S Chai, Y Chen, RK Colwell, RL Chazdon, C Clark, DB Clark, DA Clark, H Culmsee, K Damas, HS Dattaraja, G Dauby, P Davidar, SJ DeWalt, J Doucet, A Duque, G Durigan, KAO Eichhorn, PV Eisenlohr, E Eler, C Ewango, N Farwig, KJ Feeley, L Ferreira, R Field, ATd Oliveira, C Fletcher, O Forshed, G Franco, G Fredriksson, T Gillespie, J Gillet, G Amarnath, DM Griffith, J Grogan, N Gunatilleke, D Harris, R Harrison, A Hector, J Homeier, N Imai, A Itoh, PA Jansen, CA Joly, BHJ de, K Kartawinata, E Kearsley, DL Kelly, D Kenfack, M Kessler, K Kitayama, R Kooyman, E Larney, Y Laumonier, S Laurance, WF Laurance, MJ Lawes, ILd Amaral, SG Letcher, J Lindsell, X Lu, A Mansor, A Marjokorpi, EH Martin, H Meilby, FPL Melo, DJ Metcalfe, VP Medjibe, JP Metzger, J Millet, D Mohandass, JC Montero, MdM Valeriano, B Mugerwa, H Nagamasu, R Nilus, S Ochoa-Gaona, Onrizal, N Page, P Parolin, M Parren, N Parthasarathy, E Paudel, A Permana, MTF Piedade, NCA Pitman, L Poorter, AD Poulsen, J Poulsen, J Powers, RC Prasad, J Puyravaud, J Razafimahaimodison, J Reitsma, JRd Santos, WR Spironello, H Romero-Saltos, F Rovero, AH Rozak, K Ruokolainen, E Rutishauser, F Saiter, P Saner, BA Santos, F Santos, SK Sarker, M Satdichanh, CB Schmitt, J Sch\u00f6ngart, M Schulze, MS Suganuma, D Sheil, EdS Pinheiro, P Sist, T Stevart, R Sukumar, I Sun, T Sunderland, HS Suresh, E Suzuki, M Tabarelli, J Tang, N Targhetta, I Theilade, DW Thomas, P Tchouto, J Hurtado, R Valencia, JLC H., TV Do, R Vasquez, H Verbeeck, V Adekunle, SA Vieira, CO Webb, T Whitfeld, SA Wich, J Williams, F Wittmann, H W\u00f6ll, X Yang, CYA Yao, SL Yap, T Yoneda, RA Zahawi, R Zakaria, R Zang, RLd Assis, BG Luize, aEM Venticinque",
+        "year": 2015,
+        "title": "An estimate of the number of tropical tree species",
+        "citation_id": "2096285326774461148",
+        "url": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Slik%2C+J.+F.%2C...%2C+R.+K.+Colwell%2C+and+147+additional+authors.+2015.+An+estimate+of+the+number+of+tropical+tree+species.+Proceedings+of+the+National+Academy+of+Sciences+112%3A7472-7477.&btnG=",
+        "doi": "10.1073/pnas.1423147112",
+        "ncites": 384,
+        "journal": "Proceedings of the National Academy of Sciences",
+        "volume": "112",
+        "number": "24",
+        "bpage": "7472",
+        "epage": "7477",
+        "article": null
+    }    
 ]
