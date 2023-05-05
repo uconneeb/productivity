@@ -1,4 +1,4 @@
-import json, sys, re
+import json, sys, re, sys
 
 starting_year = 2015
 
@@ -26,6 +26,7 @@ faculty = [
     'LewisL',
     'LewisP',
     'Les',
+    'Likens',
     'Schlichting',
     'Schultz',
     'Schwenk',
@@ -68,6 +69,7 @@ filepaths = {
     'LewisL':        'Louise-Lewis-final.json',
     'LewisP':        'Paul-Lewis-final.json',
     'Les':           'Donald-Les-final.json',
+    'Likens':        'Gene-Likens-final.json',
     'Schlichting':   'Carl-Schlichting-final.json',
     'Schultz':       'Eric-Schultz-final.json',
     'Schwenk':       'Kurt-Schwenk-final.json',
@@ -316,6 +318,11 @@ for f in faculty:
                     
 exceptf.close()
 dupf.close()
+
+#for (y,b) in bibentries:
+#    print(y)
+#    #if '<' in b:
+#    #    print('\n~~~~~\n%s\n~~~~~\n' % b)
 
 bibentries.sort()
 
