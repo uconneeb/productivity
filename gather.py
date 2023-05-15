@@ -347,6 +347,7 @@ ninpress = 0
 narticles = 0
 nbooks = 0
 nchapters = 0
+ncites_dept = 0
 neditedvolumes = 0
 bibentries = []
 titles_seen = {}
@@ -418,6 +419,9 @@ for f in chosen_ones:
                 already_seen = True
             else:
                 titles_seen[title] = f
+                
+            if ncites is not None and not already_seen:
+                ncites_dept += ncites
             
             # Construct bibliography string
             yearless = False
@@ -564,6 +568,16 @@ print('\nCitation counts:')
 counts = []
 for k in person_counts.keys():
     counts.append((person_counts[k]['cites'], k))
+counts.sort()
+counts.reverse()
+for c,p in counts:
+    print('%6d %s' % (c,p))
+print('Total number of citations (avoiding overcounting): %d' % ncites_dept)
+
+print('\nCitations/paper:')
+counts = []
+for k in person_counts.keys():
+    counts.append((float(person_counts[k]['cites'])/person_counts[k]['works'], k))
 counts.sort()
 counts.reverse()
 for c,p in counts:
