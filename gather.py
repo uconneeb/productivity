@@ -2,6 +2,45 @@ import json, sys, re, sys
 
 starting_year = 2015
 
+# Words in journal titles that should be left as-is and not capitalized (or decapitalized)
+journal_asis = [
+    'and', 
+    'in', 
+    'on', 
+    'of', 
+    'the',
+    'for',
+    'et',
+    'de',
+    'del',
+    'as',
+    'la',
+    'der',
+    'ACS',
+    'BioScience',
+    'MBio',
+    'ISME',
+    'PLoS',
+    'PeerJ',
+    'BMC',
+    'della',
+    'SORT-Statistics',
+    '(Punta',
+    'Arenas)',
+    'DNA',
+    'Asia-Pacific',
+    'SSAR',
+    'IAWA',
+    'USA',
+    'KIOES',
+    'Socio-Ecological',
+    'ZooKeys',
+    'F1000Research',
+    'GigaScience'
+]        
+
+# Authors with surnames identical to EEB faculty members who should be 
+# ignored when searching for EEB faculty names in author lists        
 authors_like_faculty = [
     'RR Colwell',
     'C Anderson',
@@ -220,34 +259,6 @@ def checkJournalNames(journalf, journal):
     if journal is None:
         return None
         
-    journal_asis = [
-        'and', 
-        'in', 
-        'of', 
-        'the',
-        'for',
-        'et',
-        'de',
-        'del',
-        'as',
-        'la',
-        'ACS',
-        'BioScience',
-        'MBio',
-        'ISME',
-        'PLoS',
-        'PeerJ',
-        'BMC',
-        'della',
-        'SORT-Statistics',
-        '(Punta',
-        'Arenas)',
-        'DNA',
-        'Asia-Pacific',
-        'SSAR',
-        'IAWA'
-    ]        
-        
     diff = ord('a') - ord('A')
     ordA = ord('A')
     ordZ = ord('Z')
@@ -256,12 +267,18 @@ def checkJournalNames(journalf, journal):
     jvect = []
     jparts = journal.strip().split(' ')
     for jpart in jparts:
+        comma = False
+        m = re.match('(.+),', jpart)
+        if m is not None:
+            comma = True
+            jpart = m.group(1)
         if jpart == '&':
-            jvect.append('and')
+            jpart = 'and'
         elif not jpart in journal_asis:
-            jvect.append(jpart.capitalize())
-        else:
-            jvect.append(jpart)
+            jpart = jpart.capitalize()
+        if comma:
+            jpart += ','
+        jvect.append(jpart)
         
     journal2 = ' '.join(jvect)
     ok = journal == journal2
