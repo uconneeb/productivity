@@ -161,7 +161,7 @@
     },
     {
         "ignore": false,
-        "authors": "AF Sanborn, DC Marshall, MS Moulds, S Puissant, C Simon",
+        "authors": "AF Sanborn, DC Marshall, MS Moulds, S Puissant, <C Simon>",
         "year": 2020,
         "title": "Redefinition of the cicada tribe Hemidictyini Distant, 1905, status of the tribe Iruanini Boulard, 1993 rev. stat., and the establishment of Hovanini n. tribe and Sapantangini n. tribe (Hemiptera: Cicadidae)",
         "citation_id": "jSdi-YIAAAAJ:5ugPr518TE4C",
@@ -177,7 +177,7 @@
     },
     {
         "ignore": false,
-        "authors": "C Simon, ERL Gordon, MS Moulds, JA Cole, D Haji, AR Lemmon, M Kortyna, K Nazario, EJ Wade, RC Meister, G Goemans, SM Chiswell, P Pessacq, C Veloso, JP McCutcheon, P \u0141ukasik",
+        "authors": "<C Simon>, ERL Gordon, MS Moulds, JA Cole, D Haji, AR Lemmon, M Kortyna, K Nazario, EJ Wade, RC Meister, G Goemans, SM Chiswell, P Pessacq, C Veloso, JP McCutcheon, P \u0141ukasik",
         "year": 2019,
         "title": "Off-target capture data, endosymbiont genes and morphology reveal a relict lineage that is sister to all other singing cicadas",
         "citation_id": "jSdi-YIAAAAJ:1qzjygNMrQYC",
@@ -209,7 +209,7 @@
     },
     {
         "ignore": false,
-        "authors": "GR Boyce, E Gluck-Thaler, JC Slot, JE Stajich, WJ Davis, TY James, <JR Cooley>, DG Panaccione, J Eilenberg, H De Fine Licht, AM Macias, MC Berger, KL Wickert, CM Stauder, EJ Spahr, MD Maust, AM Metheny, <C Simon>, G Kritsky, KT Hodge, RA Humber, T Gullion, DPG Short, T Kijimoto, D Mozgai, N Arguedas, and MT Kasson",
+        "authors": "GR Boyce, E Gluck-Thaler, JC Slot, JE Stajich, WJ Davis, TY James, <JR Cooley>, DG Panaccione, J Eilenberg, H De Fine Licht, AM Macias, MC Berger, KL Wickert, CM Stauder, EJ Spahr, MD Maust, AM Metheny, <C Simon>, G Kritsky, KT Hodge, RA Humber, T Gullion, DPG Short, T Kijimoto, D Mozgai, N Arguedas, MT Kasson",
         "year": 2019,
         "title": "Psychoactive plant-and mushroom-associated alkaloids from two behavior modifying cicada pathogens",
         "citation_id": "jSdi-YIAAAAJ:08ZZubdj9fEC",
@@ -273,7 +273,7 @@
     },
     {
         "ignore": false,
-        "authors": "MA Campbell, P \u0141ukasik, MC Meyer, M Buckner, C Simon, C Veloso, A Michalik, JP McCutcheon",
+        "authors": "MA Campbell, P \u0141ukasik, MC Meyer, M Buckner, <C Simon>, C Veloso, A Michalik, JP McCutcheon",
         "year": 2018,
         "title": "Changes in endosymbiont complexity drive host-level compensatory adaptations in cicadas",
         "citation_id": "jSdi-YIAAAAJ:K3LRdlH-MEoC",
@@ -513,7 +513,7 @@
     },
     {
         "ignore": false,
-        "authors": "BW Price, EL Allan, K Marathe, V Sakar, C Simon, K Kunte",
+        "authors": "BW Price, EL Allan, K Marathe, V Sakar, <C Simon>, K Kunte",
         "year": 2016,
         "title": "The cicadas (Hemiptera: Cicadidae) of India, Bangladesh, Bhutan, Myanmar, Nepal and Sri Lanka: an annotated provisional catalogue, regional checklist and bibliography",
         "citation_id": "jSdi-YIAAAAJ:hMod-77fHWUC",
@@ -577,7 +577,7 @@
     },
     {
         "ignore": false,
-        "authors": "T Koyama, H Ito, S Kakishima, J Yoshimura, JR Cooley, C Simon, T Sota",
+        "authors": "T Koyama, H Ito, S Kakishima, J Yoshimura, <JR Cooley>, <C Simon>, T Sota",
         "year": 2015,
         "title": "Geographic body size variation in the periodical cicadas Magicicada: implications for life cycle divergence and local adaptation",
         "citation_id": "jSdi-YIAAAAJ:bEWYMUwI8FkC",

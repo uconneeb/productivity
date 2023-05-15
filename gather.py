@@ -2,6 +2,51 @@ import json, sys, re, sys
 
 starting_year = 2015
 
+authors_like_faculty = [
+    'RR Colwell',
+    'C Anderson',
+    'CD Anderson',
+    'DL Anderson',
+    'E Anderson',
+    'J Anderson',
+    'M Anderson',
+    'MKJ Anderson',
+    'RL Anderson',
+    'RM Anderson',
+    'T Anderson',
+    'TJ Anderson',
+    'SE Bush',
+    'AM Cooley',
+    'JE Cooley',
+    'CJ Davis', 
+    'D Davis',   
+    'DA Davis',   
+    'DR Davis', 
+    'KE Davis',  
+    'JI Davis',
+    'JM Davis',
+    'JP Davis',
+    'WJ Davis',
+    'N Henry',
+    'WJ Henry',
+    'AT Jones',
+    'AW Jones',
+    'FA Jones',
+    'FAM Jones',
+    'TH Jones',
+    'AM Les',
+    'FH Wagner',
+    'DM Wagner',
+    'M Wagner',
+    'V Wagner',
+    'CB Schultz',
+    'A Simon',
+    'MF Simon',
+    'B Wells',
+    'Z Yuan'
+]
+
+singleton = None #['Bagchi']
 faculty = [
     'Anderson',
     'Bagchi',
@@ -91,29 +136,141 @@ filepaths = {
 def updateCounts(authors):
     global person_counts
     if authors is None:
-        return
-        
+        return (False, None)
+    
+    # Split the authors list at the commas
     author_list = authors.split(',')
+    
     for a in author_list:
-        m = re.match('<(.+)>', a.strip())
+        astripped = a.strip();
+        m = re.match('<(.+)>', astripped)
         if m is not None:
-            eeb_author = m.group(1)
-            eeb_parts = eeb_author.split()
-            if len(eeb_parts) == 3:
-                assert eeb_parts[2] == 'Jr'
-            else:
-                assert len(eeb_parts) == 2, 'More than two parts found for EEB author "%s"' % eeb_author
-            eeb_author_key = eeb_parts[1]
-            if eeb_parts[1] == 'Lewis':
-                if eeb_parts[0] == 'L' or eeb_parts[0] == 'LA':
-                    eeb_author_key = 'LLewis'
-                elif eeb_parts[0] == 'P' or eeb_parts[0] == 'PO':
-                    eeb_author_key = 'PLewis'
+            astripped = m.group(1)
+        eeb_parts = astripped.split()
+        initials = None
+        surname = None
+        partial_surnames = ['al', 'Al', 'dalla', 'Dalla', 'da', 'Da', 'de', 'De', 'del', 'Del', 'den', 'Den', 'des', 'Des', 'di', 'Di', 'do', 'Do', 'dos', 'Dos', 'la', 'La', 'le', 'Le', 'san', 'San', 'st', 'St', 'ter', 'Ter', 'van', 'Van', 'von', 'Von']
+        if len(eeb_parts) == 5:
+            ok = False
+            if eeb_parts[1] in partial_surnames:
+                initials = eeb_parts[0]
+                surname = '%s %s %s %s' % (eeb_parts[1], eeb_parts[2], eeb_parts[3], eeb_parts[4])
+                ok = True
+            elif astripped == '(511 authors including <MR Willig>)':
+                initials = ''
+                surname = astripped
+                ok = True
+            assert ok, 'eeb_parts has length 5 but does not fall into acceptable cases: author = "%s"' % astripped
+        elif len(eeb_parts) == 4:
+            ok = False
+            if eeb_parts[1] in partial_surnames:
+                initials = eeb_parts[0]
+                surname = '%s %s %s' % (eeb_parts[1], eeb_parts[2], eeb_parts[3])
+                ok = True
+            assert ok, 'eeb_parts has length 4 but does not fall into acceptable cases: author = "%s"' % astripped
+        elif len(eeb_parts) == 3:
+            ok = False
+            if eeb_parts[2] in ['Jr', 'II', 'III']:
+                ok = True
+            elif eeb_parts[1] in partial_surnames:
+                initials = eeb_parts[0]
+                surname = '%s %s' % (eeb_parts[1], eeb_parts[2])
+                ok = True
+            elif 'D Ortega‐Del Vecchyo' == astripped:
+                initials = 'D'
+                surname = 'Ortega‐Del Vecchyo'
+                ok = True
+            assert ok, 'eeb_parts has length 3 but does not fall into acceptable cases: author = "%s" (eeb_parts[2] = "%s")' % (astripped, eeb_parts[2])
+        elif len(eeb_parts) == 2:
+            initials = eeb_parts[0]
+            surname = eeb_parts[1]
+        elif len(eeb_parts) == 1:
+            initials = ''
+            surname = eeb_parts[0]
+        elif 'et al.' in astripped:
+            initials = ''
+            surname = astripped
+        else:
+            assert False, 'Could not parse EEB author "%s"' % astripped
             
-            if eeb_author_key in person_counts.keys():
-                person_counts[eeb_author_key] += 1
+        # See if author a is marked as being an EEB faculty member
+        #m = re.match('<(.+)>', astripped)
+        if m is None:
+            # author a is NOT marked as an EEB faculty member
+            # check to make sure it is really not an EEB faculty member
+            if surname in faculty and not astripped in authors_like_faculty:
+                print('"%s" should be marked as EEB faculty?' % astripped)
+                return (True, astripped)
+        else:
+            # author a is marked as an EEB faculty member
+            if surname == 'Lewis':
+                if initials == 'L' or initials == 'LA':
+                    surname = 'LLewis'
+                elif initials == 'P' or initials == 'PO':
+                    surname = 'PLewis'
+            
+            if surname in person_counts.keys():
+                person_counts[surname] += 1
             else:
-                person_counts[eeb_author_key] = 1
+                person_counts[surname] = 1
+    
+    return (True, None)
+    
+def checkJournalNames(journalf, journal):
+    if journal is None:
+        return None
+        
+    journal_asis = [
+        'and', 
+        'in', 
+        'of', 
+        'the',
+        'for',
+        'et',
+        'de',
+        'del',
+        'as',
+        'la',
+        'ACS',
+        'BioScience',
+        'MBio',
+        'ISME',
+        'PLoS',
+        'PeerJ',
+        'BMC',
+        'della',
+        'SORT-Statistics',
+        '(Punta',
+        'Arenas)',
+        'DNA',
+        'Asia-Pacific',
+        'SSAR',
+        'IAWA'
+    ]        
+        
+    diff = ord('a') - ord('A')
+    ordA = ord('A')
+    ordZ = ord('Z')
+
+    # Create new journal name with every word capitalized
+    jvect = []
+    jparts = journal.strip().split(' ')
+    for jpart in jparts:
+        if jpart == '&':
+            jvect.append('and')
+        elif not jpart in journal_asis:
+            jvect.append(jpart.capitalize())
+        else:
+            jvect.append(jpart)
+        
+    journal2 = ' '.join(jvect)
+    ok = journal == journal2
+        
+    if not ok:
+        journalf.write('"%s" --> "%s"\n' % (journal, journal2))
+        return journal2
+        
+    return journal
 
 def dumpException(exceptf, f, a, y, t, j, v, b, e, doi):
     exceptf.write('-------- %s ---------\n' % f)
@@ -159,6 +316,7 @@ def dumpException(exceptf, f, a, y, t, j, v, b, e, doi):
         exceptf.write('doi: MISSING\n')
 
 exceptf = open('exceptions.txt', 'w')
+journalf = open('journal-issues.txt', 'w')
 dupf = open('duplicates.txt', 'w')
 nyearless = 0
 nexceptions = 0
@@ -171,16 +329,23 @@ bibentries = []
 titles_seen = {}
 title_lookup = {}
 person_counts = {}
-for f in faculty:
+
+chosen_ones = singleton
+if chosen_ones is None:
+    chosen_ones = faculty
+for f in chosen_ones:
     fn = '%s' % filepaths[f]
     print('Reading file "%s"...' % fn)
     stuff = open(fn, 'r').read()
     results = json.loads(stuff)
+    
     for result in results:
         if not result['ignore']:
             # Add to counts for EEB authors
-            updateCounts(result['authors'])
-            # Capture information in r
+            has_authors,eeb_author_not_bracketed = updateCounts(result['authors'])
+            if eeb_author_not_bracketed is not None:
+                print(result)
+                sys.exit('author "%s" needs to be bracketed' % eeb_author_not_bracketed)
             if result['authors'] is None:
                 authors = None
             else:
@@ -188,7 +353,13 @@ for f in faculty:
             year    = result['year']
             #title   = re.sub(r'\b_(.+?)_\b', r'<em>\1</em>', result['title'])
             title   = result['title']
+
             journal = result['journal']
+            good_journal_name = checkJournalNames(journalf, journal)
+            if not good_journal_name == journal:
+                print(result)
+                sys.exit('bad journal name: "%s" --> "%s"' % (journal,good_journal_name))
+
             volume  = result['volume']
             number  = result['number']
             try:
@@ -225,7 +396,7 @@ for f in faculty:
             isbook = False
             bib = ''
             if authors:
-                bib += '%s' % authors
+                bib += '%s.' % authors
             if year:
                 bib += ' %s.' % year
             else:
@@ -241,13 +412,13 @@ for f in faculty:
                 bib += ' %s (in press).' % journal
             elif authors is None and (booktitle and bookeditors and bookpublisher and bookcity and bpage and epage):
                 iseditedvolume = True
-                bib = '%s (eds.) %s. %s. %s, %s' % (bookeditors, year, booktitle, bookpublisher, bookcity)
+                bib = '%s (eds.) %s. %s. %s, %s.' % (bookeditors, year, booktitle, bookpublisher, bookcity)
             elif booktitle and bookeditors and bookpublisher and bookcity and bpage and epage:
                 ischapter = True
-                bib += ' pp. %s-%s in: %s, %s (eds.) %s, %s' % (bpage, epage, booktitle, bookeditors, bookpublisher, bookcity)
+                bib += ' pp. %s-%s in: %s, %s (eds.) %s, %s.' % (bpage, epage, booktitle, bookeditors, bookpublisher, bookcity)
             elif booktitle and bookeditors and bookpublisher and bpage and epage:
                 ischapter = True
-                bib += ' pp. %s-%s in: %s, %s (eds.) %s' % (bpage, epage, booktitle, bookeditors, bookpublisher)
+                bib += ' pp. %s-%s in: %s, %s (eds.) %s.' % (bpage, epage, booktitle, bookeditors, bookpublisher)
             elif booktitle and bookpublisher:
                 ischapter = True
                 bib += ' In: %s, %s' % (booktitle, bookpublisher)
@@ -256,17 +427,24 @@ for f in faculty:
                 bib += ' %s' % bookpublisher
                 if bookcity:
                     bib += ', %s' % bookcity
-                if bookisbn:
-                    bib += ' ISBN: %s' % bookisbn
+                else:
+                    bib += '.'
             else:
                 exception = True
             if doi:
-                bib += ' [DOI](https://doi.org/%s)' % doi
+                bib += ' [https://doi.org/%s](https://doi.org/%s)' % (doi,doi)
+            elif bookisbn:
+                bib += ' ISBN: %s.' % bookisbn
             bib += '\n'
+            
+            if not has_authors:
+                nexceptions += 1
+                dumpException(exceptf, f, 'NO AUTHORS!', year, title, journal, volume, bpage, epage, doi)
 
             # Save in bibentries list
             if yearless:
                 nyearless += 1
+                nexceptions += 1
                 dumpException(exceptf, f, authors, year, title, journal, volume, bpage, epage, doi)
             elif exception:
                 nexceptions += 1
@@ -318,11 +496,7 @@ for f in faculty:
                     
 exceptf.close()
 dupf.close()
-
-#for (y,b) in bibentries:
-#    print(y)
-#    #if '<' in b:
-#    #    print('\n~~~~~\n%s\n~~~~~\n' % b)
+journalf.close()
 
 bibentries.sort()
 

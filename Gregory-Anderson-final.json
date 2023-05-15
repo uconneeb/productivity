@@ -17,7 +17,7 @@
     },
     {
         "ignore": false,
-        "authors": "DJ Crawford, <GJ Anderson>, LB Silva, MM de Sequeira, M Moura, A Santos-Guerra, JK Kelly and ME Mort",
+        "authors": "DJ Crawford, <GJ Anderson>, LB Silva, MM de Sequeira, M Moura, A Santos-Guerra, JK Kelly, ME Mort",
         "year": 2015,
         "title": "Breeding systems in _Tolpis_ (Asteraceae) in the Macaronesian islands: the Azores, Madeira and the Canaries",
         "citation_id": "pH6mu0sAAAAJ:bKqednn6t2AC",
@@ -40,7 +40,7 @@
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pH6mu0sAAAAJ&sortby=pubdate&citation_for_view=pH6mu0sAAAAJ:DJbcl8HfkQkC",
         "doi": ".1186/s12864-016-2656-8",
         "ncites": 18,
-        "journal": "BMC genomics",
+        "journal": "BMC Genomics",
         "volume": "17",
         "number": null,
         "bpage": "1",
@@ -260,7 +260,7 @@
     },
     {
         "ignore": false,
-        "authors": "<GJ Anderson>, J P\u00e9rez De Paz, M Anderson, G Bernardello, DW Taylor",
+        "authors": "<GJ Anderson>, JP De Paz, M Anderson, G Bernardello, DW Taylor",
         "year": 2021,
         "title": "A leaky dimorphic sexual system and breeding system characterize a successful island colonist: the reproductive biology of _Plocama pendula_ (Rubiaceae)",
         "citation_id": "pH6mu0sAAAAJ:-mN3Mh-tlDkC",
@@ -292,7 +292,7 @@
     },
     {
         "ignore": false,
-        "authors": "CB Fenster, <GJ Anderson>, MR Berenbaum, JE Burris, JP Collins, RR Colwell, J Cracraft, AP Covich, PR Ehrlich, WH Eshbaugh, FC James, DJ Futuyma, KE Holsinger, GE Likens, TE Lovejoy, HA Mooney, PH Raven, KC Smith, SG Stafford, BR Strain, J Travis, MH Wake, DH Wall, JS Weis",
+        "authors": "CB Fenster, <GJ Anderson>, MR Berenbaum, JE Burris, JP Collins, RR Colwell, J Cracraft, AP Covich, PR Ehrlich, WH Eshbaugh, FC James, DJ Futuyma, <KE Holsinger>, <GE Likens>, TE Lovejoy, HA Mooney, PH Raven, KC Smith, SG Stafford, BR Strain, J Travis, MH Wake, DH Wall, JS Weis",
         "year": 2021,
         "title": "A call to action: marshaling science for society",
         "citation_id": "pH6mu0sAAAAJ:yxmsSjX2EkcC",

@@ -65,7 +65,7 @@
     },
     {
         "ignore": false,
-        "authors": "VJ Pasquarella, JG Mickley, A Barker Plotkin, RG MacLean, RM Anderson, LM Brownp, DM Wagner, MS Singer, <R Bagchi>",
+        "authors": "VJ Pasquarella, JG Mickley, AB Plotkin, RG MacLean, RM Anderson, LM Brownp, DM Wagner, MS Singer, <R Bagchi>",
         "year": 2021,
         "title": "Predicting defoliator abundance and defoliation measurements using Landsat\u2010based condition scores",
         "citation_id": "bIbzgcwAAAAJ:3A3nxV7CjKIC",
@@ -193,7 +193,7 @@
     },
     {
         "ignore": false,
-        "authors": "JG Mickley, TE Moore, CD Schlichting, A DeRobertis, EN Pfisterer, <R Bagchi>",
+        "authors": "JG Mickley, TE Moore, <CD Schlichting>, A DeRobertis, EN Pfisterer, <R Bagchi>",
         "year": 2019,
         "title": "Measuring microenvironments for global change: DIY environmental microcontroller units (EMUs)",
         "citation_id": "bIbzgcwAAAAJ:KTwcwpFFj4wC",
@@ -225,7 +225,7 @@
     },
     {
         "ignore": false,
-        "authors": "TE Moore, <R Bagchi>, ME Aiello\u2010Lammens, CD Schlichting",
+        "authors": "TE Moore, <R Bagchi>, ME Aiello\u2010Lammens, <CD Schlichting>",
         "year": 2018,
         "title": "Spatial autocorrelation inflates niche breadth\u2013range size relationships",
         "citation_id": "bIbzgcwAAAAJ:3_LpOwP6eMYC",
@@ -241,7 +241,7 @@
     },
     {
         "ignore": false,
-        "authors": "<R Bagchi>, LM Brown, <CS Elphick>, DL Wagner, MS Singer",
+        "authors": "<R Bagchi>, LM Brown, <CS Elphick>, <DL Wagner>, MS Singer",
         "year": 2018,
         "title": "Anthropogenic fragmentation of landscapes: mechanisms for eroding the specificity of plant\u2013herbivore interactions",
         "citation_id": "bIbzgcwAAAAJ:H7nrzBkawXsC",
@@ -257,7 +257,7 @@
     },
     {
         "ignore": false,
-        "authors": "<R Bagchi>, V Swamy, JP Latorre Farfan, J Terborgh, CIA Vela, NCA Pitman, WG Sanchez",
+        "authors": "<R Bagchi>, V Swamy, JPL Farfan, J Terborgh, CIA Vela, NCA Pitman, WG Sanchez",
         "year": 2018,
         "title": "Defaunation increases the spatial clustering of lowland Western Amazonian tree communities",
         "citation_id": "bIbzgcwAAAAJ:yeL6HyUMUGUC",
@@ -327,7 +327,7 @@
         "citation_id": "bIbzgcwAAAAJ:_tF6a-HnqWAC",
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bIbzgcwAAAAJ&cstart=20&sortby=pubdate&citation_for_view=bIbzgcwAAAAJ:_tF6a-HnqWAC",
         "doi": "10.1002/ece3.1469",
-        "journal": "Ecology and evolution",
+        "journal": "Ecology and Evolution",
         "volume": "5",
         "number": "9",
         "bpage": "1794",

@@ -181,7 +181,7 @@
     },
     {
         "ignore": false,
-        "authors": "H Razifard, DH Les, GC Tucker",
+        "authors": "H Razifard, <DH Les>, GC Tucker",
         "year": 2017,
         "title": "Reticulate evolution in _Elatine_ L.(Elatinaceae), a predominantly autogamous genus of aquatic plants",
         "citation_id": "jMNpedUAAAAJ:L7CI7m0gUJcC",
@@ -220,7 +220,7 @@
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jMNpedUAAAAJ&sortby=pubdate&citation_for_view=jMNpedUAAAAJ:AvfA0Oy_GE0C",
         "doi": "10.1007/s12225-016-9663-4",
         "ncites": null,
-        "journal": "Kew bulletin",
+        "journal": "Kew Bulletin",
         "volume": "72",
         "number": null,
         "bpage": "1",
@@ -309,7 +309,7 @@
     },
     {
         "ignore": false,
-        "authors": "TG Ross, CF Barrett, M Soto Gomez, VKY Lam, CL Henriquez, <DH Les>, JI Davis, A Cuenca, G Petersen, O Seberg, M Thadeo, TJ Givnish, J Conran, DW Stevenson, SW Graham",
+        "authors": "TG Ross, CF Barrett, MS Gomez, VKY Lam, CL Henriquez, <DH Les>, JI Davis, A Cuenca, G Petersen, O Seberg, M Thadeo, TJ Givnish, J Conran, DW Stevenson, SW Graham",
         "year": 2016,
         "title": "Plastid phylogenomics and molecular evolution of Alismatales",
         "citation_id": "jMNpedUAAAAJ:evX43VCCuoAC",

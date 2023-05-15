@@ -198,7 +198,7 @@
     },
     {
         "ignore": false,
-        "authors": "JP Bernot, JN Caira",
+        "authors": "JP Bernot, <JN Caira>",
         "year": 2019,
         "title": "Site specificity and attachment mode of _Symcallio_ and _Calliobothrium_ species (Cestoda:\u201cTetraphyllidea\u201d) in smoothhound sharks of the genus _Mustelus_ (Carcharhiniformes: Triakidae)",
         "citation_id": "Zqrk9dIAAAAJ:LjlpjdlvIbIC",
@@ -365,7 +365,7 @@
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Zqrk9dIAAAAJ&sortby=pubdate&citation_for_view=Zqrk9dIAAAAJ:Fu2w8maKXqMC",
         "doi": "10.1371/journal.pone.0244586",
         "ncites": 4,
-        "journal": "Plos one",
+        "journal": "PLoS One",
         "volume": "16",
         "number": "1",
         "bpage": null,
@@ -422,7 +422,7 @@
     },
     {
         "ignore": false,
-        "authors": "K Jensen, IA PEN, JN Caira",
+        "authors": "K Jensen, IA PEN, <JN Caira>",
         "year": 2021,
         "title": "A revision of the Rhoptrobothriidae (Cestoda:\u201cTetraphyllidea\u201d)",
         "citation_id": "Zqrk9dIAAAAJ:ZfRJV9d4-WMC",
