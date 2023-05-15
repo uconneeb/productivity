@@ -13,7 +13,7 @@
         "bpage": null,
         "epage": null,
         "article": "e09402",
-        "ncites": "0"
+        "ncites": 0
     },
     {
         "ignore": false,
@@ -29,7 +29,7 @@
         "bpage": "248",
         "epage": "260",
         "article": null,
-        "ncites": "0"
+        "ncites": 0
     },
     {
         "ignore": false,
@@ -45,7 +45,7 @@
         "bpage": "2615",
         "epage": "2627",
         "article": null,
-        "ncites": "3"
+        "ncites": 3
     },
     {
         "ignore": false,
@@ -61,7 +61,7 @@
         "bpage": null,
         "epage": null,
         "article": "810010",
-        "ncites": "0"
+        "ncites": 0
     },
     {
         "ignore": false,
@@ -77,7 +77,7 @@
         "bpage": "592",
         "epage": "609",
         "article": null,
-        "ncites": "7"
+        "ncites": 7
     },
     {
         "ignore": false,
@@ -93,7 +93,7 @@
         "bpage": "1800",
         "epage": "1809",
         "article": null,
-        "ncites": "21"
+        "ncites": 21
     },
     {
         "ignore": false,
@@ -109,7 +109,7 @@
         "bpage": null,
         "epage": null,
         "article": "480",
-        "ncites": "15"
+        "ncites": 15
     },
     {
         "ignore": false,
@@ -125,7 +125,7 @@
         "bpage": null,
         "epage": null,
         "article": "286",
-        "ncites": "65"
+        "ncites": 65
     },
     {
         "ignore": false,
@@ -141,7 +141,7 @@
         "bpage": null,
         "epage": null,
         "article": "88",
-        "ncites": "6"
+        "ncites": 6
     },
     {
         "ignore": false,
@@ -157,7 +157,7 @@
         "bpage": null,
         "epage": null,
         "article": "452",
-        "ncites": "9"
+        "ncites": 9
     },
     {
         "ignore": false,
@@ -173,7 +173,7 @@
         "bpage": "790",
         "epage": "793",
         "article": null,
-        "ncites": "30"
+        "ncites": 30
     },
     {
         "ignore": false,
@@ -189,7 +189,7 @@
         "bpage": null,
         "epage": null,
         "article": "20180493",
-        "ncites": "5"
+        "ncites": 5
     },
     {
         "ignore": false,
@@ -205,7 +205,7 @@
         "bpage": "578",
         "epage": "584",
         "article": null,
-        "ncites": "20"
+        "ncites": 20
     },
     {
         "ignore": false,
@@ -221,7 +221,7 @@
         "bpage": null,
         "epage": null,
         "article": "4523",
-        "ncites": "35"
+        "ncites": 35
     },
     {
         "ignore": false,
@@ -237,7 +237,7 @@
         "bpage": "1426",
         "epage": "1436",
         "article": null,
-        "ncites": "26"
+        "ncites": 26
     },
     {
         "ignore": false,
@@ -253,7 +253,7 @@
         "bpage": "521",
         "epage": "533",
         "article": null,
-        "ncites": "45"
+        "ncites": 45
     },
     {
         "ignore": false,
@@ -269,7 +269,7 @@
         "bpage": "1470",
         "epage": "1482",
         "article": null,
-        "ncites": "36"
+        "ncites": 36
     },
     {
         "ignore": false,
@@ -285,7 +285,7 @@
         "bpage": "401",
         "epage": "413",
         "article": null,
-        "ncites": "13"
+        "ncites": 13
     },
     {
         "ignore": false,
@@ -301,7 +301,7 @@
         "bpage": "154",
         "epage": "158",
         "article": null,
-        "ncites": "12"
+        "ncites": 12
     },
     {
         "ignore": false,
@@ -317,7 +317,7 @@
         "bpage": "153",
         "epage": "165",
         "article": null,
-        "ncites": "26"
+        "ncites": 26
     },
     {
         "ignore": false,
@@ -333,7 +333,7 @@
         "bpage": "1794",
         "epage": "1801",
         "article": null,
-        "ncites": "39"
+        "ncites": 39
     },
     {
         "ignore": false,
@@ -349,7 +349,7 @@
         "bpage": "482",
         "epage": "490",
         "article": null,
-        "ncites": "18"
+        "ncites": 18
     },
     {
         "ignore": false,
@@ -365,6 +365,6 @@
         "bpage": "49",
         "epage": "58",
         "article": null,
-        "ncites": "24"
+        "ncites": 24
     }
 ]

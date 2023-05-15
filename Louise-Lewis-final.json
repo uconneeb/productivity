@@ -13,7 +13,7 @@
         "bpage": "99",
         "epage": "109",
         "article": null,
-        "ncites": "0"
+        "ncites": 0
     },
     {
         "ignore": false,
@@ -29,7 +29,7 @@
         "bpage": "939",
         "epage": "951",
         "article": null,
-        "ncites": "0"
+        "ncites": 0
     },
     {
         "ignore": false,
@@ -45,7 +45,7 @@
         "bpage": "299",
         "epage": "311",
         "article": null,
-        "ncites": "3"
+        "ncites": 3
     },
     {
         "ignore": false,
@@ -61,7 +61,7 @@
         "bpage": null,
         "epage": null,
         "article": "1740",
-        "ncites": "5"
+        "ncites": 5
     },
     {
         "ignore": false,
@@ -77,7 +77,7 @@
         "bpage": null,
         "epage": null,
         "article": "evab101",
-        "ncites": "9"
+        "ncites": 9
     },
     {
         "ignore": false,
@@ -93,7 +93,7 @@
         "bpage": null,
         "epage": null,
         "article": "313",
-        "ncites": "36"
+        "ncites": 36
     },
     {
         "ignore": false,
@@ -109,7 +109,7 @@
         "bpage": "770",
         "epage": "782",
         "article": null,
-        "ncites": "9"
+        "ncites": 9
     },
     {
         "ignore": false,
@@ -125,7 +125,7 @@
         "bpage": null,
         "epage": null,
         "article": "344",
-        "ncites": "26"
+        "ncites": 26
     },
     {
         "ignore": false,
@@ -141,7 +141,7 @@
         "bpage": "25",
         "epage": "32",
         "article": null,
-        "ncites": "9"
+        "ncites": 9
     },
     {
         "ignore": false,
@@ -157,7 +157,7 @@
         "bpage": "387",
         "epage": "393",
         "article": null,
-        "ncites": "12"
+        "ncites": 12
     },
     {
         "ignore": false,
@@ -173,7 +173,7 @@
         "bpage": null,
         "epage": null,
         "article": "e6899",
-        "ncites": "18"
+        "ncites": 18
     },
     {
         "ignore": false,
@@ -189,7 +189,7 @@
         "bpage": "239",
         "epage": "243",
         "article": null,
-        "ncites": "4"
+        "ncites": 4
     },
     {
         "ignore": false,
@@ -205,7 +205,7 @@
         "bpage": "744",
         "epage": "754",
         "article": null,
-        "ncites": "8"
+        "ncites": 8
     },
     {
         "ignore": false,
@@ -221,7 +221,7 @@
         "bpage": "1",
         "epage": "2",
         "article": null,
-        "ncites": "5"
+        "ncites": 5
     },
     {
         "ignore": false,
@@ -237,7 +237,7 @@
         "bpage": null,
         "epage": null,
         "article": "5451",
-        "ncites": "181"
+        "ncites": 181
     },
     {
         "ignore": false,
@@ -253,7 +253,7 @@
         "bpage": "315",
         "epage": "329",
         "article": null,
-        "ncites": "12"
+        "ncites": 12
     },
     {
         "ignore": false,
@@ -269,7 +269,7 @@
         "bpage": "9759",
         "epage": "9760",
         "article": null,
-        "ncites": "10"
+        "ncites": 10
     },
     {
         "ignore": false,
@@ -285,7 +285,7 @@
         "bpage": "100",
         "epage": "112",
         "article": null,
-        "ncites": "25"
+        "ncites": 25
     },
     {
         "ignore": false,
@@ -301,7 +301,7 @@
         "bpage": "279",
         "epage": "302",
         "article": null,
-        "ncites": "3"
+        "ncites": 3
     },
     {
         "ignore": false,
@@ -317,7 +317,7 @@
         "bpage": "1755",
         "epage": "1767",
         "article": null,
-        "ncites": "12"
+        "ncites": 12
     },
     {
         "ignore": false,
@@ -333,7 +333,7 @@
         "bpage": "329",
         "epage": "353",
         "article": null,
-        "ncites": "25"
+        "ncites": 25
     },
     {
         "ignore": false,
@@ -349,7 +349,7 @@
         "bpage": "1009",
         "epage": "1023",
         "article": null,
-        "ncites": "31"
+        "ncites": 31
     },
     {
         "ignore": false,
@@ -365,7 +365,7 @@
         "bpage": "585",
         "epage": "601",
         "article": null,
-        "ncites": "3"
+        "ncites": 3
     },
     {
         "ignore": false,
@@ -381,7 +381,7 @@
         "bpage": "203",
         "epage": "216",
         "article": null,
-        "ncites": "17"
+        "ncites": 17
     },
     {
         "ignore": false,
@@ -397,7 +397,7 @@
         "bpage": "865",
         "epage": "875",
         "article": null,
-        "ncites": "23"
+        "ncites": 23
     },
     {
         "ignore": false,
@@ -413,7 +413,7 @@
         "bpage": "176",
         "epage": "183",
         "article": null,
-        "ncites": "43"
+        "ncites": 43
     },
     {
         "ignore": false,
@@ -429,7 +429,7 @@
         "bpage": "1172",
         "epage": "1188",
         "article": null,
-        "ncites": "21"
+        "ncites": 21
     },
     {
         "ignore": false,
@@ -445,7 +445,7 @@
         "bpage": "477",
         "epage": "492",
         "article": null,
-        "ncites": "46"
+        "ncites": 46
     },
     {
         "ignore": false,
@@ -461,7 +461,7 @@
         "bpage": "571",
         "epage": "589",
         "article": null,
-        "ncites": "64"
+        "ncites": 64
     },
     {
         "ignore": false,
@@ -477,7 +477,7 @@
         "bpage": "274",
         "epage": "284",
         "article": null,
-        "ncites": "18"
+        "ncites": 18
     },
     {
         "ignore": false,
@@ -493,6 +493,6 @@
         "bpage": null,
         "epage": null,
         "article": "558",
-        "ncites": "-1"
+        "ncites": null
     }
 ]

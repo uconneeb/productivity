@@ -92,7 +92,7 @@
         "bpage": "176",
         "epage": "185",
         "article": null,
-        "ncites": "12",
+        "ncites": 12,
         "citation_id": "9472246291313453771"
     },
     {
@@ -124,7 +124,7 @@
         "bpage": null,
         "epage": null,
         "article": "e1224",
-        "ncites": "19",
+        "ncites": 19,
         "citation_id": "2218933135096655639"
     },
     {
@@ -156,7 +156,7 @@
         "bpage": null,
         "epage": null,
         "article": "5",
-        "ncites": "7",
+        "ncites": 7,
         "citation_id": "10523503589444318310"
     },
     {
@@ -172,7 +172,7 @@
         "bpage": "274",
         "epage": "288",
         "article": null,
-        "ncites": "68",
+        "ncites": 68,
         "citation_id": "7531666539890455195"
     },
     {
@@ -476,7 +476,7 @@
         "bpage": "874",
         "epage": "884",
         "article": null,
-        "ncites": "6",
+        "ncites": 6,
         "citation_id": "3177733725159335343"
     },
     {
@@ -813,7 +813,7 @@
         "bpage": "168",
         "epage": "180",
         "article": null,
-        "ncites": "9",
+        "ncites": 9,
         "citation_id": "8487703414450702815"
     },
     {

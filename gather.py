@@ -172,7 +172,7 @@ filepaths = {
     'Yuan':          'Yaowu-Yuan-final.json'
 }
 
-def updateCounts(authors):
+def updateCounts(authors, ncites):
     global person_counts
     if authors is None:
         return (False, None)
@@ -249,9 +249,14 @@ def updateCounts(authors):
                     surname = 'PLewis'
             
             if surname in person_counts.keys():
-                person_counts[surname] += 1
+                person_counts[surname]['works'] += 1
+                if ncites is not None:
+                    person_counts[surname]['cites'] += ncites
             else:
-                person_counts[surname] = 1
+                if ncites is not None:
+                    person_counts[surname] = {'works':1,'cites':ncites}
+                else:
+                    person_counts[surname] = {'works':1,'cites':0}
     
     return (True, None)
     
@@ -339,6 +344,7 @@ nyearless = 0
 nexceptions = 0
 nduplicates = 0
 ninpress = 0
+narticles = 0
 nbooks = 0
 nchapters = 0
 neditedvolumes = 0
@@ -359,7 +365,16 @@ for f in chosen_ones:
     for result in results:
         if not result['ignore']:
             # Add to counts for EEB authors
-            has_authors,eeb_author_not_bracketed = updateCounts(result['authors'])
+            ncites = 0
+            try:
+                ncites = result['ncites']
+            except KeyError:
+                print(result)
+                sys.exit('No key named "ncites"');
+            if ncites is not None and not ncites.__class__.__name__ == 'int':
+                print(result)
+                sys.exit('"ncites" is not an integer');
+            has_authors,eeb_author_not_bracketed = updateCounts(result['authors'],ncites)
             if eeb_author_not_bracketed is not None:
                 print(result)
                 sys.exit('author "%s" needs to be bracketed' % eeb_author_not_bracketed)
@@ -467,7 +482,6 @@ for f in chosen_ones:
                 nexceptions += 1
                 dumpException(exceptf, f, authors, year, title, journal, volume, bpage, epage, doi)
             elif ischapter:
-                nchapters += 1
                 entry = (year, bib)
                 if already_seen:
                     nduplicates += 1
@@ -477,6 +491,7 @@ for f in chosen_ones:
                     dupf.write('Current: %s\n' % f)
                     dupf.write('~~> %s\n' % title_lookup[title])
                 else:
+                    nchapters += 1
                     bibentries.append(entry)
                     title_lookup[title] = bib
             elif isbook:
@@ -484,7 +499,6 @@ for f in chosen_ones:
                 entry = (year, bib)
                 bibentries.append(entry)
             elif iseditedvolume:
-                neditedvolumes += 1
                 entry = (year, bib)
                 if already_seen:
                     nduplicates += 1
@@ -494,6 +508,7 @@ for f in chosen_ones:
                     dupf.write('Current: %s\n' % f)
                     dupf.write('~~> %s\n' % title_lookup[title])
                 else:
+                    neditedvolumes += 1
                     bibentries.append(entry)
                     title_lookup[title] = bib
             else:
@@ -506,6 +521,7 @@ for f in chosen_ones:
                     dupf.write('Current: %s\n' % f)
                     dupf.write('~~> %s\n' % title_lookup[title])
                 else:
+                    narticles += 1
                     bibentries.append(entry)
                     title_lookup[title] = bib
             if inpress:
@@ -528,15 +544,26 @@ print('nyearless      = %d' % nyearless)
 print('nexceptions    = %d' % nexceptions)
 print('nduplicates    = %d' % nduplicates)
 print('ninpress       = %d' % ninpress)
+print('narticles      = %d' % narticles)
 print('nchapters      = %d' % nchapters)
 print('nbooks         = %d' % nbooks)
 print('neditedvolumes = %d' % neditedvolumes)
 print('ngood          = %d' % ngood)
+print('narticles + nchapters + nbooks + neditedvolumes= %d' % (narticles + nchapters + nbooks + neditedvolumes,))
 
 print('\nPerson counts:')
 counts = []
 for k in person_counts.keys():
-    counts.append((person_counts[k], k))
+    counts.append((person_counts[k]['works'], k))
+counts.sort()
+counts.reverse()
+for c,p in counts:
+    print('%6d %s' % (c,p))
+
+print('\nCitation counts:')
+counts = []
+for k in person_counts.keys():
+    counts.append((person_counts[k]['cites'], k))
 counts.sort()
 counts.reverse()
 for c,p in counts:

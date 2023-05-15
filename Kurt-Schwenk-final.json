@@ -13,7 +13,7 @@
         "bpage": "852",
         "epage": "864",
         "article": null,
-        "ncites": "1"
+        "ncites": 1
     },
     {
         "ignore": false,
@@ -29,7 +29,7 @@
         "bpage": null,
         "epage": null,
         "article": "jeb243102",
-        "ncites": "2"
+        "ncites": 2
     },
     {
         "ignore": false,
@@ -45,7 +45,7 @@
         "bpage": null,
         "epage": null,
         "article": "20211918",
-        "ncites": "9"
+        "ncites": 9
     },
     {
         "ignore": false,
@@ -61,7 +61,7 @@
         "bpage": "309",
         "epage": "317",
         "article": null,
-        "ncites": "0"
+        "ncites": 0
     },
     {
         "ignore": false,
@@ -77,7 +77,7 @@
         "bpage": "127",
         "epage": "145",
         "article": null,
-        "ncites": "5"
+        "ncites": 5
     },
     {
         "ignore": false,
@@ -93,7 +93,7 @@
         "bpage": null,
         "epage": null,
         "article": "jeb219311",
-        "ncites": "4"
+        "ncites": 4
     },
     {
         "ignore": false,
@@ -109,7 +109,7 @@
         "bpage": null,
         "epage": null,
         "article": "20192888",
-        "ncites": "9"
+        "ncites": 9
     },
     {
         "ignore": false,
@@ -130,6 +130,6 @@
         "bpage": "787",
         "epage": "814",
         "article": null,
-        "ncites": "2"
+        "ncites": 2
     }
 ]

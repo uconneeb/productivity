@@ -13,7 +13,7 @@
         "bpage": "3073",
         "epage": "3084",
         "article": null,
-        "ncites": "0"
+        "ncites": 0
     },
     {
         "ignore": false,
@@ -29,6 +29,6 @@
         "bpage": "617",
         "epage": "623",
         "article": null,
-        "ncites": "41"
+        "ncites": 41
     }
 ]
