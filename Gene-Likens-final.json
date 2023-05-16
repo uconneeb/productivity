@@ -235,7 +235,7 @@
     },
     {
         "ignore": false,
-        "authors": "D Lindenmayer et al. (68 others including <G Likens>)",
+        "authors": "D Lindenmayer, <...G Likens...68>",
         "year": 2017,
         "title": "Save Australia's ecological research",
         "citation_id": "8756617850652664750",
@@ -251,7 +251,7 @@
     },
     {
         "ignore": false,
-        "authors": "WJ Ripple, C Wolf, TM Newsome, M Galetti, M Alamgir, E Crist, MI Mahmoud, WF Laurance, et al. (including 15364 others including <G Likens>)",
+        "authors": "WJ Ripple, C Wolf, TM Newsome, M Galetti, M Alamgir, E Crist, MI Mahmoud, WF Laurance, <...G Likens...15364>",
         "year": 2022,
         "title": "World scientists’ warning to humanity: a second notice",
         "citation_id": "1303729276144544034",
@@ -492,7 +492,7 @@
     },
     {
         "ignore": false,
-        "authors": "WJ Ripple, C Wolf, TM Newsome, P Barnard, WR Moomaw. et al. (11258 others includeing <G Likens>)",
+        "authors": "WJ Ripple, C Wolf, TM Newsome, P Barnard, WR Moomaw, <...G Likens..11258>",
         "year": 2020,
         "title": "World scientists’ warning of a climate emergency",
         "citation_id": "16280130483234082888",

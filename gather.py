@@ -1,6 +1,13 @@
 import json, sys, re, sys
 
+#temporary!
+tmpf = open('tmp.txt', 'w')
+tmpf.close()
+
 starting_year = 2015
+
+year_range = None
+#year_range = {'after_year':2021, 'before_year':2023}
 
 # Words in journal titles that should be left as-is and not capitalized (or decapitalized)
 journal_asis = [
@@ -172,20 +179,75 @@ filepaths = {
     'Yuan':          'Yaowu-Yuan-final.json'
 }
 
-def updateCounts(authors, ncites):
-    global person_counts
-    if authors is None:
-        return (False, None)
+def getNumCitations(result):
+    ncites = 0
+    try:
+        ncites = result['ncites']
+    except KeyError:
+        print(result)
+        sys.exit('No key named "ncites"');
+    if ncites is not None and not ncites.__class__.__name__ == 'int':
+        print(result)
+        sys.exit('"ncites" is not an integer');
+    if ncites is None:
+        ncites  = 0
+    return ncites
+
+# Assumes ncites is not None and assumes either result['authors'] or result['bookeditors'] is not None. 
+# Returns dictionary containing:
+# 'authors' (string): formatted authors list (<eeb author name> converted to **eeb author name**)
+# 'surnames' (string): list of just surnames, used to alphabetize entries
+# 'eeb_cite_counts' (vector): each element is a tuple (EEB author surname, citation count)
+def updateCounts(result, ncites):
+    assert ncites is  not None, 'ncites passed to updateCounts was None'
     
+    #global person_counts, cites_vect
+    authors = result['authors']
+    if authors is None:
+        authors = result['bookeditors']
+    assert authors is not None, "Both result['authors'] and result['bookeditors'] passed to updateCounts was None"
+        
     # Split the authors list at the commas
     author_list = authors.split(',')
     
+    # This will hold number of EEB authors on this particular publication
+    num_eeb_authors = 0
+    
+    # This will be a vector of surnames used for sorting bibliographic entries alphabetically
+    # It will be returned concatenated into a string under the key 'surnames' in the returned dictionary
+    surname_vect = []
+    
+    # This will be returned under the key 'eeb_cite_counts' in the returned dictionary
+    eeb_cite_counts = []
+    
+    # This will be returned concatenated into a string under the key 'authors' in the returned dictionary
+    processed_author_vect = []
+    
+    # Process each author in author_list
     for a in author_list:
         astripped = a.strip();
+        
+        # If author is marked as an EEB author, remove brackets around name
+        # (the fact that m is not None tells us later that this author was an EEB author)
         m = re.match('<(.+)>', astripped)
         if m is not None:
             astripped = m.group(1)
+        
+        # Handle papers involving too many authors to list
+        # e.g. <...G Likens...15364>
+        mm = re.match('[.][.][.](.+?)[.][.][.](\d+)', astripped)
+        num_others = 0
+        if mm is not None:
+            astripped = mm.group(1)
+            num_others = int(mm.group(2))
+            #input('astripped = "%s", num_others = %d' % (astripped, num_others))
+        
+        # Split author name at spaces
         eeb_parts = astripped.split()
+        
+        # Separate author name into initials and surname
+        # There are a lot of special cases in which one of the partial_surnames listed
+        # below should be considered as part of the surname
         initials = None
         surname = None
         partial_surnames = ['al', 'Al', 'dalla', 'Dalla', 'da', 'Da', 'de', 'De', 'del', 'Del', 'den', 'Den', 'des', 'Des', 'di', 'Di', 'do', 'Do', 'dos', 'Dos', 'la', 'La', 'le', 'Le', 'san', 'San', 'st', 'St', 'ter', 'Ter', 'van', 'Van', 'von', 'Von']
@@ -210,6 +272,8 @@ def updateCounts(authors, ncites):
         elif len(eeb_parts) == 3:
             ok = False
             if eeb_parts[2] in ['Jr', 'II', 'III']:
+                initials = eeb_parts[0]
+                surname = '%s %s' % (eeb_parts[1], eeb_parts[2])
                 ok = True
             elif eeb_parts[1] in partial_surnames:
                 initials = eeb_parts[0]
@@ -231,34 +295,56 @@ def updateCounts(authors, ncites):
             surname = astripped
         else:
             assert False, 'Could not parse EEB author "%s"' % astripped
-            
-        # See if author a is marked as being an EEB faculty member
-        #m = re.match('<(.+)>', astripped)
+
+        # Add surname to vector of surnames
+        surname_vect.append(surname)
+        
+        # Add author name to vector of formatted author names
+        processed_author = '%s %s' % (initials, surname)
+        if m is not None:
+            # Bold because this is an EEB author
+            processed_author = '**%s %s**' % (initials, surname)
+        if num_others > 0:
+            processed_author = '(%d others including %s)' % (num_others, processed_author)
+        processed_author_vect.append(processed_author)
+        
+        # Check to make sure authors NOT marked as EEB faculty members
+        # are indeed not EEB faculty members
         if m is None:
-            # author a is NOT marked as an EEB faculty member
-            # check to make sure it is really not an EEB faculty member
             if surname in faculty and not astripped in authors_like_faculty:
-                print('"%s" should be marked as EEB faculty?' % astripped)
-                return (True, astripped)
-        else:
-            # author a is marked as an EEB faculty member
+                print(result)
+                sys.exit('author "%s" needs to be bracketed' % astripped)
+
+        # Add citations to returned eeb_cite_counts vector
+        if m is not None:
+            num_eeb_authors += 1
             if surname == 'Lewis':
                 if initials == 'L' or initials == 'LA':
                     surname = 'LLewis'
                 elif initials == 'P' or initials == 'PO':
                     surname = 'PLewis'
-            
-            if surname in person_counts.keys():
-                person_counts[surname]['works'] += 1
-                if ncites is not None:
-                    person_counts[surname]['cites'] += ncites
-            else:
-                if ncites is not None:
-                    person_counts[surname] = {'works':1,'cites':ncites}
-                else:
-                    person_counts[surname] = {'works':1,'cites':0}
-    
-    return (True, None)
+        
+            eeb_cite_counts.append((surname, ncites))
+       
+    # Concatenate surnames into a surnames_str that is returned          
+    try:
+        surnames_str = ','.join(surname_vect)
+    except TypeError:
+        print(report)
+        sys.exit('Could not join surnames of authors into a string')
+        
+    # Concatenate processed_authors_list into a processed_author_str that is returned
+    processed_author_str = ', '.join(processed_author_vect)
+
+    # Check to ensure that every publication has at least one EEB author        
+    if num_eeb_authors == 0:
+        print('num_eeb_authors == 0:')
+        print('  authors: %s' % authors)
+        print('  surnames_str: %s' % surnames_str)
+        print(result)
+        sys.exit('This publication has no EEB authors')
+                
+    return {'authors':processed_author_str, 'surnames':surnames_str, 'eeb_cite_counts':eeb_cite_counts}
     
 def checkJournalNames(journalf, journal):
     if journal is None:
@@ -353,6 +439,7 @@ bibentries = []
 titles_seen = {}
 title_lookup = {}
 person_counts = {}
+cites_vect = []
 
 chosen_ones = singleton
 if chosen_ones is None:
@@ -366,25 +453,14 @@ for f in chosen_ones:
     for result in results:
         if not result['ignore']:
             # Add to counts for EEB authors
-            ncites = 0
-            try:
-                ncites = result['ncites']
-            except KeyError:
-                print(result)
-                sys.exit('No key named "ncites"');
-            if ncites is not None and not ncites.__class__.__name__ == 'int':
-                print(result)
-                sys.exit('"ncites" is not an integer');
-            has_authors,eeb_author_not_bracketed = updateCounts(result['authors'],ncites)
-            if eeb_author_not_bracketed is not None:
-                print(result)
-                sys.exit('author "%s" needs to be bracketed' % eeb_author_not_bracketed)
-            if result['authors'] is None:
-                authors = None
-            else:
-                authors,nsubs = re.subn(r'<(.+?)>', r'**\1**', result['authors'])
+            has_authors = result['authors'] is not None
+            
+            ncites = getNumCitations(result)
+            update_results = updateCounts(result,ncites)
+            authors = update_results['authors']
+            surnames = update_results['surnames']
+
             year    = result['year']
-            #title   = re.sub(r'\b_(.+?)_\b', r'<em>\1</em>', result['title'])
             title   = result['title']
 
             journal = result['journal']
@@ -395,6 +471,8 @@ for f in chosen_ones:
 
             volume  = result['volume']
             number  = result['number']
+            
+            # See if this is an edited volume
             try:
                 booktitle      = result['booktitle']
                 bookeditors    = result['bookeditors']
@@ -407,22 +485,24 @@ for f in chosen_ones:
                 bookpublisher  = None
                 bookcity       = None
                 bookisbn       = None
+                
+            # If edited volume in which one of the editors is EEB faculty, and 
+            # if result['authors'] is None, replace bookeditors with authors 
+            # processed by updateCounts
+            if not has_authors:
+                if bookeditors is not None:
+                    bookeditors = authors
+                else:
+                    print(result)
+                    sys.exit('authors for above paper was None')
+            
             bpage   = result['bpage']
             epage   = result['epage']
             article = result['article']
             doi     = result['doi']
             url     = result['url']
             citation_id = result['citation_id']
-                
-            already_seen = False
-            if title in titles_seen.keys():
-                already_seen = True
-            else:
-                titles_seen[title] = f
-                
-            if ncites is not None and not already_seen:
-                ncites_dept += ncites
-            
+                            
             # Construct bibliography string
             yearless = False
             exception = False
@@ -431,7 +511,7 @@ for f in chosen_ones:
             iseditedvolume = False
             isbook = False
             bib = ''
-            if authors:
+            if has_authors:
                 bib += '%s.' % authors
             if year:
                 bib += ' %s.' % year
@@ -446,7 +526,7 @@ for f in chosen_ones:
             elif journal and volume == 'inpress':
                 inpress = True
                 bib += ' %s (in press).' % journal
-            elif authors is None and (booktitle and bookeditors and bookpublisher and bookcity and bpage and epage):
+            elif (not has_authors) and (booktitle and bookeditors and bookpublisher and bookcity and bpage and epage):
                 iseditedvolume = True
                 bib = '%s (eds.) %s. %s. %s, %s.' % (bookeditors, year, booktitle, bookpublisher, bookcity)
             elif booktitle and bookeditors and bookpublisher and bookcity and bpage and epage:
@@ -467,69 +547,111 @@ for f in chosen_ones:
                     bib += '.'
             else:
                 exception = True
+                
+            # Add DOI or ISBN if available
             if doi:
                 bib += ' [https://doi.org/%s](https://doi.org/%s)' % (doi,doi)
             elif bookisbn:
                 bib += ' ISBN: %s.' % bookisbn
+                
+            # Add number of citations
+            if ncites == 1:
+                bib += ' (1 citation)'
+            else:
+                bib += ' (%d citations)' % ncites
             bib += '\n'
             
             if not has_authors:
                 nexceptions += 1
                 dumpException(exceptf, f, 'NO AUTHORS!', year, title, journal, volume, bpage, epage, doi)
+                
+            if yearless or (year_range is None) or (year > year_range['after_year'] and year < year_range['before_year']):
+                already_seen = False
+                if title in titles_seen.keys():
+                    already_seen = True
+                else:
+                    titles_seen[title] = f
+                
+                # Update citation counts
+                if ncites is not None and not already_seen:
+                    ncites_dept += ncites
+                cite_counts = update_results['eeb_cite_counts']
+                for entry in cite_counts:
+                    surname = entry[0]
+                    ncites = entry[1]
+                    
+                    assert surname is not None
+                    assert ncites.__class__.__name__ == 'int', 'ncites is a %s' % ncites.__class__.__name__
+                    
+                    # Update person_counts, incrementing number of papers ('works') 
+                    # and number of citations ('cites')
+                    if surname in person_counts.keys():
+                        person_counts[surname]['works'] += 1
+                        person_counts[surname]['cites'] += ncites
+                    else:
+                        person_counts[surname] = {'works':1, 'cites':ncites}
 
-            # Save in bibentries list
-            if yearless:
-                nyearless += 1
-                nexceptions += 1
-                dumpException(exceptf, f, authors, year, title, journal, volume, bpage, epage, doi)
-            elif exception:
-                nexceptions += 1
-                dumpException(exceptf, f, authors, year, title, journal, volume, bpage, epage, doi)
-            elif ischapter:
-                entry = (year, bib)
-                if already_seen:
-                    nduplicates += 1
-                    dupf.write('\n-------------------\n')
-                    dupf.write('Previous: %s\n' % titles_seen[title])
-                    dupf.write('~~> %s\n' % bib)
-                    dupf.write('Current: %s\n' % f)
-                    dupf.write('~~> %s\n' % title_lookup[title])
-                else:
-                    nchapters += 1
+                # Update cites_vect, adding tuple (num EEB authors, num citations)
+                cites_vect.append((len(cite_counts),ncites))
+                
+                #temporary!
+                #tmpf = open('tmp.txt', 'a')
+                #tmpf.write()
+                #tmpf.close()
+                    
+                # Save in bibentries list
+                if yearless:
+                    nyearless += 1
+                    nexceptions += 1
+                    dumpException(exceptf, f, authors, year, title, journal, volume, bpage, epage, doi)
+                elif exception:
+                    nexceptions += 1
+                    dumpException(exceptf, f, authors, year, title, journal, volume, bpage, epage, doi)
+                elif ischapter:
+                    entry = (year, surnames, bib)
+                    if already_seen:
+                        nduplicates += 1
+                        dupf.write('\n-------------------\n')
+                        dupf.write('Previous: %s\n' % titles_seen[title])
+                        dupf.write('~~> %s\n' % bib)
+                        dupf.write('Current: %s\n' % f)
+                        dupf.write('~~> %s\n' % title_lookup[title])
+                    else:
+                        nchapters += 1
+                        bibentries.append(entry)
+                        title_lookup[title] = bib
+                elif isbook:
+                    nbooks += 1
+                    entry = (year, surnames, bib)
                     bibentries.append(entry)
-                    title_lookup[title] = bib
-            elif isbook:
-                nbooks += 1
-                entry = (year, bib)
-                bibentries.append(entry)
-            elif iseditedvolume:
-                entry = (year, bib)
-                if already_seen:
-                    nduplicates += 1
-                    dupf.write('\n-------------------\n')
-                    dupf.write('Previous: %s\n' % titles_seen[title])
-                    dupf.write('~~> %s\n' % bib)
-                    dupf.write('Current: %s\n' % f)
-                    dupf.write('~~> %s\n' % title_lookup[title])
+                elif iseditedvolume:
+                    entry = (year, surnames, bib)
+                    if already_seen:
+                        nduplicates += 1
+                        dupf.write('\n-------------------\n')
+                        dupf.write('Previous: %s\n' % titles_seen[title])
+                        dupf.write('~~> %s\n' % bib)
+                        dupf.write('Current: %s\n' % f)
+                        dupf.write('~~> %s\n' % title_lookup[title])
+                    else:
+                        neditedvolumes += 1
+                        bibentries.append(entry)
+                        title_lookup[title] = bib
                 else:
-                    neditedvolumes += 1
-                    bibentries.append(entry)
-                    title_lookup[title] = bib
-            else:
-                entry = (year, bib)
-                if already_seen:
-                    nduplicates += 1
-                    dupf.write('\n-------------------\n')
-                    dupf.write('Previous: %s\n' % titles_seen[title])
-                    dupf.write('~~> %s\n' % bib)
-                    dupf.write('Current: %s\n' % f)
-                    dupf.write('~~> %s\n' % title_lookup[title])
-                else:
-                    narticles += 1
-                    bibentries.append(entry)
-                    title_lookup[title] = bib
-            if inpress:
-                ninpress += 1
+                    entry = (year, surnames, bib)
+                    if already_seen:
+                        nduplicates += 1
+                        dupf.write('\n-------------------\n')
+                        dupf.write('Previous: %s\n' % titles_seen[title])
+                        dupf.write('~~> %s\n' % bib)
+                        dupf.write('Current: %s\n' % f)
+                        dupf.write('~~> %s\n' % title_lookup[title])
+                    else:
+                        narticles += 1
+                        bibentries.append(entry)
+                        title_lookup[title] = bib
+                if inpress:
+                    ninpress += 1
                     
 exceptf.close()
 dupf.close()
@@ -540,8 +662,8 @@ bibentries.sort()
 gatherf = open('bibliography.md', 'w')
 gatherf.write('\nSorted bibliographic entires:\n')
 ngood = len(bibentries)
-for b in bibentries:
-    gatherf.write('%s\n' % b[1])
+for i,b in enumerate(bibentries):
+    gatherf.write('%d. %s\n' % (i+1, b[2]))
 gatherf.close()
 
 print('nyearless      = %d' % nyearless)
@@ -570,8 +692,11 @@ for k in person_counts.keys():
     counts.append((person_counts[k]['cites'], k))
 counts.sort()
 counts.reverse()
+ncites_cum = 0.0
 for c,p in counts:
     print('%6d %s' % (c,p))
+    ncites_cum += c
+print('Total number of citations (not corrected for overcounting): %d' % ncites_cum)
 print('Total number of citations (avoiding overcounting): %d' % ncites_dept)
 
 print('\nCitations/paper:')
@@ -582,3 +707,19 @@ counts.sort()
 counts.reverse()
 for c,p in counts:
     print('%6d %s' % (c,p))
+
+print('\nCitations check:')
+cites_vect_length = len(cites_vect)
+print('%12d cites_vect_length' % cites_vect_length)
+print('%12d ngood + nduplicates' % (ngood + nduplicates,))
+#total_cites = 0
+total_cites_x_eeb_authors = 0
+for x in cites_vect:
+    #total_cites += x[1]
+    total_cites_x_eeb_authors += x[0]*x[1]
+#print('total_cites: %d' % total_cites)  # this number is not relevant
+print('%12d total_cites_x_eeb_authors' % total_cites_x_eeb_authors)
+print('%12d Total number of citations (not corrected for overcounting)' % ncites_cum)
+    
+    
+
