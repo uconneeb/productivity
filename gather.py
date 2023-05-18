@@ -1,5 +1,10 @@
 import json, sys, re, sys
 
+use_docx = True
+
+if use_docx:
+    import docx
+
 #temporary!
 tmpf = open('tmp.txt', 'w')
 tmpf.close()
@@ -178,6 +183,53 @@ filepaths = {
     'Yarish':        'Charles-Yarish-final.json',
     'Yuan':          'Yaowu-Yuan-final.json'
 }
+
+def add_hyperlink(paragraph, url, text, color, underline):
+    """
+    A function that places a hyperlink within a paragraph object.
+
+    :param paragraph: The paragraph we are adding the hyperlink to.
+    :param url: A string containing the required url
+    :param text: The text displayed for the url
+    :return: The hyperlink object
+    """
+    if use_docx:
+        # This gets access to the document.xml.rels file and gets a new relation id value
+        part = paragraph.part
+        r_id = part.relate_to(url, docx.opc.constants.RELATIONSHIP_TYPE.HYPERLINK, is_external=True)
+
+        # Create the w:hyperlink tag and add needed values
+        hyperlink = docx.oxml.shared.OxmlElement('w:hyperlink')
+        hyperlink.set(docx.oxml.shared.qn('r:id'), r_id, )
+
+        # Create a w:r element
+        new_run = docx.oxml.shared.OxmlElement('w:r')
+
+        # Create a new w:rPr element
+        rPr = docx.oxml.shared.OxmlElement('w:rPr')
+
+        # Add color if it is given
+        if not color is None:
+          c = docx.oxml.shared.OxmlElement('w:color')
+          c.set(docx.oxml.shared.qn('w:val'), color)
+          rPr.append(c)
+
+        # Remove underlining if it is requested
+        if not underline:
+          u = docx.oxml.shared.OxmlElement('w:u')
+          u.set(docx.oxml.shared.qn('w:val'), 'none')
+          rPr.append(u)
+
+        # Join all the xml elements together add add the required text to the w:r element
+        new_run.append(rPr)
+        new_run.text = text
+        hyperlink.append(new_run)
+
+        paragraph._p.append(hyperlink)
+    else:
+        hyperlink = '%s (%s)' % (text, url)
+        
+    return hyperlink
 
 def getNumCitations(result):
     ncites = 0
@@ -550,7 +602,10 @@ for f in chosen_ones:
                 
             # Add DOI or ISBN if available
             if doi:
-                bib += ' [https://doi.org/%s](https://doi.org/%s)' % (doi,doi)
+                if use_docx:
+                    bib += ' <<<https://doi.org/%s>>>' % doi
+                else:
+                    bib += ' [https://doi.org/%s](https://doi.org/%s)' % (doi,doi)
             elif bookisbn:
                 bib += ' ISBN: %s.' % bookisbn
                 
@@ -658,13 +713,35 @@ dupf.close()
 journalf.close()
 
 bibentries.sort()
-
-gatherf = open('bibliography.md', 'w')
-gatherf.write('\nSorted bibliographic entires:\n')
 ngood = len(bibentries)
-for i,b in enumerate(bibentries):
-    gatherf.write('%d. %s\n' % (i+1, b[2]))
-gatherf.close()
+
+if use_docx:
+    emu = 914400 # equals 1 inch  (not used currently, but useful for specifying widths of table cells)
+    doc = docx.Document()
+    for i,b in enumerate(bibentries):
+        bibentry = b[2]
+        parts = re.split('[*][*](.+?)[*][*]', bibentry)
+        para = doc.add_paragraph()
+        para.add_run('%d. ' % (i+1,))
+        for i,p in enumerate(parts):
+            if i % 2 == 0:
+                subparts = re.split('<<<(.+?)>>>', p)
+                if len(subparts) == 3:
+                    para.add_run(subparts[0])
+                    url = subparts[1]
+                    add_hyperlink(para, url, url, '0000FF', False)
+                    para.add_run(subparts[2])
+                else:
+                    para.add_run(p)
+            else:
+                para.add_run(p).bold = True
+    doc.save('bibliography.docx')
+else:
+    gatherf = open('bibliography.md', 'w')
+    gatherf.write('\nSorted bibliographic entires:\n')
+    for i,b in enumerate(bibentries):
+        gatherf.write('%d. %s\n' % (i+1, b[2]))
+    gatherf.close()
 
 print('nyearless      = %d' % nyearless)
 print('nexceptions    = %d' % nexceptions)
@@ -721,5 +798,3 @@ for x in cites_vect:
 print('%12d total_cites_x_eeb_authors' % total_cites_x_eeb_authors)
 print('%12d Total number of citations (not corrected for overcounting)' % ncites_cum)
     
-    
-
