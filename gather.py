@@ -131,6 +131,7 @@ faculty = [
     'Seemann',
     'Silander',
     'Simon',
+    'Skeen',
     'Tingley',
     'Trumbo',
     'Turchin',
@@ -174,6 +175,7 @@ filepaths = {
     'Seemann':       'Jeff-Seemann-final.json',
     'Silander':      'John-Silander-final.json',
     'Simon':         'Chris-Simon-final.json',
+    'Skeen':         'Heather-Skeen-final.json',
     'Tingley':       'Morgan-Tingley-final.json',
     'Trumbo':        'Stephen-Trumbo-final.json',
     'Turchin':       'Peter-Turchin-final.json',
@@ -543,9 +545,14 @@ for f in chosen_ones:
             # If edited volume in which one of the editors is EEB faculty, and 
             # if result['authors'] is None, replace bookeditors with authors 
             # processed by updateCounts
+            isbook = False
             if not has_authors:
                 if bookeditors is not None:
+                    if not booktitle or not bookpublisher:
+                        print(result)
+                        sys.exit('book should have title and publisher')
                     bookeditors = authors
+                    isbook = True
                 else:
                     print(result)
                     sys.exit('authors for above paper was None')
@@ -563,10 +570,11 @@ for f in chosen_ones:
             inpress = False
             ischapter = False
             iseditedvolume = False
-            isbook = False
             bib = ''
             if has_authors:
                 bib += '%s.' % authors
+            elif isbook:
+                bib += '%s.' % bookeditors
             if year:
                 bib += ' %s.' % year
             else:
@@ -589,12 +597,11 @@ for f in chosen_ones:
             elif booktitle and bookeditors and bookpublisher and bpage and epage:
                 ischapter = True
                 bib += ' pp. %s-%s in: %s, %s (eds.) %s.' % (bpage, epage, booktitle, bookeditors, bookpublisher)
-            elif booktitle and bookpublisher:
+            elif booktitle and bookpublisher and not isbook:
                 ischapter = True
                 bib += ' In: %s, %s' % (booktitle, bookpublisher)
-            elif bookisbn and bookpublisher:
-                isbook = True
-                bib += ' %s' % bookpublisher
+            elif isbook:
+                bib += ' %s. %s' % (booktitle, bookpublisher)
                 if bookcity:
                     bib += ', %s' % bookcity
                 else:
@@ -618,7 +625,7 @@ for f in chosen_ones:
                 bib += ' (%d citations)' % ncites
             bib += '\n'
             
-            if not has_authors:
+            if not has_authors and not isbook:
                 nexceptions += 1
                 dumpException(exceptf, f, 'NO AUTHORS!', year, title, journal, volume, bpage, epage, doi)
                 
