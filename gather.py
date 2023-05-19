@@ -1,8 +1,10 @@
+# TODO: add check for "\u2026" in journal field
 import json, sys, re, sys
 
 use_docx = True
 
 if use_docx:
+    # see https://python-docx.readthedocs.io/en/latest/
     import docx
 
 #temporary!
