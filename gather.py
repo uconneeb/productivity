@@ -19,6 +19,7 @@ year_range = None
 # Words in journal titles that should be left as-is and not capitalized (or decapitalized)
 journal_asis = [
     'and', 
+    'y',
     'in', 
     'on', 
     'of', 
@@ -34,6 +35,7 @@ journal_asis = [
     'BioScience',
     'MBio',
     'ISME',
+    'ICES',
     'PLoS',
     'PeerJ',
     'BMC',
@@ -96,6 +98,7 @@ authors_like_faculty = [
     'A Simon',
     'MF Simon',
     'B Wells',
+    'RD Wells',
     'Z Yuan'
 ]
 
@@ -120,6 +123,7 @@ faculty = [
     'Holsinger',
     'Jockusch',
     'Jones',
+    'Klarian',
     'Knutie',
     'LewisL',
     'LewisP',
@@ -164,6 +168,7 @@ filepaths = {
     'Holsinger':     'Kent-Holsinger-final.json',
     'Jockusch':      'Elizabeth-Jockusch-final.json',
     'Jones':         'Cynthia-Jones-final.json',
+    'Klarian':       'Sebastian-Klarian-final.json',
     'Knutie':        'Sarah-Knutie-final.json',
     'LewisL':        'Louise-Lewis-final.json',
     'LewisP':        'Paul-Lewis-final.json',
