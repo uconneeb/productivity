@@ -545,7 +545,7 @@
     },
     {
         "ignore": false,
-        "authors": "C Merow, <MC Urban>",
+        "authors": "<C Merow>, <MC Urban>",
         "year": 2020,
         "title": "Seasonality and uncertainty in global COVID-19 growth rates",
         "citation_id": "8aJp2VQAAAAJ:dshw04ExmUIC",
@@ -657,7 +657,7 @@
     },
     {
         "ignore": false,
-        "authors": "<MC Urban>, C Merow, <JL Wegrzyn>, BS Maitner, D Corcoran",
+        "authors": "<MC Urban>, <C Merow>, <JL Wegrzyn>, BS Maitner, D Corcoran",
         "year": 2021,
         "title": "How to publish at pandemic speed",
         "citation_id": "8aJp2VQAAAAJ:WbkHhVStYXYC",
@@ -705,7 +705,7 @@
     },
     {
         "ignore": false,
-        "authors": "C Merow, B Boyle, BJ Enquist, X Feng, JM Kass, BS Maitner, B McGill, H Owens, DS Park, A Paz, GE Pinilla-Buitrago, <MC Urban>, S Varela, AM Wilson",
+        "authors": "<C Merow>, B Boyle, BJ Enquist, X Feng, JM Kass, BS Maitner, B McGill, H Owens, DS Park, A Paz, GE Pinilla-Buitrago, <MC Urban>, S Varela, AM Wilson",
         "year": 2023,
         "title": "Better incentives are needed to reward academic software development",
         "citation_id": "8aJp2VQAAAAJ:Y5dfb0dijaUC",

@@ -633,7 +633,7 @@
     },
     {
         "ignore": true,
-        "authors": "D Corcoran, MC Urban, <J Wegrzyn>, C Merow",
+        "authors": "D Corcoran, MC Urban, <J Wegrzyn>, <C Merow>",
         "year": 2020,
         "title": "Virus evolution affected early COVID-19 spread",
         "citation_id": "vV1_cjUAAAAJ:q3SxJD15z-gC",
@@ -793,7 +793,7 @@
     },
     {
         "ignore": false,
-        "authors": "<MC Urban>, C Merow, <JL Wegrzyn>, BS Maitner, D Corcoran",
+        "authors": "<MC Urban>, <C Merow>, <JL Wegrzyn>, BS Maitner, D Corcoran",
         "year": 2021,
         "title": "How to publish at pandemic speed",
         "citation_id": "vV1_cjUAAAAJ:Cv-mv52rCCkC",
