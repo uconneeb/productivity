@@ -1,4 +1,3 @@
-# TODO: add check for "\u2026" in journal field
 import json, sys, re, sys
 
 use_docx = True
@@ -67,6 +66,7 @@ authors_like_faculty = [
     'M Anderson',
     'MKJ Anderson',
     'R Anderson',
+    'RA Anderson',
     'RL Anderson',
     'RM Anderson',
     'RP Anderson',
@@ -413,9 +413,13 @@ def updateCounts(result, ncites):
                 
     return {'authors':processed_author_str, 'surnames':surnames_str, 'eeb_cite_counts':eeb_cite_counts}
     
-def checkJournalNames(journalf, journal):
+def checkJournalName(journalf, journal):
     if journal is None:
         return None
+        
+    # check for "\u2026" or elipses in journal field
+    if '2026' in journal or '...' in journal:
+        sys.exit('journal = "%s"' % journal);
         
     diff = ord('a') - ord('A')
     ordA = ord('A')
@@ -531,7 +535,7 @@ for f in chosen_ones:
             title   = result['title']
 
             journal = result['journal']
-            good_journal_name = checkJournalNames(journalf, journal)
+            good_journal_name = checkJournalName(journalf, journal)
             if not good_journal_name == journal:
                 print(result)
                 sys.exit('bad journal name: "%s" --> "%s"' % (journal,good_journal_name))
@@ -591,7 +595,10 @@ for f in chosen_ones:
             else:
                 yearless = True
             if title:
-                bib += ' %s.' % title
+                if title[-1] in ['?','!']:
+                    bib += ' %s' % title
+                else:
+                    bib += ' %s.' % title
             if journal and volume and bpage and epage:
                 bib += ' %s %s:%s-%s.' % (journal, volume, bpage, epage)
             elif journal and volume and article:
@@ -632,7 +639,7 @@ for f in chosen_ones:
             # Add number of citations
             if ncites == 1:
                 bib += ' (1 citation)'
-            else:
+            elif ncites > 1:
                 bib += ' (%d citations)' % ncites
             bib += '\n'
             
@@ -735,26 +742,73 @@ journalf.close()
 bibentries.sort()
 ngood = len(bibentries)
 
+def splitAndCategorize(bib_parts, left_delim, right_delim, category):
+    regex_pattern = '%s(.+?)%s' % (left_delim, right_delim)
+    returned_vect = []
+    
+    # Loop through all parts
+    for bibpart in bib_parts:
+        
+        # Only consider parts that are still uncategorized
+        if bibpart['categ'] == 'uncategorized':
+            
+            # Split string on pattern
+            parts = re.split(regex_pattern, bibpart['text'])
+            
+            # Create dict for each part
+            for i,p in enumerate(parts):
+                if i % 2 == 0:
+                    # Even indices are still uncategorized
+                    returned_vect.append({'categ':'uncategorized', 'text':p})
+                else:
+                    # Odd indices are specified category
+                    returned_vect.append({'categ':category, 'text':p})
+                    
+        else:
+            returned_vect.append(bibpart)    
+                     
+    return returned_vect
+
 if use_docx:
     emu = 914400 # equals 1 inch  (not used currently, but useful for specifying widths of table cells)
     doc = docx.Document()
+    new_way = True
     for i,b in enumerate(bibentries):
         bibentry = b[2]
-        parts = re.split('[*][*](.+?)[*][*]', bibentry)
         para = doc.add_paragraph()
         para.add_run('%d. ' % (i+1,))
-        for i,p in enumerate(parts):
-            if i % 2 == 0:
-                subparts = re.split('<<<(.+?)>>>', p)
-                if len(subparts) == 3:
-                    para.add_run(subparts[0])
-                    url = subparts[1]
-                    add_hyperlink(para, url, url, '0000FF', False)
-                    para.add_run(subparts[2])
+        if new_way:
+            bibparts = [{'categ':'uncategorized', 'text':bibentry}]
+            bibparts = splitAndCategorize(bibparts, '[*][*]', '[*][*]', 'bold')
+            bibparts = splitAndCategorize(bibparts, '_', '_', 'italic')
+            bibparts = splitAndCategorize(bibparts, '<<<', '>>>', 'url')
+            for i,p in enumerate(bibparts):
+                if p['categ'] == 'uncategorized':
+                    para.add_run(p['text'])
+                elif p['categ'] == 'bold':
+                    para.add_run(p['text']).bold = True
+                elif p['categ'] == 'italic':
+                    para.add_run(p['text']).italic = True
+                elif p['categ'] == 'url':
+                    add_hyperlink(para, p['text'], p['text'], '0000FF', False)
                 else:
-                    para.add_run(p)
-            else:
-                para.add_run(p).bold = True
+                    sys.exit('unrecognized category "%s"' % p['categ'])
+        else:
+            parts = re.split('[*][*](.+?)[*][*]', bibentry)
+            para = doc.add_paragraph()
+            para.add_run('%d. ' % (i+1,))
+            for i,p in enumerate(parts):
+                if i % 2 == 0:
+                    subparts = re.split('<<<(.+?)>>>', p)
+                    if len(subparts) == 3:
+                        para.add_run(subparts[0])
+                        url = subparts[1]
+                        add_hyperlink(para, url, url, '0000FF', False)
+                        para.add_run(subparts[2])
+                    else:
+                        para.add_run(p)
+                else:
+                    para.add_run(p).bold = True
     doc.save('bibliography.docx')
 else:
     gatherf = open('bibliography.md', 'w')
