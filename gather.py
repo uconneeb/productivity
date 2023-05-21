@@ -824,6 +824,9 @@ for f in faculty:
                         bibentries.append(entry)
                         title_lookup[title] = bib
                 if inpress:
+                    #print("\n~~> in-press entry:")
+                    #print(bib)
+                    #print('\n')
                     ninpress += 1
                     
 exceptf.close()
@@ -917,7 +920,7 @@ print('nchapters      = %d' % nchapters)
 print('nbooks         = %d' % nbooks)
 print('neditedvolumes = %d' % neditedvolumes)
 print('ngood          = %d' % ngood)
-print('narticles + nchapters + nbooks + neditedvolumes= %d' % (narticles + nchapters + nbooks + neditedvolumes,))
+print('narticles + nchapters + nbooks + neditedvolumes = %d' % (narticles + nchapters + nbooks + neditedvolumes,))
 
 print('\nPerson counts:')
 counts = []
