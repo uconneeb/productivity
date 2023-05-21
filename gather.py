@@ -15,6 +15,11 @@ starting_year = 2015
 year_range = None
 #year_range = {'after_year':2021, 'before_year':2023}
 
+# Cases in which an EEB author should not be bolded (out of date range)
+bracketing_exceptions = {
+    '10.1017/S0959270921000241':'Tingley'
+}
+
 # Words in journal titles that should be left as-is and not capitalized (or decapitalized)
 journal_asis = [
     'and', 
@@ -65,6 +70,7 @@ authors_like_faculty = [
     'J Anderson',
     'M Anderson',
     'MKJ Anderson',
+    'PA Anderson',
     'R Anderson',
     'RA Anderson',
     'RL Anderson',
@@ -98,6 +104,11 @@ authors_like_faculty = [
     'DM Wagner',
     'M Wagner',
     'V Wagner',
+    'AM Wilson',
+    'KA Wilson',
+    'G Wilson',
+    'S Wilson',
+    'SJ Wilson',
     'CB Schultz',
     'A Simon',
     'MF Simon',
@@ -106,7 +117,15 @@ authors_like_faculty = [
     'Z Yuan'
 ]
 
-singleton = None #['Bagchi']
+# List of faculty to include
+# Excluding these from consideration (either retired too long or been in EEB not long enough):
+#   DiCecco
+#   Heyduk
+#   Kremer
+#   McAssey
+#   Streams
+#   Taegen
+#   Webster
 faculty = [
     'Anderson',
     'Bagchi',
@@ -119,6 +138,8 @@ faculty = [
     'Davis',
     'Diggle',
     'Elphick',
+    'Finiguerra',
+    #'Fry',
     'Fusco',
     'GarciaRobledo',
     'Goffinet',
@@ -132,8 +153,10 @@ faculty = [
     'LewisL',
     'LewisP',
     'Les',
-    'Likens',
+    #'Likens',
     'Merow',
+    #'PrestonBerlin',
+    'Rubega',
     'Schlichting',
     'Schultz',
     'Schwenk',
@@ -149,9 +172,62 @@ faculty = [
     'Wegrzyn',
     'Wells',
     'Willig',
+    #'Wilson',
     'Yarish',
     'Yuan'
 ]
+
+# Which years to include (inclusive) for each faculty member
+years_included = {
+    'Anderson':       (2015,2022),
+    'Bagchi':         (2015,2022),
+    'Bolnick':        (2018,2022), # restricted
+    'Bush':           (2015,2022),
+    'Caira':          (2015,2022),
+    'Chazdon':        (2015,2022),
+    'Colwell':        (2015,2022),
+    'Cooley':         (2015,2022),
+    'Davis':          (2015,2022),
+    'Diggle':         (2015,2022),
+    'Elphick':        (2015,2022),
+    'Finiguerra':     (2015,2022),
+    #'Fry':           (2015,2022),
+    'Fusco':          (2022,2022), # restricted
+    'GarciaRobledo':  (2015,2022),
+    'Goffinet':       (2015,2022),
+    'Henry':          (2015,2022),
+    'Herrick':        (2015,2022),
+    'Holsinger':      (2015,2022),
+    'Jockusch':       (2015,2022),
+    'Jones':          (2015,2022),
+    'Klarian':        (2018,2022), # restricted
+    'Knutie':         (2017,2022), # restricted
+    'LewisL':         (2015,2022),
+    'LewisP':         (2015,2022),
+    'Les':            (2015,2022),
+    #'Likens':         (2015,2022),
+    'Merow':          (2018,2022), # restricted
+    #'PrestonBerlin': (2015,2022),
+    'Rubega':         (2015,2022),
+    'Schlichting':    (2015,2022),
+    'Schultz':        (2015,2022),
+    'Schwenk':        (2015,2022),
+    'Seemann':        (2015,2022),
+    'Silander':       (2015,2022),
+    'Simon':          (2015,2022),
+    'Skeen':          (2022,2022), # restricted
+    'Tingley':        (2015,2022),
+    'Trumbo':         (2015,2022),
+    'Turchin':        (2015,2022),
+    'Urban':          (2015,2022),
+    'Wagner':         (2015,2022),
+    'Wegrzyn':        (2015,2022),
+    'Wells':          (2015,2022),
+    'Willig':         (2015,2022),
+    #'Wilson':        (2015,2022),
+    'Yarish':         (2015,2022),
+    'Yuan':           (2015,2022)
+}
 
 filepaths = {
     'Anderson':      'Gregory-Anderson-final.json',
@@ -165,6 +241,8 @@ filepaths = {
     'Davis':         'Miranda-Davis-final.json',
     'Diggle':        'Pamela-Diggle-final.json',
     'Elphick':       'Chris-Elphick-final.json',
+    'Finiguerra':    'Michael-Finiguerra-final.json',
+    #'Fry':           'Adam-Fry-final.json',
     'Fusco':         'Nicole-Fusco-final.json',
     'GarciaRobledo': 'Carlos-GarciaRobledo-final.json',
     'Goffinet':      'Bernard-Goffinet-final.json',
@@ -178,8 +256,10 @@ filepaths = {
     'LewisL':        'Louise-Lewis-final.json',
     'LewisP':        'Paul-Lewis-final.json',
     'Les':           'Donald-Les-final.json',
-    'Likens':        'Gene-Likens-final.json',
+    #'Likens':        'Gene-Likens-final.json',
     'Merow':         'Cory-Merow-final.json',
+    #'PrestonBerlin': 'Susan-PrestonBerlin-final.json',
+    'Rubega':        'Margaret-Rubega-final.json',
     'Schlichting':   'Carl-Schlichting-final.json',
     'Schultz':       'Eric-Schultz-final.json',
     'Schwenk':       'Kurt-Schwenk-final.json',
@@ -195,6 +275,7 @@ filepaths = {
     'Wegrzyn':       'Jill-Wegrzyn-final.json',
     'Wells':         'Kentwood-Wells-final.json',
     'Willig':        'Michael-Willig-final.json',
+    #'Wilson':        'Rod-Wilson-final.json',
     'Yarish':        'Charles-Yarish-final.json',
     'Yuan':          'Yaowu-Yuan-final.json'
 }
@@ -378,9 +459,13 @@ def updateCounts(result, ncites):
         # Check to make sure authors NOT marked as EEB faculty members
         # are indeed not EEB faculty members
         if m is None:
-            if surname in faculty and not astripped in authors_like_faculty:
-                print(result)
-                sys.exit('author "%s" needs to be bracketed' % astripped)
+            if (surname in faculty) and (not astripped in authors_like_faculty):
+                doi = result['doi']
+                if doi in bracketing_exceptions.keys() and surname == bracketing_exceptions[doi]:
+                    print('Not bracketing author "%s" because doi %s was in bracketing exceptions list' % (surname, doi))
+                else:
+                    print(result)
+                    sys.exit('author "%s" needs to be bracketed' % astripped)
 
         # Add citations to returned eeb_cite_counts vector
         if m is not None:
@@ -512,17 +597,24 @@ title_lookup = {}
 person_counts = {}
 cites_vect = []
 
-chosen_ones = singleton
-if chosen_ones is None:
-    chosen_ones = faculty
-for f in chosen_ones:
+for f in faculty:
     fn = '%s' % filepaths[f]
     print('Reading file "%s"...' % fn)
     stuff = open(fn, 'r').read()
     results = json.loads(stuff)
     
+    begin_year = years_included[f][0]
+    end_year = years_included[f][1]
+    
     for result in results:
-        if not result['ignore']:
+        year = result['year']
+        
+        #if year < begin_year:
+        #    input('year %d found for "%s" (before begin year %d)' % (year,f,begin_year))
+        #if year > end_year:
+        #    input('year %d found for "%s" (after end year %d)' % (year,f,end_year))
+        
+        if year >= begin_year and year <= end_year and not result['ignore']:
             # Add to counts for EEB authors
             has_authors = result['authors'] is not None
             
@@ -531,7 +623,6 @@ for f in chosen_ones:
             authors = update_results['authors']
             surnames = update_results['surnames']
 
-            year    = result['year']
             title   = result['title']
 
             journal = result['journal']
